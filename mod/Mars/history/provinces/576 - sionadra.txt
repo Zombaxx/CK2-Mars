@@ -1,0 +1,5 @@
+	title = c_sionadra
+	max_settlements = 2
+	culture = bolghar
+	religion = iconoclast
+	b_nadoyan = tribal

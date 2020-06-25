@@ -1,0 +1,5 @@
+	title = c_seretin
+	max_settlements = 4
+	culture = bodpa
+	religion = norse_pagan_reformed
+	b_agisitin = tribal

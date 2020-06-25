@@ -1,0 +1,5 @@
+	title = c_kiperzad
+	max_settlements = 2
+	culture = sephardi
+	religion = lollard
+	b_seneda = tribal

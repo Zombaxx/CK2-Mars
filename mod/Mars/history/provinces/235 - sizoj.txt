@@ -1,0 +1,5 @@
+	title = c_sizoj
+	max_settlements = 2
+	culture = arberian
+	religion = baltic_pagan_reformed
+	b_darya = tribal

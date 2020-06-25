@@ -1,0 +1,5 @@
+	title = c_keis
+	max_settlements = 2
+	culture = sogdian
+	religion = slavic_pagan
+	b_botateg = tribal

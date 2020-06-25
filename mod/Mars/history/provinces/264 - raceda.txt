@@ -1,0 +1,5 @@
+	title = c_raceda
+	max_settlements = 2
+	culture = andalusian_arabic
+	religion = yazidi
+	b_bipamud = tribal

@@ -1,0 +1,5 @@
+	title = c_daxopluk
+	max_settlements = 4
+	culture = georgian
+	religion = qarmatian
+	b_totuke = tribal

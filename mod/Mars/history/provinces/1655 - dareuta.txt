@@ -1,0 +1,5 @@
+	title = c_dareuta
+	max_settlements = 2
+	culture = polish
+	religion = monothelite
+	b_dineth = tribal

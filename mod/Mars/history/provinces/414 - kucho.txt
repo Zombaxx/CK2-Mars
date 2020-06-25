@@ -1,0 +1,5 @@
+	title = c_kucho
+	max_settlements = 4
+	culture = sardinian
+	religion = ibadi
+	b_dinund = tribal

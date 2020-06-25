@@ -1,0 +1,5 @@
+	title = c_eleth
+	max_settlements = 3
+	culture = baloch
+	religion = slavic_pagan_reformed
+	b_biruin = tribal

@@ -1,0 +1,5 @@
+	title = c_atheorma
+	max_settlements = 4
+	culture = afghan
+	religion = color
+	b_winnunes = tribal

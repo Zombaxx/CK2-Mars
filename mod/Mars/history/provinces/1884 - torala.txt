@@ -1,0 +1,5 @@
+	title = c_torala
+	max_settlements = 2
+	culture = finnish
+	religion = finnish_pagan_reformed
+	b_numekel = tribal

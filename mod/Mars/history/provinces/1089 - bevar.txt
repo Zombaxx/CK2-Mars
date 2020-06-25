@@ -1,0 +1,5 @@
+	title = c_bevar
+	max_settlements = 2
+	culture = kanuri
+	religion = lollard
+	b_qorund = tribal

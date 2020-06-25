@@ -1,0 +1,5 @@
+	title = c_enasata
+	max_settlements = 2
+	culture = avar
+	religion = tengri_pagan
+	b_kasia = tribal

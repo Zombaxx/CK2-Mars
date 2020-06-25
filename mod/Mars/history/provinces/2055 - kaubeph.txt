@@ -1,0 +1,5 @@
+	title = c_kaubeph
+	max_settlements = 3
+	culture = romanian
+	religion = pagan
+	b_epetinos = tribal

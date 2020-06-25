@@ -1,0 +1,194 @@
+758.2.1 = {
+	holder = 1000033
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1001820
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_bohija
+}
+
+758.2.4 = {
+	liege = d_ticoriy
+}
+
+758.2.5 = {
+	holder = 1002844
+	law = succ_elective_gavelkind
+	law = cognatic_succession
+}
+
+780.2.1 = {
+	holder = 1004732
+}
+
+822.2.1 = {
+	holder = 1007389
+}
+
+837.2.1 = {
+	holder = 1010315
+}
+
+876.2.1 = {
+	holder = 1011275
+}
+
+891.2.1 = {
+	holder = 1012965
+}
+
+900.2.1 = {
+	holder = 1013850
+}
+
+910.2.1 = {
+	liege = d_lakipa
+}
+
+910.2.2 = {
+	liege = d_bamaim
+}
+
+910.2.3 = {
+	liege = d_amohecca
+}
+
+910.2.4 = {
+	liege = d_qisuslo
+}
+
+910.2.5 = {
+	liege = d_lagine
+}
+
+910.2.6 = {
+	liege = d_wamudo
+}
+
+910.2.7 = {
+	liege = d_bohija
+}
+
+910.2.8 = {
+	holder = 1014371
+}
+
+919.2.1 = {
+	holder = 1014773
+}
+
+945.2.1 = {
+	holder = 1014808
+}
+
+971.2.1 = {
+	liege = d_wamudo
+}
+
+971.2.2 = {
+	liege = d_lagine
+}
+
+971.2.3 = {
+	liege = d_qisuslo
+}
+
+971.2.4 = {
+	liege = d_amohecca
+}
+
+971.2.5 = {
+	holder = 1015872
+}
+
+993.2.1 = {
+	liege = d_qisuslo
+}
+
+993.2.2 = {
+	liege = d_lagine
+}
+
+993.2.3 = {
+	liege = d_wamudo
+}
+
+993.2.4 = {
+	liege = d_bohija
+}
+
+993.2.5 = {
+	holder = 1017157
+}
+
+1013.2.1 = {
+	liege = d_wamudo
+}
+
+1013.2.2 = {
+	liege = d_lagine
+}
+
+1013.2.3 = {
+	liege = d_qisuslo
+}
+
+1013.2.4 = {
+	liege = d_amohecca
+}
+
+1013.2.5 = {
+	holder = 1017969
+}
+
+1034.2.1 = {
+	liege = d_qisuslo
+}
+
+1034.2.2 = {
+	liege = d_lagine
+}
+
+1034.2.3 = {
+	liege = d_wamudo
+}
+
+1034.2.4 = {
+	liege = d_bohija
+}
+
+1034.2.5 = {
+	holder = 1018774
+}
+
+1050.2.1 = {
+	liege = d_wamudo
+}
+
+1050.2.2 = {
+	liege = d_lagine
+}
+
+1050.2.3 = {
+	liege = d_qisuslo
+}
+
+1050.2.4 = {
+	liege = d_amohecca
+}
+
+1050.2.5 = {
+	holder = 1019436
+}
+
+1059.2.1 = {
+	holder = 1020203
+}
+

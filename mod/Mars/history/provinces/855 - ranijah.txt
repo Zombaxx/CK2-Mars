@@ -1,0 +1,5 @@
+	title = c_ranijah
+	max_settlements = 4
+	culture = italian
+	religion = norse_pagan
+	b_aranijah = tribal

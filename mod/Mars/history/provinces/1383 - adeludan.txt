@@ -1,0 +1,5 @@
+	title = c_adeludan
+	max_settlements = 3
+	culture = telugu
+	religion = zikri
+	b_womory = tribal

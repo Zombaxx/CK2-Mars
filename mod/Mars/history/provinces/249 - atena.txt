@@ -1,0 +1,5 @@
+	title = c_atena
+	max_settlements = 2
+	culture = lappish
+	religion = interface_skin
+	b_qeduke = tribal

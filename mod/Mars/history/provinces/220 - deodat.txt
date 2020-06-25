@@ -1,0 +1,5 @@
+	title = c_deodat
+	max_settlements = 3
+	culture = songhay
+	religion = shiite
+	b_rayya = tribal

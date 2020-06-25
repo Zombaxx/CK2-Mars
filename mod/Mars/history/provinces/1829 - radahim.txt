@@ -1,0 +1,5 @@
+	title = c_radahim
+	max_settlements = 2
+	culture = outremer
+	religion = monophysite
+	b_lagache = tribal

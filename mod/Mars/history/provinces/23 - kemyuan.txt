@@ -1,0 +1,5 @@
+	title = c_kemyuan
+	max_settlements = 3
+	culture = panjabi
+	religion = orthodox
+	b_dabdua = tribal

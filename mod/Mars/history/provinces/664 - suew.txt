@@ -1,0 +1,5 @@
+	title = c_suew
+	max_settlements = 3
+	culture = assamese
+	religion = interface_skin
+	b_etoja = tribal

@@ -1,0 +1,5 @@
+	title = c_kamutlu
+	max_settlements = 2
+	culture = hindustani
+	religion = tengri_pagan_reformed
+	b_sulad = tribal

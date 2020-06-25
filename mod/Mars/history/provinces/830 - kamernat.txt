@@ -1,0 +1,5 @@
+	title = c_kamernat
+	max_settlements = 2
+	culture = russian
+	religion = druze
+	b_libulad = tribal

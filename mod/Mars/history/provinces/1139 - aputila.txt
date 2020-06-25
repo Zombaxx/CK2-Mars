@@ -1,0 +1,5 @@
+	title = c_aputila
+	max_settlements = 2
+	culture = alan
+	religion = orthodox
+	b_qolopher = tribal

@@ -1,0 +1,5 @@
+	title = c_kenalih
+	max_settlements = 2
+	culture = catalan
+	religion = fraticelli
+	b_tacin = tribal

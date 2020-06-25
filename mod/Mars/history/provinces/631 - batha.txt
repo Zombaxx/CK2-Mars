@@ -1,0 +1,5 @@
+	title = c_batha
+	max_settlements = 2
+	culture = gujurati
+	religion = pagan
+	b_etyi = tribal

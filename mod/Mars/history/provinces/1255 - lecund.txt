@@ -1,0 +1,5 @@
+	title = c_lecund
+	max_settlements = 2
+	culture = sardinian
+	religion = interface_skin
+	b_sali = tribal

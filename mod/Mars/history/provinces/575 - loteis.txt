@@ -1,0 +1,5 @@
+	title = c_loteis
+	max_settlements = 3
+	culture = han
+	religion = orthodox
+	b_dyae = tribal

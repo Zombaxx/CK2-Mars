@@ -1,0 +1,5 @@
+	title = c_qeanala
+	max_settlements = 3
+	culture = songhay
+	religion = interface_skin
+	b_ramir = tribal

@@ -1,0 +1,5 @@
+	title = c_kanavid
+	max_settlements = 2
+	culture = finnish
+	religion = west_african_pagan
+	b_daraht = tribal

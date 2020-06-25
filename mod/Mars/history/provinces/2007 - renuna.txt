@@ -1,0 +1,5 @@
+	title = c_renuna
+	max_settlements = 2
+	culture = breton
+	religion = catholic
+	b_walit = tribal

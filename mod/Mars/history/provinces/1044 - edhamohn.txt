@@ -1,0 +1,5 @@
+	title = c_edhamohn
+	max_settlements = 2
+	culture = andalusian_arabic
+	religion = mazdaki
+	b_elaxeda = tribal

@@ -1,0 +1,5 @@
+	title = c_tegoger
+	max_settlements = 2
+	culture = panjabi
+	religion = baltic_pagan
+	b_amegint = tribal

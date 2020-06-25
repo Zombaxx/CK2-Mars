@@ -1,0 +1,5 @@
+	title = c_kaham
+	max_settlements = 2
+	culture = ugricbaltic
+	religion = bon
+	b_qyakus = tribal

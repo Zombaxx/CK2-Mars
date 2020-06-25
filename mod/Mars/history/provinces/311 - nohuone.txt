@@ -1,0 +1,5 @@
+	title = c_nohuone
+	max_settlements = 3
+	culture = marathi
+	religion = ibadi
+	b_tanewal = tribal

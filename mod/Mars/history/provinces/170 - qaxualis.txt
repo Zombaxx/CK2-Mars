@@ -1,0 +1,5 @@
+	title = c_qaxualis
+	max_settlements = 4
+	culture = tangut
+	religion = jain
+	b_nith = tribal

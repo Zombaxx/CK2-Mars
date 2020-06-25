@@ -1,0 +1,5 @@
+	title = c_qoreda
+	max_settlements = 2
+	culture = egyptian_arabic
+	religion = pagan
+	b_rubevit = tribal

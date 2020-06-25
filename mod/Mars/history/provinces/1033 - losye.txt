@@ -1,0 +1,5 @@
+	title = c_losye
+	max_settlements = 3
+	culture = karluk
+	religion = paulician
+	b_kaduvje = tribal

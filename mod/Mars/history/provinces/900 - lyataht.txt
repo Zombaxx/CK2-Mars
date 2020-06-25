@@ -1,0 +1,5 @@
+	title = c_lyataht
+	max_settlements = 4
+	culture = catalan
+	religion = messalian
+	b_wyuvele = tribal

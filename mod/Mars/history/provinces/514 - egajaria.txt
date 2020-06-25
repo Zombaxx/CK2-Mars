@@ -1,0 +1,5 @@
+	title = c_egajaria
+	max_settlements = 3
+	culture = georgian
+	religion = tengri_pagan
+	b_saroda = tribal

@@ -1,0 +1,5 @@
+	title = c_weinn
+	max_settlements = 3
+	culture = portuguese
+	religion = nestorian
+	b_dutar = tribal

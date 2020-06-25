@@ -1,0 +1,5 @@
+	title = c_amahegin
+	max_settlements = 2
+	culture = occitan
+	religion = fraticelli
+	b_kekel = tribal

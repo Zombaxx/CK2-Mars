@@ -1,0 +1,5 @@
+	title = c_anyigail
+	max_settlements = 2
+	culture = daju
+	religion = slavic_pagan_reformed
+	b_abijoman = tribal

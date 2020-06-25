@@ -1,0 +1,5 @@
+	title = c_abeneth
+	max_settlements = 3
+	culture = uyghur
+	religion = monothelite
+	b_dareth = tribal

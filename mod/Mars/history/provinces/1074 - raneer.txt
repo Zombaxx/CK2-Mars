@@ -1,0 +1,5 @@
+	title = c_raneer
+	max_settlements = 3
+	culture = portuguese
+	religion = tengri_pagan_reformed
+	b_wumeer = tribal

@@ -1,0 +1,5 @@
+	title = c_bielan
+	max_settlements = 2
+	culture = norwegian
+	religion = bogomilist
+	b_egauftun = tribal

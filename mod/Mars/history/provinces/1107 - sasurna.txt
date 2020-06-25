@@ -1,0 +1,5 @@
+	title = c_sasurna
+	max_settlements = 3
+	culture = english
+	religion = druze
+	b_wimying = tribal

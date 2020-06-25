@@ -1,0 +1,5 @@
+	title = c_sasafu
+	max_settlements = 2
+	culture = assyrian
+	religion = kharijite
+	b_akaka = tribal

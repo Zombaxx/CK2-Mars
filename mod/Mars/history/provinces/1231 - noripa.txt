@@ -1,0 +1,5 @@
+	title = c_noripa
+	max_settlements = 3
+	culture = norman
+	religion = pagan
+	b_linork = tribal

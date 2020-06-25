@@ -1,0 +1,5 @@
+	title = c_amalter
+	max_settlements = 2
+	culture = ashkenazi
+	religion = taoist
+	b_adiran = tribal

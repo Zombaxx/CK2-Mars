@@ -1,0 +1,5 @@
+	title = c_akamud
+	max_settlements = 3
+	culture = mongol
+	religion = catholic
+	b_dakega = tribal

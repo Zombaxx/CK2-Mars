@@ -1,0 +1,5 @@
+	title = c_becolad
+	max_settlements = 2
+	culture = norse
+	religion = fraticelli
+	b_kigalek = tribal

@@ -1,0 +1,120 @@
+758.2.1 = {
+	holder = 1000038
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1002032
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_kalaril
+}
+
+758.2.4 = {
+	holder = 1002033
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.5 = {
+	liege = d_nadava
+}
+
+758.2.6 = {
+	holder = 1002141
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+789.2.1 = {
+	liege = d_eclawhar
+}
+
+789.2.2 = {
+	holder = 1004897
+}
+
+789.2.3 = {
+	liege = k_tajaani
+}
+
+803.2.1 = {
+	liege = d_sogona
+}
+
+803.2.2 = {
+	liege = d_eclawhar
+}
+
+803.2.3 = {
+	liege = d_nadava
+}
+
+803.2.4 = {
+	liege = d_boreka
+}
+
+803.2.5 = {
+	holder = 1008014
+}
+
+824.2.1 = {
+	holder = 1007125
+}
+
+844.2.1 = {
+	liege = d_lelutar
+}
+
+844.2.2 = {
+	holder = 1008393
+}
+
+864.2.1 = {
+	liege = d_boreka
+}
+
+864.2.2 = {
+	holder = 1011630
+}
+
+873.2.1 = {
+	holder = 1012591
+}
+
+876.2.1 = {
+	holder = 1012849
+}
+
+910.2.1 = {
+	holder = 1012934
+}
+
+918.2.1 = {
+	holder = 1014729
+}
+
+954.2.1 = {
+	holder = 1014967
+}
+
+980.2.1 = {
+	holder = 1016347
+}
+
+1019.2.1 = {
+	liege = d_lelutar
+}
+
+1019.2.2 = {
+	holder = 1017224
+}
+
+1052.2.1 = {
+	holder = 1019939
+}
+

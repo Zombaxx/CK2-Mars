@@ -1,0 +1,5 @@
+	title = c_ejosari
+	max_settlements = 4
+	culture = khazar
+	religion = interface_skin
+	b_wosivka = tribal

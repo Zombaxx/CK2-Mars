@@ -1,0 +1,5 @@
+	title = c_kaulirek
+	max_settlements = 2
+	culture = irish
+	religion = hindu
+	b_tekegin = tribal

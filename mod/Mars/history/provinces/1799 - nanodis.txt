@@ -1,0 +1,5 @@
+	title = c_nanodis
+	max_settlements = 2
+	culture = egyptian_arabic
+	religion = finnish_pagan
+	b_keacob = tribal

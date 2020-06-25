@@ -1,0 +1,5 @@
+	title = c_dunache
+	max_settlements = 3
+	culture = bosnian
+	religion = mazdaki
+	b_qotihal = tribal

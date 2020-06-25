@@ -1,0 +1,5 @@
+	title = c_wanuida
+	max_settlements = 2
+	culture = ashkenazi
+	religion = taoist
+	b_sohuone = tribal

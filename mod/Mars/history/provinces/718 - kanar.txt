@@ -1,0 +1,5 @@
+	title = c_kanar
+	max_settlements = 3
+	culture = italian
+	religion = miaphysite
+	b_nivar = tribal

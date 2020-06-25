@@ -1,0 +1,5 @@
+	title = c_qisautas
+	max_settlements = 2
+	culture = kannada
+	religion = orthodox
+	b_baybida = tribal

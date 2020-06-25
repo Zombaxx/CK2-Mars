@@ -1,0 +1,5 @@
+	title = c_binnam
+	max_settlements = 2
+	culture = nepali
+	religion = bon_reformed
+	b_winnam = tribal

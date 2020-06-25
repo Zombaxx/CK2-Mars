@@ -1,0 +1,5 @@
+	title = c_beridena
+	max_settlements = 4
+	culture = andalusian_arabic
+	religion = sunni
+	b_kaa = tribal

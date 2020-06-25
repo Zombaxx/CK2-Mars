@@ -1,0 +1,5 @@
+	title = c_ekamucha
+	max_settlements = 2
+	culture = dalmatian
+	religion = kharijite
+	b_asumavak = tribal

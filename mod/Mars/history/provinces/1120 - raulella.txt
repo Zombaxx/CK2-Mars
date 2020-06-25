@@ -1,0 +1,5 @@
+	title = c_raulella
+	max_settlements = 3
+	culture = sindhi
+	religion = norse_pagan_reformed
+	b_aponoses = tribal

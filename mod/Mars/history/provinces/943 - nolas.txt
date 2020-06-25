@@ -1,0 +1,5 @@
+	title = c_nolas
+	max_settlements = 3
+	culture = alan
+	religion = cathar
+	b_ramarid = tribal

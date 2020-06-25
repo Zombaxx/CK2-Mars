@@ -1,0 +1,5 @@
+	title = c_qenda
+	max_settlements = 3
+	culture = armenian
+	religion = finnish_pagan
+	b_eguoja = tribal

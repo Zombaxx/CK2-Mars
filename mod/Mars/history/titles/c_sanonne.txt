@@ -1,0 +1,120 @@
+758.2.1 = {
+	holder = 1000004
+	law = succ_gavelkind
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1000006
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	holder = 1000507
+	law = succ_elective_gavelkind
+	law = cognatic_succession
+}
+
+758.2.4 = {
+	liege = d_bololas
+}
+
+758.2.5 = {
+	holder = 1000506
+	law = succ_elective_gavelkind
+	law = cognatic_succession
+}
+
+773.2.1 = {
+	liege = d_eberelas
+}
+
+773.2.2 = {
+	holder = 1004429
+}
+
+773.2.3 = {
+	liege = d_bololas
+}
+
+776.2.1 = {
+	liege = d_eberelas
+}
+
+776.2.2 = {
+	holder = 1006550
+}
+
+776.2.3 = {
+	liege = d_bololas
+}
+
+779.2.1 = {
+	liege = d_eberelas
+}
+
+779.2.2 = {
+	holder = 1000499
+}
+
+779.2.3 = {
+	liege = d_tefarid
+}
+
+782.2.1 = {
+	liege = d_eberelas
+}
+
+782.2.2 = {
+	holder = 1003160
+}
+
+783.2.1 = {
+	holder = 1005923
+}
+
+836.2.1 = {
+	holder = 1007872
+}
+
+845.2.1 = {
+	holder = 1011438
+}
+
+898.2.1 = {
+	holder = 1012293
+}
+
+930.2.1 = {
+	holder = 1014140
+}
+
+933.2.1 = {
+	holder = 1015302
+}
+
+974.2.1 = {
+	holder = 1016308
+}
+
+986.2.1 = {
+	holder = 1017426
+}
+
+992.2.1 = {
+	holder = 1017502
+}
+
+1001.2.1 = {
+	holder = 1017993
+}
+
+1010.2.1 = {
+	holder = 1018063
+}
+
+1055.2.1 = {
+	holder = 1018669
+}
+

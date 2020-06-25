@@ -1,0 +1,5 @@
+	title = c_enyea
+	max_settlements = 2
+	culture = danish
+	religion = zun_pagan
+	b_tyasudan = tribal

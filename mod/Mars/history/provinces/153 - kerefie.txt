@@ -1,0 +1,5 @@
+	title = c_kerefie
+	max_settlements = 3
+	culture = gujurati
+	religion = zoroastrian
+	b_emawa = tribal

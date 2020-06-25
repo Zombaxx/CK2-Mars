@@ -1,0 +1,5 @@
+	title = c_qudedek
+	max_settlements = 2
+	culture = sephardi
+	religion = karaite
+	b_sisalan = tribal

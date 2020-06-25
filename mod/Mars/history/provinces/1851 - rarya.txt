@@ -1,0 +1,5 @@
+	title = c_rarya
+	max_settlements = 2
+	culture = castillan
+	religion = cathar
+	b_laytata = tribal

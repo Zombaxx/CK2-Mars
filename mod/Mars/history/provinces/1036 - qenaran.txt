@@ -1,0 +1,5 @@
+	title = c_qenaran
+	max_settlements = 2
+	culture = saka
+	religion = khurmazta
+	b_amahendi = tribal

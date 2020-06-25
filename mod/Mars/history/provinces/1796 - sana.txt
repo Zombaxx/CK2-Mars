@@ -1,0 +1,5 @@
+	title = c_sana
+	max_settlements = 2
+	culture = arberian
+	religion = bogomilist
+	b_ehakana = tribal

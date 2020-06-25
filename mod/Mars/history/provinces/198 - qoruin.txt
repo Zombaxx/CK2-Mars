@@ -1,0 +1,5 @@
+	title = c_qoruin
+	max_settlements = 2
+	culture = nahuatl
+	religion = pagan
+	b_nenuna = tribal

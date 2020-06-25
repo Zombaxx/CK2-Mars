@@ -1,0 +1,5 @@
+	title = c_lakisa
+	max_settlements = 3
+	culture = jurchen
+	religion = slavic_pagan_reformed
+	b_karille = tribal

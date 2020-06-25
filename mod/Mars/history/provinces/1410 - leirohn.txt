@@ -1,0 +1,5 @@
+	title = c_leirohn
+	max_settlements = 5
+	culture = avar
+	religion = hellenic_pagan
+	b_avereer = tribal

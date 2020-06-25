@@ -1,0 +1,5 @@
+	title = c_rinnaim
+	max_settlements = 2
+	culture = khanty
+	religion = finnish_pagan
+	b_raram = tribal

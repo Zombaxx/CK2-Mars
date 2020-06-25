@@ -1,0 +1,5 @@
+	title = c_ryer
+	max_settlements = 6
+	culture = norwegian
+	religion = cathar
+	b_budyer = tribal

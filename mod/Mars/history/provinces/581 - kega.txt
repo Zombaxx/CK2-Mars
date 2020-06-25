@@ -1,0 +1,5 @@
+	title = c_kega
+	max_settlements = 3
+	culture = visigothic
+	religion = samaritan
+	b_wubega = tribal

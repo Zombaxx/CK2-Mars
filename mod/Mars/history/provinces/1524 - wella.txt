@@ -1,0 +1,5 @@
+	title = c_wella
+	max_settlements = 2
+	culture = afghan
+	religion = fraticelli
+	b_qonint = tribal

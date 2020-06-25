@@ -1,0 +1,5 @@
+	title = c_qadobos
+	max_settlements = 3
+	culture = roman
+	religion = fraticelli
+	b_deidja = tribal

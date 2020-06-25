@@ -1,0 +1,5 @@
+	title = c_kajan
+	max_settlements = 4
+	culture = sephardi
+	religion = catholic
+	b_eranar = tribal

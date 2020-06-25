@@ -1,0 +1,5 @@
+	title = c_nerar
+	max_settlements = 2
+	culture = khanty
+	religion = qarmatian
+	b_korying = tribal

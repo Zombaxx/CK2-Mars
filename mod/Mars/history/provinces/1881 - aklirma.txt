@@ -1,0 +1,5 @@
+	title = c_aklirma
+	max_settlements = 2
+	culture = sardinian
+	religion = slavic_pagan
+	b_tisuisa = tribal

@@ -1,0 +1,5 @@
+	title = c_nilirai
+	max_settlements = 2
+	culture = norwegian
+	religion = messalian
+	b_lyiai = tribal

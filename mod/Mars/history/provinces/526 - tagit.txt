@@ -1,0 +1,5 @@
+	title = c_tagit
+	max_settlements = 2
+	culture = severian
+	religion = zikri
+	b_tenit = tribal

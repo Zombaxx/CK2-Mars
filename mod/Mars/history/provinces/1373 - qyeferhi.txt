@@ -1,0 +1,5 @@
+	title = c_qyeferhi
+	max_settlements = 2
+	culture = ugricbaltic
+	religion = baltic_pagan_reformed
+	b_dayotar = tribal

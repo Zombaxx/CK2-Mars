@@ -1,0 +1,5 @@
+	title = c_wurork
+	max_settlements = 3
+	culture = nahuatl
+	religion = yazidi
+	b_tulork = tribal

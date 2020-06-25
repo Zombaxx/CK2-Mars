@@ -1,0 +1,5 @@
+	title = c_kohila
+	max_settlements = 3
+	culture = avar
+	religion = miaphysite
+	b_wanaim = tribal

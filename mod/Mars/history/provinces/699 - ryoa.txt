@@ -1,0 +1,5 @@
+	title = c_ryoa
+	max_settlements = 3
+	culture = ugricbaltic
+	religion = hellenic_pagan_reformed
+	b_amatalka = tribal

@@ -1,0 +1,5 @@
+	title = c_rivela
+	max_settlements = 3
+	culture = catalan
+	religion = interface_skin
+	b_riatius = tribal

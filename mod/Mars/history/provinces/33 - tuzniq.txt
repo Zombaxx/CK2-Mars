@@ -1,0 +1,5 @@
+	title = c_tuzniq
+	max_settlements = 2
+	culture = breton
+	religion = zun_pagan
+	b_salester = tribal

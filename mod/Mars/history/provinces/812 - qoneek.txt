@@ -1,0 +1,5 @@
+	title = c_qoneek
+	max_settlements = 2
+	culture = sogdian
+	religion = bogomilist
+	b_donama = tribal

@@ -1,0 +1,5 @@
+	title = c_kama
+	max_settlements = 2
+	culture = norman
+	religion = orthodox
+	b_elekara = tribal

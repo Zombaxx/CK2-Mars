@@ -1,0 +1,5 @@
+	title = c_tahuo
+	max_settlements = 3
+	culture = turkish
+	religion = tengri_pagan_reformed
+	b_kamying = tribal

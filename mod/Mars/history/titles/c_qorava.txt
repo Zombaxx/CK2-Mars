@@ -1,0 +1,210 @@
+758.2.1 = {
+	holder = 1000040
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1002124
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_ketoa
+}
+
+758.2.4 = {
+	holder = 1002123
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+762.2.1 = {
+	holder = 1004896
+}
+
+766.2.1 = {
+	holder = 1003230
+}
+
+779.2.1 = {
+	holder = 1006212
+}
+
+822.2.1 = {
+	liege = d_rieltun
+}
+
+822.2.2 = {
+	holder = 1007886
+}
+
+828.2.1 = {
+	holder = 1010527
+}
+
+830.2.1 = {
+	holder = 1008872
+}
+
+855.2.1 = {
+	liege = d_rielava
+}
+
+855.2.2 = {
+	liege = d_deteka
+}
+
+855.2.3 = {
+	holder = 1010237
+}
+
+855.2.4 = {
+	liege = k_qorita
+}
+
+860.2.1 = {
+	liege = d_ketoa
+}
+
+860.2.2 = {
+	liege = d_deteka
+}
+
+860.2.3 = {
+	liege = d_rielava
+}
+
+860.2.4 = {
+	liege = d_rieltun
+}
+
+860.2.5 = {
+	holder = 1012166
+}
+
+897.2.1 = {
+	liege = d_rielava
+}
+
+897.2.2 = {
+	liege = d_deteka
+}
+
+897.2.3 = {
+	liege = d_rantaam
+}
+
+897.2.4 = {
+	holder = 1012214
+}
+
+897.2.5 = {
+	liege = k_qorita
+}
+
+912.2.1 = {
+	liege = d_ketoa
+}
+
+912.2.2 = {
+	liege = d_rantaam
+}
+
+912.2.3 = {
+	liege = d_deteka
+}
+
+912.2.4 = {
+	liege = d_rielava
+}
+
+912.2.5 = {
+	liege = d_rieltun
+}
+
+912.2.6 = {
+	holder = 1014455
+}
+
+927.2.1 = {
+	liege = d_rielava
+}
+
+927.2.2 = {
+	liege = d_deteka
+}
+
+927.2.3 = {
+	liege = d_rantaam
+}
+
+927.2.4 = {
+	holder = 1014775
+}
+
+952.2.1 = {
+	liege = d_deteka
+}
+
+952.2.2 = {
+	liege = d_rielava
+}
+
+952.2.3 = {
+	liege = d_rieltun
+}
+
+952.2.4 = {
+	holder = 1016098
+}
+
+957.2.1 = {
+	holder = 1016284
+}
+
+993.2.1 = {
+	holder = 1016355
+}
+
+1002.2.1 = {
+	liege = d_rielava
+}
+
+1002.2.2 = {
+	liege = d_deteka
+}
+
+1002.2.3 = {
+	liege = d_rantaam
+}
+
+1002.2.4 = {
+	holder = 1018008
+}
+
+1008.2.1 = {
+	holder = 1018249
+}
+
+1055.2.1 = {
+	holder = 1018446
+}
+
+1065.2.1 = {
+	liege = d_deteka
+}
+
+1065.2.2 = {
+	liege = d_rielava
+}
+
+1065.2.3 = {
+	liege = d_rieltun
+}
+
+1065.2.4 = {
+	holder = 1020426
+}
+

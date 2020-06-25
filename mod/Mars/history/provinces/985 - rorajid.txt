@@ -1,0 +1,5 @@
+	title = c_rorajid
+	max_settlements = 4
+	culture = manden
+	religion = aztec_reformed
+	b_wivihan = tribal

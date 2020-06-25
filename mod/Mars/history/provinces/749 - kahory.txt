@@ -1,0 +1,5 @@
+	title = c_kahory
+	max_settlements = 3
+	culture = ugricbaltic
+	religion = orthodox
+	b_erajyla = tribal

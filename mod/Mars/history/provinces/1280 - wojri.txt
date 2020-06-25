@@ -1,0 +1,5 @@
+	title = c_wojri
+	max_settlements = 2
+	culture = bulgarian
+	religion = bon
+	b_rache = tribal

@@ -1,0 +1,5 @@
+	title = c_edoja
+	max_settlements = 2
+	culture = lombard
+	religion = interface_skin
+	b_kulew = tribal

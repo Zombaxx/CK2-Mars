@@ -1,0 +1,5 @@
+	title = c_kinnunes
+	max_settlements = 7
+	culture = ilmenian
+	religion = zun_pagan_reformed
+	b_delumna = tribal

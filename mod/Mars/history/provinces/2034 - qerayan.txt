@@ -1,0 +1,5 @@
+	title = c_qerayan
+	max_settlements = 6
+	culture = persian
+	religion = qarmatian
+	b_wibagan = tribal

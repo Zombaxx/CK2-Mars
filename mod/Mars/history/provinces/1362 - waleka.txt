@@ -1,0 +1,5 @@
+	title = c_waleka
+	max_settlements = 3
+	culture = breton
+	religion = fraticelli
+	b_roreuta = tribal

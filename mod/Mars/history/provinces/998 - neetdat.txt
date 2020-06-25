@@ -1,0 +1,5 @@
+	title = c_neetdat
+	max_settlements = 4
+	culture = nepali
+	religion = buddhist
+	b_namogeda = tribal

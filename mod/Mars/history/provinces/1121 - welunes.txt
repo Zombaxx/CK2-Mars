@@ -1,0 +1,5 @@
+	title = c_welunes
+	max_settlements = 2
+	culture = alan
+	religion = hellenic_pagan
+	b_sonuti = tribal

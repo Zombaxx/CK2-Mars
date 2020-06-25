@@ -1,0 +1,5 @@
+	title = c_tyla
+	max_settlements = 2
+	culture = turkish
+	religion = catholic
+	b_kobath = tribal

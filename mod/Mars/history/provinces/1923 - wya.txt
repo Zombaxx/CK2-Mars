@@ -1,0 +1,5 @@
+	title = c_wya
+	max_settlements = 4
+	culture = sogdian
+	religion = shiite
+	b_salafiz = tribal

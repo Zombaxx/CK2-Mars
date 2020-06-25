@@ -1,0 +1,5 @@
+	title = c_kevan
+	max_settlements = 2
+	culture = outremer
+	religion = monophysite
+	b_bosamy = tribal

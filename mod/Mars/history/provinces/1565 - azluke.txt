@@ -1,0 +1,5 @@
+	title = c_azluke
+	max_settlements = 2
+	culture = bulgarian
+	religion = interface_skin
+	b_qualis = tribal

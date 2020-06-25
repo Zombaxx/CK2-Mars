@@ -1,0 +1,5 @@
+	title = c_egaiija
+	max_settlements = 2
+	culture = komi
+	religion = waldensian
+	b_soda = tribal

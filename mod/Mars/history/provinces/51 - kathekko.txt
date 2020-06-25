@@ -1,0 +1,5 @@
+	title = c_kathekko
+	max_settlements = 2
+	culture = pommeranian
+	religion = finnish_pagan_reformed
+	b_naxerhi = tribal

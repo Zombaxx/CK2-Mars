@@ -1,0 +1,5 @@
+	title = c_wain
+	max_settlements = 2
+	culture = manden
+	religion = jewish
+	b_weludan = tribal

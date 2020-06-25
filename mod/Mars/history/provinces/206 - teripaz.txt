@@ -1,0 +1,5 @@
+	title = c_teripaz
+	max_settlements = 3
+	culture = assyrian
+	religion = orthodox
+	b_retaha = tribal

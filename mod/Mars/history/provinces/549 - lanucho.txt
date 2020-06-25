@@ -1,0 +1,5 @@
+	title = c_lanucho
+	max_settlements = 2
+	culture = old_saxon
+	religion = khurmazta
+	b_eramarde = tribal

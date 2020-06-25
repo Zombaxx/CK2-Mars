@@ -1,0 +1,5 @@
+	title = c_etubirek
+	max_settlements = 2
+	culture = crimean_gothic
+	religion = pagan
+	b_ekenes = tribal

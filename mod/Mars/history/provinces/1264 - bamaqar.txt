@@ -1,0 +1,5 @@
+	title = c_bamaqar
+	max_settlements = 2
+	culture = oriya
+	religion = ibadi
+	b_qonoan = tribal

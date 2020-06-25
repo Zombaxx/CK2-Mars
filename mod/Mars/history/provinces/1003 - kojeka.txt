@@ -1,0 +1,5 @@
+	title = c_kojeka
+	max_settlements = 4
+	culture = serbian
+	religion = mazdaki
+	b_akroor = tribal

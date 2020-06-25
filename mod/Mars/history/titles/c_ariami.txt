@@ -1,0 +1,62 @@
+758.2.1 = {
+	holder = 1000034
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1001878
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_tedamba
+}
+
+758.2.4 = {
+	holder = 1001876
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+900.2.1 = {
+	holder = 1013576
+}
+
+928.2.1 = {
+	liege = d_digaaq
+}
+
+928.2.2 = {
+	holder = 1015150
+}
+
+987.2.1 = {
+	liege = d_tedamba
+}
+
+987.2.2 = {
+	holder = 1015314
+}
+
+1001.2.1 = {
+	liege = d_digaaq
+}
+
+1001.2.2 = {
+	holder = 1017513
+}
+
+1021.2.1 = {
+	liege = d_tedamba
+}
+
+1021.2.2 = {
+	holder = 1018178
+}
+
+1022.2.1 = {
+	holder = 1018810
+}
+

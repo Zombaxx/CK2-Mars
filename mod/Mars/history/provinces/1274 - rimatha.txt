@@ -1,0 +1,5 @@
+	title = c_rimatha
+	max_settlements = 2
+	culture = meshchera
+	religion = finnish_pagan
+	b_dilawma = tribal

@@ -1,0 +1,5 @@
+	title = c_qahendi
+	max_settlements = 4
+	culture = telugu
+	religion = catholic
+	b_akojata = tribal

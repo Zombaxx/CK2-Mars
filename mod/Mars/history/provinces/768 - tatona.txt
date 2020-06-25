@@ -1,0 +1,5 @@
+	title = c_tatona
+	max_settlements = 2
+	culture = bedouin_arabic
+	religion = zun_pagan
+	b_qorija = tribal

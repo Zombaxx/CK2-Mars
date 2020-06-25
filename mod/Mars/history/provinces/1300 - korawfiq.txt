@@ -1,0 +1,5 @@
+	title = c_korawfiq
+	max_settlements = 2
+	culture = lettigallish
+	religion = monophysite
+	b_saisida = tribal

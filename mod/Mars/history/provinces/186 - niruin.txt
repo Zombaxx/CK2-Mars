@@ -1,0 +1,5 @@
+	title = c_niruin
+	max_settlements = 3
+	culture = baloch
+	religion = nestorian
+	b_binuna = tribal

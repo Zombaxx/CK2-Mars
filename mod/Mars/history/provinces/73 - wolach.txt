@@ -1,0 +1,5 @@
+	title = c_wolach
+	max_settlements = 2
+	culture = somali
+	religion = sunni
+	b_ryaa = tribal

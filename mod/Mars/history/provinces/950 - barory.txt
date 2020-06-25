@@ -1,0 +1,5 @@
+	title = c_barory
+	max_settlements = 2
+	culture = zaghawa
+	religion = druze
+	b_ehiloriy = tribal

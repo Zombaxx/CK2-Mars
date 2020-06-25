@@ -1,0 +1,5 @@
+	title = c_rekiel
+	max_settlements = 2
+	culture = hungarian
+	religion = hurufi
+	b_begew = tribal

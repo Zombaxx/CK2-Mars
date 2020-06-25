@@ -1,0 +1,5 @@
+	title = c_kizida
+	max_settlements = 2
+	culture = han
+	religion = waldensian
+	b_rehisam = tribal

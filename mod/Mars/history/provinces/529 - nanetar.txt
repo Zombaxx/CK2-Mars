@@ -1,0 +1,5 @@
+	title = c_nanetar
+	max_settlements = 2
+	culture = tocharian
+	religion = nestorian
+	b_roroman = tribal

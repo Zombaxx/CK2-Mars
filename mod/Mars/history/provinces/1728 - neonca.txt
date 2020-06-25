@@ -1,0 +1,5 @@
+	title = c_neonca
+	max_settlements = 2
+	culture = khitan
+	religion = catholic
+	b_keliek = tribal

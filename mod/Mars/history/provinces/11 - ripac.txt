@@ -1,0 +1,5 @@
+	title = c_ripac
+	max_settlements = 3
+	culture = manden
+	religion = interface_skin
+	b_byla = tribal

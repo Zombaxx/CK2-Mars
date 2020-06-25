@@ -1,0 +1,5 @@
+	title = c_qajan
+	max_settlements = 2
+	culture = catalan
+	religion = bon
+	b_balovai = tribal

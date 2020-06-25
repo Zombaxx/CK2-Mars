@@ -1,0 +1,5 @@
+	title = c_lanius
+	max_settlements = 2
+	culture = suebi
+	religion = finnish_pagan
+	b_bebaht = tribal

@@ -1,0 +1,5 @@
+	title = c_karuigi
+	max_settlements = 3
+	culture = bolghar
+	religion = miaphysite
+	b_tibida = tribal

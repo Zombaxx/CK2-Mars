@@ -1,0 +1,5 @@
+	title = c_dizahar
+	max_settlements = 5
+	culture = tangut
+	religion = fraticelli
+	b_woregin = tribal

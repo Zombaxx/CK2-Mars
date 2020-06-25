@@ -1,0 +1,5 @@
+	title = c_teodis
+	max_settlements = 2
+	culture = severian
+	religion = karaite
+	b_kay-ry = tribal

@@ -1,0 +1,5 @@
+	title = c_kanatun
+	max_settlements = 2
+	culture = samoyed
+	religion = paulician
+	b_ryoe = tribal

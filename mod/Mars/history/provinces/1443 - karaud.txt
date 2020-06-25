@@ -1,0 +1,5 @@
+	title = c_karaud
+	max_settlements = 2
+	culture = turkish
+	religion = color
+	b_nerohn = tribal

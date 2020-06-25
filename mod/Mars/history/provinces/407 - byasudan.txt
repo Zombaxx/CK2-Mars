@@ -1,0 +1,5 @@
+	title = c_byasudan
+	max_settlements = 3
+	culture = oriya
+	religion = qarmatian
+	b_qitisa = tribal

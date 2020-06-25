@@ -1,0 +1,5 @@
+	title = c_wehija
+	max_settlements = 2
+	culture = gujurati
+	religion = tengri_pagan_reformed
+	b_lilaria = tribal

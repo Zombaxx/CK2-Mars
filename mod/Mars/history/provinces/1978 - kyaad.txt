@@ -1,0 +1,5 @@
+	title = c_kyaad
+	max_settlements = 2
+	culture = outremer
+	religion = pagan
+	b_kimey = tribal

@@ -1,0 +1,5 @@
+	title = c_tekagni
+	max_settlements = 2
+	culture = egyptian_arabic
+	religion = hurufi
+	b_larya = tribal

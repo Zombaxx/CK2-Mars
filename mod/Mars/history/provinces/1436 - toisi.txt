@@ -1,0 +1,5 @@
+	title = c_toisi
+	max_settlements = 2
+	culture = breton
+	religion = zoroastrian
+	b_tamuko = tribal

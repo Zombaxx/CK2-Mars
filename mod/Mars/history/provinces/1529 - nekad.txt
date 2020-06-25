@@ -1,0 +1,5 @@
+	title = c_nekad
+	max_settlements = 4
+	culture = nubian
+	religion = sunni
+	b_lasegin = tribal

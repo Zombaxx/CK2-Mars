@@ -1,0 +1,5 @@
+	title = c_saxohn
+	max_settlements = 2
+	culture = arberian
+	religion = slavic_pagan
+	b_kumail = tribal

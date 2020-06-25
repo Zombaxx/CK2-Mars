@@ -1,0 +1,5 @@
+	title = c_tajiuva
+	max_settlements = 2
+	culture = sinhala
+	religion = miaphysite
+	b_tabdenda = tribal

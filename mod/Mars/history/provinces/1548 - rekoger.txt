@@ -1,0 +1,5 @@
+	title = c_rekoger
+	max_settlements = 2
+	culture = persian
+	religion = jain
+	b_tozalter = tribal

@@ -1,0 +1,5 @@
+	title = c_nudahar
+	max_settlements = 3
+	culture = sogdian
+	religion = kharijite
+	b_rund = tribal

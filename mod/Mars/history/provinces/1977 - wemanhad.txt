@@ -1,0 +1,5 @@
+	title = c_wemanhad
+	max_settlements = 2
+	culture = zaghawa
+	religion = hindu
+	b_risying = tribal

@@ -1,0 +1,5 @@
+	title = c_kalihan
+	max_settlements = 3
+	culture = visigothic
+	religion = miaphysite
+	b_suisaim = tribal

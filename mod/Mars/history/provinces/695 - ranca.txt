@@ -1,0 +1,5 @@
+	title = c_ranca
+	max_settlements = 2
+	culture = scottish
+	religion = zikri
+	b_tabyan = tribal

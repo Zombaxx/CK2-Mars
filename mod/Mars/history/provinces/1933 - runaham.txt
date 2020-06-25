@@ -1,0 +1,5 @@
+	title = c_runaham
+	max_settlements = 3
+	culture = russian
+	religion = taoist
+	b_wagni = tribal

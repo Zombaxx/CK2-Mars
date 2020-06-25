@@ -1,0 +1,5 @@
+	title = c_torazzaq
+	max_settlements = 2
+	culture = khanty
+	religion = buddhist
+	b_emoruigi = tribal

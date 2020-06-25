@@ -1,0 +1,5 @@
+	title = c_dolin
+	max_settlements = 2
+	culture = sogdian
+	religion = jain
+	b_kotache = tribal

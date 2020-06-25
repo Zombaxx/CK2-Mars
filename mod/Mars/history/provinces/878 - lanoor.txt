@@ -1,0 +1,5 @@
+	title = c_lanoor
+	max_settlements = 2
+	culture = mordvin
+	religion = karaite
+	b_detinat = tribal

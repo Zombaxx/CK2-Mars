@@ -1,0 +1,5 @@
+	title = c_numacob
+	max_settlements = 2
+	culture = italian
+	religion = bogomilist
+	b_kubele = tribal

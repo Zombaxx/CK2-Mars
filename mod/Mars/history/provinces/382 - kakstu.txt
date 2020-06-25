@@ -1,0 +1,5 @@
+	title = c_kakstu
+	max_settlements = 3
+	culture = english
+	religion = zun_pagan_reformed
+	b_tomim = tribal

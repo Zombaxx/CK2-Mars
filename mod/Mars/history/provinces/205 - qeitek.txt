@@ -1,0 +1,5 @@
+	title = c_qeitek
+	max_settlements = 2
+	culture = lettigallish
+	religion = hellenic_pagan_reformed
+	b_dana = tribal

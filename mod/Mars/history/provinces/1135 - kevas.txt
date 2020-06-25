@@ -1,0 +1,5 @@
+	title = c_kevas
+	max_settlements = 3
+	culture = afghan
+	religion = baltic_pagan
+	b_rinnuti = tribal

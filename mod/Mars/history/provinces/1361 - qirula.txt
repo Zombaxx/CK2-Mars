@@ -1,0 +1,5 @@
+	title = c_qirula
+	max_settlements = 2
+	culture = carantanian
+	religion = iconoclast
+	b_natiza = tribal

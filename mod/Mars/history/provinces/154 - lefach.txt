@@ -1,0 +1,5 @@
+	title = c_lefach
+	max_settlements = 3
+	culture = visigothic
+	religion = pagan
+	b_asaya = tribal

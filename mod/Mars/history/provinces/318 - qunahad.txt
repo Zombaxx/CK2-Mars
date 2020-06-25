@@ -1,0 +1,5 @@
+	title = c_qunahad
+	max_settlements = 3
+	culture = cuman
+	religion = interface_skin
+	b_noraim = tribal

@@ -1,0 +1,5 @@
+	title = c_berning
+	max_settlements = 2
+	culture = danish
+	religion = iconoclast
+	b_tororas = tribal

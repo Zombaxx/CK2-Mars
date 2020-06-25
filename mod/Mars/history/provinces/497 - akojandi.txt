@@ -1,0 +1,5 @@
+	title = c_akojandi
+	max_settlements = 2
+	culture = saka
+	religion = samaritan
+	b_kasajan = tribal

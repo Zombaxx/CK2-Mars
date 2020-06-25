@@ -1,0 +1,5 @@
+	title = c_sahacob
+	max_settlements = 2
+	culture = nubian
+	religion = west_african_pagan
+	b_aville = tribal

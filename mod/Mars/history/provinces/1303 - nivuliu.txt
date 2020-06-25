@@ -1,0 +1,5 @@
+	title = c_nivuliu
+	max_settlements = 2
+	culture = visigothic
+	religion = monophysite
+	b_berassa = tribal

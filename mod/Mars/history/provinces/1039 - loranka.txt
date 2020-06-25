@@ -1,0 +1,5 @@
+	title = c_loranka
+	max_settlements = 5
+	culture = bodpa
+	religion = pagan
+	b_wakapal = tribal

@@ -1,0 +1,5 @@
+	title = c_lubella
+	max_settlements = 2
+	culture = saka
+	religion = zikri
+	b_esotara = tribal

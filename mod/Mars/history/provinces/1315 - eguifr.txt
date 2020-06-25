@@ -1,0 +1,5 @@
+	title = c_eguifr
+	max_settlements = 2
+	culture = danish
+	religion = nestorian
+	b_qilvi = tribal

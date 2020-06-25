@@ -1,0 +1,5 @@
+	title = c_remaya
+	max_settlements = 3
+	culture = georgian
+	religion = monothelite
+	b_nudeter = tribal

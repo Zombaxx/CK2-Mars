@@ -1,0 +1,5 @@
+	title = c_degiana
+	max_settlements = 2
+	culture = khitan
+	religion = zun_pagan
+	b_dasew = tribal

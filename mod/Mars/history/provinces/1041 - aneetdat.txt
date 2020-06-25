@@ -1,0 +1,5 @@
+	title = c_aneetdat
+	max_settlements = 2
+	culture = dutch
+	religion = yazidi
+	b_rojisa = tribal

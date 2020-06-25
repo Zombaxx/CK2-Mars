@@ -1,0 +1,34 @@
+game_rules=
+{
+	alternate_start=yes
+	generate_families="on"
+	aztec_invasion="random"
+	mongol_invasion="delayed_random"
+	grant_independence="unrestricted"
+	punishment_release_prisoner="off"
+	ai_intrigue="off"
+	dueling="default"
+	ai_seduction="off"
+	diplo_assassination="on"
+	invitation="open"
+	interfaith_marriages="restricted"
+	shattered_retreat="off"
+	secret_cults="none"
+	devil_worshipers="none"
+	chinese_invasions="none"
+	defensive_pacts="off"
+	gender="all"
+	court_limit_rule="off"
+}
+game_rules=
+{
+	alternate_start=no
+}
+game_rules=
+{
+	alternate_start=no
+}
+game_rules=
+{
+	alternate_start=no
+}

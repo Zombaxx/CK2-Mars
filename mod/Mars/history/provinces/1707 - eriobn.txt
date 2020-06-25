@@ -1,0 +1,5 @@
+	title = c_eriobn
+	max_settlements = 2
+	culture = uyghur
+	religion = khurmazta
+	b_seida = tribal

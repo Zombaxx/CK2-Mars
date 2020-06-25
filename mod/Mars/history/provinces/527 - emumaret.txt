@@ -1,0 +1,5 @@
+	title = c_emumaret
+	max_settlements = 4
+	culture = norman
+	religion = bon
+	b_baxoman = tribal

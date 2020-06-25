@@ -1,0 +1,5 @@
+	title = c_samyula
+	max_settlements = 4
+	culture = lithuanian
+	religion = slavic_pagan_reformed
+	b_asaqar = tribal

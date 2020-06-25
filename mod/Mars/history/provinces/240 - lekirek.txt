@@ -1,0 +1,5 @@
+	title = c_lekirek
+	max_settlements = 2
+	culture = italian
+	religion = nestorian
+	b_raulara = tribal

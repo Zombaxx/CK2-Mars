@@ -1,0 +1,5 @@
+	title = c_darari
+	max_settlements = 2
+	culture = panjabi
+	religion = taoist
+	b_tefaya = tribal

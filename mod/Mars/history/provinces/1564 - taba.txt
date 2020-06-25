@@ -1,0 +1,5 @@
+	title = c_taba
+	max_settlements = 2
+	culture = saka
+	religion = interface_skin
+	b_azloja = tribal

@@ -1,0 +1,5 @@
+	title = c_bamijah
+	max_settlements = 2
+	culture = bolghar
+	religion = samaritan
+	b_dilanna = tribal

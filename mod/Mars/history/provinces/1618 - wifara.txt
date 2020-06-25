@@ -1,0 +1,5 @@
+	title = c_wifara
+	max_settlements = 2
+	culture = marathi
+	religion = karaite
+	b_dazirek = tribal

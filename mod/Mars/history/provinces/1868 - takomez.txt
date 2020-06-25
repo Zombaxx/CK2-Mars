@@ -1,0 +1,5 @@
+	title = c_takomez
+	max_settlements = 2
+	culture = breton
+	religion = miaphysite
+	b_rakena = tribal

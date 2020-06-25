@@ -1,0 +1,5 @@
+	title = c_sanana
+	max_settlements = 3
+	culture = breton
+	religion = zun_pagan
+	b_wuruda = tribal

@@ -1,0 +1,5 @@
+	title = c_kazyula
+	max_settlements = 3
+	culture = welsh
+	religion = hindu
+	b_lifoan = tribal

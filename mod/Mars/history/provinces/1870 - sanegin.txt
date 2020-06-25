@@ -1,0 +1,5 @@
+	title = c_sanegin
+	max_settlements = 2
+	culture = avar
+	religion = tengri_pagan_reformed
+	b_nasatun = tribal

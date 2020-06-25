@@ -1,0 +1,5 @@
+	title = c_lekovke
+	max_settlements = 2
+	culture = romanian
+	religion = khurmazta
+	b_egaria = tribal

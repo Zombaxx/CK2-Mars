@@ -1,0 +1,5 @@
+	title = c_agutar
+	max_settlements = 4
+	culture = marathi
+	religion = bon_reformed
+	b_bamelec = tribal

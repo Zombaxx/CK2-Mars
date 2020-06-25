@@ -1,0 +1,5 @@
+	title = c_aguoja
+	max_settlements = 2
+	culture = outremer
+	religion = jewish
+	b_kalew = tribal

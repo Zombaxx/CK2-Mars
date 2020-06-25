@@ -1,0 +1,5 @@
+	title = c_bakania
+	max_settlements = 2
+	culture = avar
+	religion = bogomilist
+	b_egamania = tribal

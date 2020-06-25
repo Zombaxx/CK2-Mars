@@ -1,0 +1,5 @@
+	title = c_baleba
+	max_settlements = 2
+	culture = frankish
+	religion = hellenic_pagan
+	b_raran = tribal

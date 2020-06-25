@@ -1,0 +1,5 @@
+	title = c_ejosirai
+	max_settlements = 3
+	culture = saka
+	religion = aztec_reformed
+	b_qemayya = tribal

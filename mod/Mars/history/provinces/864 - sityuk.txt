@@ -1,0 +1,5 @@
+	title = c_sityuk
+	max_settlements = 4
+	culture = lettigallish
+	religion = waldensian
+	b_tivurga = tribal

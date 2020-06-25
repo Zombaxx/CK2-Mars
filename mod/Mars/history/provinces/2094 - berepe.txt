@@ -1,0 +1,5 @@
+	title = c_berepe
+	max_settlements = 4
+	culture = mordvin
+	religion = finnish_pagan_reformed
+	b_eriocc = tribal

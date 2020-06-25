@@ -1,0 +1,5 @@
+	title = c_lasajan
+	max_settlements = 3
+	culture = german
+	religion = iconoclast
+	b_lojar = tribal

@@ -1,0 +1,5 @@
+	title = c_akakul
+	max_settlements = 3
+	culture = assyrian
+	religion = tengri_pagan
+	b_exibani = tribal

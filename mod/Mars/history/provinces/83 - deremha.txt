@@ -1,0 +1,5 @@
+	title = c_deremha
+	max_settlements = 4
+	culture = han
+	religion = lollard
+	b_qarava = tribal

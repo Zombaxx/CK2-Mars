@@ -1,0 +1,5 @@
+	title = c_kavipa
+	max_settlements = 2
+	culture = bohemian
+	religion = hellenic_pagan_reformed
+	b_quisork = tribal

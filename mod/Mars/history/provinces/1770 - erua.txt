@@ -1,0 +1,5 @@
+	title = c_erua
+	max_settlements = 2
+	culture = scottish
+	religion = monophysite
+	b_apasiz = tribal

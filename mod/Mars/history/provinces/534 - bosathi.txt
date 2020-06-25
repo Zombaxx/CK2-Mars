@@ -1,0 +1,5 @@
+	title = c_bosathi
+	max_settlements = 3
+	culture = pictish
+	religion = mazdaki
+	b_erajamy = tribal

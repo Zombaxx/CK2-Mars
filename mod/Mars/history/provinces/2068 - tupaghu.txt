@@ -1,0 +1,5 @@
+	title = c_tupaghu
+	max_settlements = 3
+	culture = ashkenazi
+	religion = mazdaki
+	b_ladana = tribal

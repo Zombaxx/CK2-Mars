@@ -1,0 +1,5 @@
+	title = c_akojema
+	max_settlements = 2
+	culture = nubian
+	religion = hellenic_pagan
+	b_sajana = tribal

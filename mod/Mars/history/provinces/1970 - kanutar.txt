@@ -1,0 +1,5 @@
+	title = c_kanutar
+	max_settlements = 2
+	culture = basque
+	religion = karaite
+	b_seupoyan = tribal

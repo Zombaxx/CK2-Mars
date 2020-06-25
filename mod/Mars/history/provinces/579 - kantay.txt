@@ -1,0 +1,5 @@
+	title = c_kantay
+	max_settlements = 3
+	culture = bodpa
+	religion = norse_pagan_reformed
+	b_dicyan = tribal

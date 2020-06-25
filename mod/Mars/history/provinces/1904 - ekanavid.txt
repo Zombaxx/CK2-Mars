@@ -1,0 +1,5 @@
+	title = c_ekanavid
+	max_settlements = 3
+	culture = ethiopian
+	religion = jewish
+	b_busania = tribal

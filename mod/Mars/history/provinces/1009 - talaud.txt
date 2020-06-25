@@ -1,0 +1,5 @@
+	title = c_talaud
+	max_settlements = 5
+	culture = assamese
+	religion = bon
+	b_qeka = tribal

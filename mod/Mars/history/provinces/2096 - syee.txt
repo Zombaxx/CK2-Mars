@@ -1,0 +1,5 @@
+	title = c_syee
+	max_settlements = 4
+	culture = catalan
+	religion = color
+	b_niowj = tribal

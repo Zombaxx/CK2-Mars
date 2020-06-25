@@ -1,0 +1,5 @@
+	title = c_koruna
+	max_settlements = 2
+	culture = dalmatian
+	religion = baltic_pagan
+	b_nereth = tribal

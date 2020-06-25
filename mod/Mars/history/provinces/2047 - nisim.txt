@@ -1,0 +1,5 @@
+	title = c_nisim
+	max_settlements = 3
+	culture = lombard
+	religion = tengri_pagan_reformed
+	b_netagan = tribal

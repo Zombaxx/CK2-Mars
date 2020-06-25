@@ -1,0 +1,5 @@
+	title = c_akorgil
+	max_settlements = 5
+	culture = bodpa
+	religion = manichean
+	b_boliami = tribal

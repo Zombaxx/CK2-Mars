@@ -1,0 +1,5 @@
+	title = c_acuman
+	max_settlements = 2
+	culture = sogdian
+	religion = ibadi
+	b_kefuppal = tribal

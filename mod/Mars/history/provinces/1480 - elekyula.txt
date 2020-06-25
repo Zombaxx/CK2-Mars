@@ -1,0 +1,5 @@
+	title = c_elekyula
+	max_settlements = 4
+	culture = manden
+	religion = aztec_reformed
+	b_aramyula = tribal

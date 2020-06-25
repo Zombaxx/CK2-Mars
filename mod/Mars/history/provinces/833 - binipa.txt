@@ -1,0 +1,5 @@
+	title = c_binipa
+	max_settlements = 2
+	culture = romanian
+	religion = qarmatian
+	b_kadanka = tribal

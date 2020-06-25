@@ -1,0 +1,5 @@
+	title = c_tevakk
+	max_settlements = 3
+	culture = pommeranian
+	religion = zikri
+	b_revita = tribal

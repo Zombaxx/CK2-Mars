@@ -1,0 +1,5 @@
+	title = c_wikenes
+	max_settlements = 2
+	culture = komi
+	religion = color
+	b_kalenes = tribal

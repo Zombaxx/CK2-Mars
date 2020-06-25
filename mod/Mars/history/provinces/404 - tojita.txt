@@ -1,0 +1,5 @@
+	title = c_tojita
+	max_settlements = 2
+	culture = meshchera
+	religion = jewish
+	b_kitisa = tribal

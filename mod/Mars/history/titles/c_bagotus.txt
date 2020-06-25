@@ -1,0 +1,46 @@
+758.2.1 = {
+	holder = 1000078
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	liege = d_nolemna
+}
+
+810.2.1 = {
+	holder = 1009258
+}
+
+859.2.1 = {
+	holder = 1009914
+}
+
+885.2.1 = {
+	holder = 1012433
+}
+
+918.2.1 = {
+	holder = 1013546
+}
+
+944.2.1 = {
+	holder = 1014994
+}
+
+951.2.1 = {
+	holder = 1016045
+}
+
+994.2.1 = {
+	holder = 1016813
+}
+
+1015.2.1 = {
+	holder = 1018506
+}
+
+1039.2.1 = {
+	holder = 1018659
+}
+

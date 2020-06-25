@@ -1,0 +1,150 @@
+758.2.1 = {
+	holder = 1000013
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1000959
+	law = succ_tanistry
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_natyer
+}
+
+758.2.4 = {
+	holder = 1000958
+	law = succ_tanistry
+	law = agnatic_succession
+}
+
+758.2.5 = {
+	holder = 1003270
+}
+
+796.2.1 = {
+	holder = 1005337
+}
+
+819.2.1 = {
+	liege = d_regema
+}
+
+819.2.2 = {
+	holder = 1009907
+}
+
+819.2.3 = {
+	liege = k_qeeteda
+}
+
+820.2.1 = {
+	liege = d_regema
+}
+
+820.2.2 = {
+	liege = d_natyer
+}
+
+820.2.3 = {
+	liege = d_abhapo
+}
+
+820.2.4 = {
+	holder = 1007978
+}
+
+845.2.1 = {
+	liege = d_natyer
+}
+
+845.2.2 = {
+	liege = d_qund
+}
+
+845.2.3 = {
+	holder = 1010273
+}
+
+850.2.1 = {
+	holder = 1011710
+}
+
+886.2.1 = {
+	holder = 1011759
+}
+
+889.2.1 = {
+	holder = 1013460
+}
+
+921.2.1 = {
+	holder = 1014419
+}
+
+935.2.1 = {
+	holder = 1015440
+}
+
+941.2.1 = {
+	liege = d_natyer
+}
+
+941.2.2 = {
+	liege = d_abhapo
+}
+
+941.2.3 = {
+	holder = 1015686
+}
+
+974.2.1 = {
+	liege = d_natyer
+}
+
+974.2.2 = {
+	liege = d_qund
+}
+
+974.2.3 = {
+	holder = 1016970
+}
+
+991.2.1 = {
+	liege = d_natyer
+}
+
+991.2.2 = {
+	liege = d_abhapo
+}
+
+991.2.3 = {
+	holder = 1017638
+}
+
+1007.2.1 = {
+	liege = d_natyer
+}
+
+1007.2.2 = {
+	liege = d_qund
+}
+
+1007.2.3 = {
+	holder = 1017685
+}
+
+1008.2.1 = {
+	holder = 1018261
+}
+
+1014.2.1 = {
+	holder = 1018500
+}
+
+1053.2.1 = {
+	holder = 1018540
+}
+

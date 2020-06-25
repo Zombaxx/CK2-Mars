@@ -1,0 +1,5 @@
+	title = c_bimavak
+	max_settlements = 2
+	culture = maghreb_arabic
+	religion = aztec
+	b_rosyuan = tribal

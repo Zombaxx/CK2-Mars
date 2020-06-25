@@ -1,0 +1,5 @@
+	title = c_beoek
+	max_settlements = 3
+	culture = panjabi
+	religion = taoist
+	b_emaim = tribal

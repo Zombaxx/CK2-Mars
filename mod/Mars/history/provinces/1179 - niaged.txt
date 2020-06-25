@@ -1,0 +1,5 @@
+	title = c_niaged
+	max_settlements = 2
+	culture = mordvin
+	religion = shiite
+	b_daraac = tribal

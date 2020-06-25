@@ -1,0 +1,5 @@
+	title = c_tasidia
+	max_settlements = 6
+	culture = coptic
+	religion = catholic
+	b_naria = tribal

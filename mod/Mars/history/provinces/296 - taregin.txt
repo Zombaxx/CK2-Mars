@@ -1,0 +1,5 @@
+	title = c_taregin
+	max_settlements = 4
+	culture = finnish
+	religion = baltic_pagan_reformed
+	b_emarida = tribal

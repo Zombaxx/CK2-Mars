@@ -1,0 +1,5 @@
+	title = c_apuke
+	max_settlements = 2
+	culture = oriya
+	religion = zun_pagan_reformed
+	b_ranedu = tribal

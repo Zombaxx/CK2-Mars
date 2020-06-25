@@ -1,0 +1,5 @@
+	title = c_teinura
+	max_settlements = 2
+	culture = samoyed
+	religion = jewish
+	b_akineka = tribal

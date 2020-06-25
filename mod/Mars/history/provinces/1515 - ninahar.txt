@@ -1,0 +1,5 @@
+	title = c_ninahar
+	max_settlements = 2
+	culture = jurchen
+	religion = messalian
+	b_nosai = tribal

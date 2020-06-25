@@ -1,0 +1,5 @@
+	title = c_kifyula
+	max_settlements = 2
+	culture = old_saxon
+	religion = zoroastrian
+	b_ebella = tribal

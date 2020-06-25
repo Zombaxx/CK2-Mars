@@ -1,0 +1,5 @@
+	title = c_kimaha
+	max_settlements = 2
+	culture = lithuanian
+	religion = shiite
+	b_tavalek = tribal

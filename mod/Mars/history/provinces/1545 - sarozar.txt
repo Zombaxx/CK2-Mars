@@ -1,0 +1,5 @@
+	title = c_sarozar
+	max_settlements = 2
+	culture = old_frankish
+	religion = orthodox
+	b_daline = tribal

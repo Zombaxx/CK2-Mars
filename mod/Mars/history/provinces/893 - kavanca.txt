@@ -1,0 +1,5 @@
+	title = c_kavanca
+	max_settlements = 2
+	culture = bohemian
+	religion = color
+	b_lelarma = tribal

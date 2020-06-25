@@ -1,0 +1,5 @@
+	title = c_seinavi
+	max_settlements = 5
+	culture = bolghar
+	religion = kharijite
+	b_kabdidin = tribal

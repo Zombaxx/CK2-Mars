@@ -1,0 +1,111 @@
+
+max_provinces = 2309
+definitions = "definition.csv"
+provinces = "provinces.bmp"
+positions = "positions.txt"
+terrain = "terrain.bmp"
+rivers = "rivers.bmp"
+terrain_definition = "terrain.txt"
+heightmap = "topology.bmp"
+tree_definition = "trees.bmp"
+continent = "continent.txt"
+adjacencies = "adjacencies.csv"
+climate = "climate.txt"
+region = "island_region.txt"
+geographical_region = "geographical_region.txt"
+static = "statics"
+seasons = "seasons.txt"
+
+sea_zones = { 2108 2136}
+sea_zones = { 2137 2165}
+sea_zones = { 2166 2197}
+sea_zones = { 2198 2226}
+sea_zones = { 2227 2255}
+sea_zones = { 2256 2264}
+sea_zones = { 2265 2276}
+sea_zones = { 2277 2278}
+sea_zones = { 2279 2279}
+sea_zones = { 2280 2281}
+sea_zones = { 2282 2282}
+sea_zones = { 2283 2283}
+sea_zones = { 2284 2284}
+sea_zones = { 2285 2286}
+sea_zones = { 2287 2287}
+sea_zones = { 2288 2288}
+sea_zones = { 2289 2289}
+sea_zones = { 2290 2290}
+sea_zones = { 2291 2291}
+sea_zones = { 2292 2292}
+sea_zones = { 2293 2293}
+sea_zones = { 2294 2294}
+sea_zones = { 2295 2295}
+sea_zones = { 2296 2296}
+sea_zones = { 2297 2297}
+sea_zones = { 2298 2298}
+sea_zones = { 2299 2299}
+sea_zones = { 2300 2300}
+sea_zones = { 2301 2301}
+sea_zones = { 2302 2302}
+sea_zones = { 2303 2303}
+sea_zones = { 2304 2304}
+sea_zones = { 2305 2305}
+sea_zones = { 2306 2306}
+sea_zones = { 2307 2307}
+sea_zones = { 2308 2308}
+ocean_region = { 
+     sea_zones = { 1 2 11 10 9 7 4 15 5 16 23 17 6 3 12 8 14 13 }
+}
+ocean_region = { 
+     sea_zones = { 18 }
+}
+ocean_region = { 
+     sea_zones = { 19 }
+}
+ocean_region = { 
+     sea_zones = { 20 }
+}
+ocean_region = { 
+     sea_zones = { 21 }
+}
+ocean_region = { 
+     sea_zones = { 22 }
+}
+ocean_region = { 
+     sea_zones = { 24 }
+}
+ocean_region = { 
+     sea_zones = { 25 }
+}
+ocean_region = { 
+     sea_zones = { 26 }
+}
+ocean_region = { 
+     sea_zones = { 27 }
+}
+ocean_region = { 
+     sea_zones = { 28 }
+}
+ocean_region = { 
+     sea_zones = { 29 }
+}
+ocean_region = { 
+     sea_zones = { 30 }
+}
+ocean_region = { 
+     sea_zones = { 31 }
+}
+ocean_region = { 
+     sea_zones = { 32 }
+}
+ocean_region = { 
+     sea_zones = { 33 }
+}
+ocean_region = { 
+     sea_zones = { 34 }
+}
+ocean_region = { 
+     sea_zones = { 35 }
+}
+ocean_region = { 
+     sea_zones = { 36 }
+}

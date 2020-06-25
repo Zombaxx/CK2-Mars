@@ -1,0 +1,5 @@
+	title = c_qazara
+	max_settlements = 2
+	culture = romanian
+	religion = buddhist
+	b_keirek = tribal

@@ -1,0 +1,5 @@
+	title = c_qyan
+	max_settlements = 2
+	culture = castillan
+	religion = waldensian
+	b_togalka = tribal

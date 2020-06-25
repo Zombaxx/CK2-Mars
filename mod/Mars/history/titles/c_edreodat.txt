@@ -1,0 +1,178 @@
+758.2.1 = {
+	holder = 1000021
+	law = succ_tanistry
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1001324
+	law = succ_tanistry
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_teodat
+}
+
+758.2.4 = {
+	holder = 1001322
+	law = succ_tanistry
+	law = agnatic_succession
+}
+
+900.2.1 = {
+	holder = 1012723
+}
+
+927.2.1 = {
+	liege = d_atrabha
+}
+
+927.2.2 = {
+	liege = d_dodavac
+}
+
+927.2.3 = {
+	liege = d_deek
+}
+
+927.2.4 = {
+	liege = d_toteek
+}
+
+927.2.5 = {
+	liege = d_sarach
+}
+
+927.2.6 = {
+	holder = 1013574
+}
+
+946.2.1 = {
+	liege = d_toteek
+}
+
+946.2.2 = {
+	liege = d_deek
+}
+
+946.2.3 = {
+	liege = d_dodavac
+}
+
+946.2.4 = {
+	holder = 1015866
+}
+
+979.2.1 = {
+	liege = d_deek
+}
+
+979.2.2 = {
+	liege = d_toteek
+}
+
+979.2.3 = {
+	liege = d_sarach
+}
+
+979.2.4 = {
+	holder = 1016277
+}
+
+999.2.1 = {
+	liege = d_toteek
+}
+
+999.2.2 = {
+	liege = d_deek
+}
+
+999.2.3 = {
+	liege = d_dodavac
+}
+
+999.2.4 = {
+	holder = 1017271
+}
+
+1015.2.1 = {
+	liege = d_deek
+}
+
+1015.2.2 = {
+	liege = d_toteek
+}
+
+1015.2.3 = {
+	liege = d_sarach
+}
+
+1015.2.4 = {
+	holder = 1018243
+}
+
+1017.2.1 = {
+	holder = 1018596
+}
+
+1029.2.1 = {
+	liege = d_toteek
+}
+
+1029.2.2 = {
+	liege = d_deek
+}
+
+1029.2.3 = {
+	liege = d_dodavac
+}
+
+1029.2.4 = {
+	holder = 1018845
+}
+
+1043.2.1 = {
+	liege = d_deek
+}
+
+1043.2.2 = {
+	liege = d_toteek
+}
+
+1043.2.3 = {
+	liege = d_sarach
+}
+
+1043.2.4 = {
+	holder = 1019518
+}
+
+1050.2.1 = {
+	holder = 1019880
+}
+
+1054.2.1 = {
+	holder = 1020019
+}
+
+1060.2.1 = {
+	liege = d_toteek
+}
+
+1060.2.2 = {
+	liege = d_deek
+}
+
+1060.2.3 = {
+	liege = d_dodavac
+}
+
+1060.2.4 = {
+	holder = 1020238
+}
+
+1061.2.1 = {
+	holder = 1020274
+}
+

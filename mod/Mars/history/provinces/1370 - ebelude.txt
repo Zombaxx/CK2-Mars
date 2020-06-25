@@ -1,0 +1,5 @@
+	title = c_ebelude
+	max_settlements = 2
+	culture = tocharian
+	religion = yazidi
+	b_lalutuq = tribal

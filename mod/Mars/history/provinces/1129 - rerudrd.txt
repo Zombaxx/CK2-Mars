@@ -1,0 +1,5 @@
+	title = c_rerudrd
+	max_settlements = 2
+	culture = croatian
+	religion = pagan
+	b_tahda = tribal

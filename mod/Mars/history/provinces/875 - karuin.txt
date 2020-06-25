@@ -1,0 +1,5 @@
+	title = c_karuin
+	max_settlements = 3
+	culture = han
+	religion = fraticelli
+	b_kyua = tribal

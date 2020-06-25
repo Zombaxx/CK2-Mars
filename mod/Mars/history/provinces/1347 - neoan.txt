@@ -1,0 +1,5 @@
+	title = c_neoan
+	max_settlements = 4
+	culture = uyghur
+	religion = pagan
+	b_notaqar = tribal

@@ -1,0 +1,5 @@
+	title = c_tadaani
+	max_settlements = 3
+	culture = coptic
+	religion = tengri_pagan_reformed
+	b_erajoor = tribal

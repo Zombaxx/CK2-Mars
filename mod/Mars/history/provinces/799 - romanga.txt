@@ -1,0 +1,5 @@
+	title = c_romanga
+	max_settlements = 3
+	culture = roman
+	religion = miaphysite
+	b_tomanga = tribal

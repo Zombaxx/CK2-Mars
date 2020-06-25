@@ -1,0 +1,5 @@
+	title = c_wereth
+	max_settlements = 2
+	culture = baloch
+	religion = zun_pagan
+	b_qaleth = tribal

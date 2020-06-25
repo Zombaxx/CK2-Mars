@@ -1,0 +1,5 @@
+	title = c_akliran
+	max_settlements = 2
+	culture = avar
+	religion = paulician
+	b_ajudegin = tribal

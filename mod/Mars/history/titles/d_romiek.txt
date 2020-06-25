@@ -1,0 +1,46 @@
+758.2.1 = {
+	holder = 1003129
+	law = succ_seniority
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	liege = k_raubagan
+}
+
+784.2.1 = {
+	holder = 1005450
+}
+
+815.2.1 = {
+	holder = 1007940
+}
+
+841.2.1 = {
+	holder = 1010166
+}
+
+887.2.1 = {
+	holder = 1012996
+}
+
+918.2.1 = {
+	holder = 1014748
+}
+
+949.2.1 = {
+	holder = 1015196
+}
+
+981.2.1 = {
+	holder = 1016451
+}
+
+1024.2.1 = {
+	holder = 1017596
+}
+
+1044.2.1 = {
+	holder = 1019531
+}
+

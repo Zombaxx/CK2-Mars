@@ -1,0 +1,160 @@
+758.2.1 = {
+	holder = 1000015
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1001056
+	law = succ_tanistry
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_tisa
+}
+
+758.2.4 = {
+	holder = 1001057
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.5 = {
+	holder = 1001052
+	law = succ_tanistry
+	law = agnatic_succession
+}
+
+788.2.1 = {
+	holder = 1005515
+}
+
+815.2.1 = {
+	holder = 1009345
+}
+
+818.2.1 = {
+	holder = 1004658
+}
+
+841.2.1 = {
+	liege = d_neru
+}
+
+841.2.2 = {
+	liege = d_turille
+}
+
+841.2.3 = {
+	liege = d_qeetdat
+}
+
+841.2.4 = {
+	liege = d_dunudan
+}
+
+841.2.5 = {
+	liege = d_qegoda
+}
+
+841.2.6 = {
+	liege = d_bamacob
+}
+
+841.2.7 = {
+	holder = 1009037
+}
+
+859.2.1 = {
+	holder = 1012108
+}
+
+921.2.1 = {
+	holder = 1012245
+}
+
+922.2.1 = {
+	holder = 1014877
+}
+
+945.2.1 = {
+	liege = d_qegoda
+}
+
+945.2.2 = {
+	liege = d_dunudan
+}
+
+945.2.3 = {
+	liege = d_qeetdat
+}
+
+945.2.4 = {
+	liege = d_turille
+}
+
+945.2.5 = {
+	liege = d_neru
+}
+
+945.2.6 = {
+	holder = 1015820
+}
+
+968.2.1 = {
+	liege = d_turille
+}
+
+968.2.2 = {
+	liege = d_qeetdat
+}
+
+968.2.3 = {
+	liege = d_dunudan
+}
+
+968.2.4 = {
+	liege = d_qegoda
+}
+
+968.2.5 = {
+	liege = d_bamacob
+}
+
+968.2.6 = {
+	holder = 1016348
+}
+
+978.2.1 = {
+	holder = 1017113
+}
+
+1025.2.1 = {
+	liege = d_qegoda
+}
+
+1025.2.2 = {
+	liege = d_dunudan
+}
+
+1025.2.3 = {
+	liege = d_qeetdat
+}
+
+1025.2.4 = {
+	liege = d_turille
+}
+
+1025.2.5 = {
+	liege = d_neru
+}
+
+1025.2.6 = {
+	holder = 1018929
+}
+
+1065.2.1 = {
+	holder = 1019799
+}
+

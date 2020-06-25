@@ -1,0 +1,5 @@
+	title = c_werge
+	max_settlements = 2
+	culture = khanty
+	religion = karaite
+	b_kininor = tribal

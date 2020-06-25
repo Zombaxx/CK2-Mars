@@ -1,0 +1,5 @@
+	title = c_tavuman
+	max_settlements = 2
+	culture = outremer
+	religion = samaritan
+	b_rusim = tribal

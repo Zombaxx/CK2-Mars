@@ -1,0 +1,5 @@
+	title = c_kivude
+	max_settlements = 2
+	culture = castillan
+	religion = pagan
+	b_evurga = tribal

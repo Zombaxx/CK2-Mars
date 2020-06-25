@@ -1,0 +1,242 @@
+758.2.1 = {
+	holder = 1000042
+	law = succ_tanistry
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1002195
+	law = succ_tanistry
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_luisa
+}
+
+758.2.4 = {
+	holder = 1002194
+	law = succ_tanistry
+	law = agnatic_succession
+}
+
+758.2.5 = {
+	holder = 1003236
+}
+
+780.2.1 = {
+	liege = d_emanca
+}
+
+780.2.2 = {
+	liege = d_qisiran
+}
+
+780.2.3 = {
+	liege = d_woramm
+}
+
+780.2.4 = {
+	liege = d_babasad
+}
+
+780.2.5 = {
+	liege = d_kairagha
+}
+
+780.2.6 = {
+	holder = 1004771
+}
+
+819.2.1 = {
+	holder = 1007805
+}
+
+819.2.2 = {
+	liege = k_bala
+}
+
+827.2.1 = {
+	liege = d_luisa
+}
+
+827.2.2 = {
+	liege = d_emanca
+}
+
+827.2.3 = {
+	liege = d_qisiran
+}
+
+827.2.4 = {
+	liege = d_woramm
+}
+
+827.2.5 = {
+	liege = d_babasad
+}
+
+827.2.6 = {
+	liege = d_kairagha
+}
+
+827.2.7 = {
+	holder = 1010459
+}
+
+841.2.1 = {
+	holder = 1011246
+}
+
+841.2.2 = {
+	liege = k_bala
+}
+
+888.2.1 = {
+	liege = d_qisiran
+}
+
+888.2.2 = {
+	liege = d_emanca
+}
+
+888.2.3 = {
+	liege = d_luisa
+}
+
+888.2.4 = {
+	liege = d_kairagha
+}
+
+888.2.5 = {
+	holder = 1011837
+}
+
+888.2.6 = {
+	liege = k_bala
+}
+
+906.2.1 = {
+	liege = d_tibagha
+}
+
+906.2.2 = {
+	liege = d_ebhiran
+}
+
+906.2.3 = {
+	liege = d_luisa
+}
+
+906.2.4 = {
+	liege = d_emanca
+}
+
+906.2.5 = {
+	liege = d_qisiran
+}
+
+906.2.6 = {
+	liege = d_woramm
+}
+
+906.2.7 = {
+	liege = d_babasad
+}
+
+906.2.8 = {
+	liege = d_kairagha
+}
+
+906.2.9 = {
+	holder = 1013454
+}
+
+947.2.1 = {
+	holder = 1014982
+}
+
+965.2.1 = {
+	holder = 1015984
+}
+
+965.2.2 = {
+	liege = k_bala
+}
+
+989.2.1 = {
+	liege = d_tibagha
+}
+
+989.2.2 = {
+	liege = d_ebhiran
+}
+
+989.2.3 = {
+	liege = d_luisa
+}
+
+989.2.4 = {
+	liege = d_emanca
+}
+
+989.2.5 = {
+	liege = d_qisiran
+}
+
+989.2.6 = {
+	liege = d_woramm
+}
+
+989.2.7 = {
+	liege = d_babasad
+}
+
+989.2.8 = {
+	liege = d_kairagha
+}
+
+989.2.9 = {
+	holder = 1016789
+}
+
+1019.2.1 = {
+	holder = 1017677
+}
+
+1019.2.2 = {
+	liege = k_bala
+}
+
+1043.2.1 = {
+	liege = d_tamernat
+}
+
+1043.2.2 = {
+	liege = d_ebhiran
+}
+
+1043.2.3 = {
+	liege = d_qisiran
+}
+
+1043.2.4 = {
+	liege = d_emanca
+}
+
+1043.2.5 = {
+	liege = d_luisa
+}
+
+1043.2.6 = {
+	liege = d_kairagha
+}
+
+1043.2.7 = {
+	holder = 1018732
+}
+
+1043.2.8 = {
+	liege = k_bala
+}
+

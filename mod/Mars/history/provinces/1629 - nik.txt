@@ -1,0 +1,5 @@
+	title = c_nik
+	max_settlements = 2
+	culture = sinhala
+	religion = slavic_pagan_reformed
+	b_dijuo = tribal

@@ -1,0 +1,5 @@
+	title = c_kya
+	max_settlements = 2
+	culture = welsh
+	religion = interface_skin
+	b_anomerma = tribal

@@ -1,0 +1,5 @@
+	title = c_ebeatda
+	max_settlements = 4
+	culture = ugricbaltic
+	religion = interface_skin
+	b_asvoura = tribal

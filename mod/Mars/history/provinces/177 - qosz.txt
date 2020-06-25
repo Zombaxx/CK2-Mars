@@ -1,0 +1,5 @@
+	title = c_qosz
+	max_settlements = 2
+	culture = bodpa
+	religion = interface_skin
+	b_qaqar = tribal

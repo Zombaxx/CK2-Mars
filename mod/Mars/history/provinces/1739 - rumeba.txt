@@ -1,0 +1,5 @@
+	title = c_rumeba
+	max_settlements = 2
+	culture = georgian
+	religion = iconoclast
+	b_qumeas = tribal

@@ -1,0 +1,5 @@
+	title = c_kagoa
+	max_settlements = 2
+	culture = uyghur
+	religion = zun_pagan
+	b_dyeuta = tribal

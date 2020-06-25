@@ -1,0 +1,5 @@
+	title = c_naranna
+	max_settlements = 2
+	culture = samoyed
+	religion = hellenic_pagan
+	b_qaismur = tribal

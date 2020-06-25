@@ -1,0 +1,5 @@
+	title = c_seetega
+	max_settlements = 2
+	culture = kirghiz
+	religion = baltic_pagan_reformed
+	b_wepi = tribal

@@ -1,0 +1,5 @@
+	title = c_domyi
+	max_settlements = 7
+	culture = basque
+	religion = bon_reformed
+	b_laks = tribal

@@ -1,0 +1,5 @@
+	title = c_badokal
+	max_settlements = 2
+	culture = old_saxon
+	religion = pagan
+	b_larokal = tribal

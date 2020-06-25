@@ -1,0 +1,5 @@
+	title = c_kumoras
+	max_settlements = 3
+	culture = portuguese
+	religion = aztec_reformed
+	b_sumyla = tribal

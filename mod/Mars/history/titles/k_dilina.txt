@@ -1,0 +1,46 @@
+758.2.1 = {
+	holder = 1003271
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	liege = e_silar
+}
+
+758.2.3 = {
+	liege = e_wakiraja
+}
+
+758.2.4 = {
+	liege = e_neatda
+}
+
+758.2.5 = {
+	liege = e_beidja
+}
+
+758.2.6 = {
+	liege = e_babandi
+}
+
+758.2.7 = {
+	liege = e_larar
+}
+
+758.2.8 = {
+	liege = e_kikina
+}
+
+786.2.1 = {
+	holder = 1005154
+}
+
+900.2.1 = {
+	holder = 1013909
+}
+
+1000.2.1 = {
+	holder = 1017945
+}
+

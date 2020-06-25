@@ -1,0 +1,128 @@
+758.2.1 = {
+	holder = 1000003
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	liege = d_tonerd
+}
+
+758.2.3 = {
+	liege = d_neraksa
+}
+
+758.2.4 = {
+	holder = 1001480
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+764.2.1 = {
+	holder = 1003209
+}
+
+793.2.1 = {
+	liege = d_womatta
+}
+
+793.2.2 = {
+	holder = 1004574
+}
+
+803.2.1 = {
+	liege = d_neraksa
+}
+
+803.2.2 = {
+	liege = d_qaha
+}
+
+803.2.3 = {
+	holder = 1008518
+}
+
+851.2.1 = {
+	holder = 1008717
+}
+
+861.2.1 = {
+	liege = d_neraksa
+}
+
+861.2.2 = {
+	liege = d_womatta
+}
+
+861.2.3 = {
+	holder = 1010562
+}
+
+864.2.1 = {
+	holder = 1012252
+}
+
+931.2.1 = {
+	liege = d_neraksa
+}
+
+931.2.2 = {
+	liege = d_qaha
+}
+
+931.2.3 = {
+	holder = 1013530
+}
+
+941.2.1 = {
+	liege = d_neraksa
+}
+
+941.2.2 = {
+	liege = d_womatta
+}
+
+941.2.3 = {
+	holder = 1015399
+}
+
+995.2.1 = {
+	holder = 1016166
+}
+
+1007.2.1 = {
+	liege = d_neraksa
+}
+
+1007.2.2 = {
+	liege = d_qaha
+}
+
+1007.2.3 = {
+	holder = 1018105
+}
+
+1010.2.1 = {
+	holder = 1018341
+}
+
+1015.2.1 = {
+	holder = 1018525
+}
+
+1016.2.1 = {
+	holder = 1018563
+}
+
+1033.2.1 = {
+	liege = d_neraksa
+}
+
+1033.2.2 = {
+	liege = d_womatta
+}
+
+1033.2.3 = {
+	holder = 1018599
+}
+

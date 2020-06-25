@@ -1,0 +1,5 @@
+	title = c_nineka
+	max_settlements = 2
+	culture = irish
+	religion = pagan
+	b_narija = tribal

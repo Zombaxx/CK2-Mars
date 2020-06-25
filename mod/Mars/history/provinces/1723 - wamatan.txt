@@ -1,0 +1,5 @@
+	title = c_wamatan
+	max_settlements = 2
+	culture = saka
+	religion = west_african_pagan_reformed
+	b_leciek = tribal

@@ -1,0 +1,5 @@
+	title = c_tanuigi
+	max_settlements = 2
+	culture = hindustani
+	religion = buddhist
+	b_ta = tribal

@@ -1,0 +1,5 @@
+	title = c_sineer
+	max_settlements = 4
+	culture = rajput
+	religion = qarmatian
+	b_waluin = tribal

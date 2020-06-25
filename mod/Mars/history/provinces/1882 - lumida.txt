@@ -1,0 +1,5 @@
+	title = c_lumida
+	max_settlements = 3
+	culture = daju
+	religion = karaite
+	b_edorert = tribal

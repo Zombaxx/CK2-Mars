@@ -1,0 +1,5 @@
+	title = c_katha
+	max_settlements = 5
+	culture = portuguese
+	religion = hindu
+	b_kuranu = tribal

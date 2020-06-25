@@ -1,0 +1,5 @@
+	title = c_nyatayla
+	max_settlements = 2
+	culture = nubian
+	religion = zoroastrian
+	b_syuvoljo = tribal

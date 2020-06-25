@@ -1,0 +1,5 @@
+	title = c_kentiy
+	max_settlements = 4
+	culture = breton
+	religion = yazidi
+	b_eriothi = tribal

@@ -1,0 +1,5 @@
+	title = c_bamatta
+	max_settlements = 4
+	culture = basque
+	religion = zikri
+	b_qirati = tribal

@@ -1,0 +1,5 @@
+	title = c_arush
+	max_settlements = 3
+	culture = sogdian
+	religion = buddhist
+	b_kireter = tribal

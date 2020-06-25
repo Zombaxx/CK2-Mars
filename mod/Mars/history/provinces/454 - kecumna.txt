@@ -1,0 +1,5 @@
+	title = c_kecumna
+	max_settlements = 4
+	culture = english
+	religion = aztec
+	b_kelanie = tribal

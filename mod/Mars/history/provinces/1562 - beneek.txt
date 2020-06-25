@@ -1,0 +1,5 @@
+	title = c_beneek
+	max_settlements = 2
+	culture = roman
+	religion = shiite
+	b_kukuke = tribal

@@ -1,0 +1,5 @@
+	title = c_laloa
+	max_settlements = 2
+	culture = sumpa
+	religion = druze
+	b_qalulnar = tribal

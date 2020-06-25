@@ -1,0 +1,5 @@
+	title = c_relam
+	max_settlements = 4
+	culture = kannada
+	religion = sunni
+	b_deonca = tribal

@@ -1,0 +1,5 @@
+	title = c_wasiel
+	max_settlements = 4
+	culture = lithuanian
+	religion = hindu
+	b_avecew = tribal

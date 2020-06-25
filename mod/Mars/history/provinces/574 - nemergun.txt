@@ -1,0 +1,5 @@
+	title = c_nemergun
+	max_settlements = 4
+	culture = kirghiz
+	religion = catholic
+	b_qadra = tribal

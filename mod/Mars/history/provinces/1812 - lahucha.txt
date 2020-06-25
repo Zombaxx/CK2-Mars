@@ -1,0 +1,5 @@
+	title = c_lahucha
+	max_settlements = 2
+	culture = danish
+	religion = interface_skin
+	b_nosasad = tribal

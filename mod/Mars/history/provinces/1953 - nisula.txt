@@ -1,0 +1,5 @@
+	title = c_nisula
+	max_settlements = 3
+	culture = songhay
+	religion = mazdaki
+	b_abawa = tribal

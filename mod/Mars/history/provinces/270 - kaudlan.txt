@@ -1,0 +1,5 @@
+	title = c_kaudlan
+	max_settlements = 3
+	culture = ethiopian
+	religion = karaite
+	b_becahim = tribal

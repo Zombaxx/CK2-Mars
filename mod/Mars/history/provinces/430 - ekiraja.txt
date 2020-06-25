@@ -1,0 +1,5 @@
+	title = c_ekiraja
+	max_settlements = 3
+	culture = ethiopian
+	religion = aztec_reformed
+	b_kararan = tribal

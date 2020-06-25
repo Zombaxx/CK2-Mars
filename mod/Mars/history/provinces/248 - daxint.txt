@@ -1,0 +1,5 @@
+	title = c_daxint
+	max_settlements = 2
+	culture = kirghiz
+	religion = ibadi
+	b_dumith = tribal

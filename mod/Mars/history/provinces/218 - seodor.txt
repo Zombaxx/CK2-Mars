@@ -1,0 +1,5 @@
+	title = c_seodor
+	max_settlements = 4
+	culture = lettigallish
+	religion = aztec
+	b_ramovya = tribal

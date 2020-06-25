@@ -1,0 +1,5 @@
+	title = c_tael
+	max_settlements = 4
+	culture = bedouin_arabic
+	religion = zun_pagan_reformed
+	b_nyunoman = tribal

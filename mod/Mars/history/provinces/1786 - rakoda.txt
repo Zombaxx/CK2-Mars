@@ -1,0 +1,5 @@
+	title = c_rakoda
+	max_settlements = 4
+	culture = norman
+	religion = miaphysite
+	b_sarisa = tribal

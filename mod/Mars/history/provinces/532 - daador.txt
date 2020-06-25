@@ -1,0 +1,5 @@
+	title = c_daador
+	max_settlements = 2
+	culture = nubian
+	religion = bon
+	b_dauftun = tribal

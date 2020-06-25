@@ -1,0 +1,5 @@
+	title = c_sara
+	max_settlements = 3
+	culture = somali
+	religion = finnish_pagan
+	b_raisona = tribal

@@ -1,0 +1,5 @@
+	title = c_rania
+	max_settlements = 2
+	culture = han
+	religion = yazidi
+	b_kucodis = tribal

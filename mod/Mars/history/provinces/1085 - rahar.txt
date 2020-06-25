@@ -1,0 +1,5 @@
+	title = c_rahar
+	max_settlements = 2
+	culture = turkish
+	religion = hellenic_pagan
+	b_laiah = tribal

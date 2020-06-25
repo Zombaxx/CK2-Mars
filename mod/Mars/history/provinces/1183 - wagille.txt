@@ -1,0 +1,5 @@
+	title = c_wagille
+	max_settlements = 3
+	culture = marathi
+	religion = catholic
+	b_wahapal = tribal

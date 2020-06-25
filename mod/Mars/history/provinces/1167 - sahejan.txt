@@ -1,0 +1,5 @@
+	title = c_sahejan
+	max_settlements = 2
+	culture = english
+	religion = lollard
+	b_rarilii = tribal

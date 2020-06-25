@@ -1,0 +1,5 @@
+	title = c_teneka
+	max_settlements = 2
+	culture = khanty
+	religion = aztec_reformed
+	b_saleuta = tribal

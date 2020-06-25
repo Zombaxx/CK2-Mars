@@ -1,0 +1,5 @@
+	title = c_renes
+	max_settlements = 3
+	culture = manden
+	religion = west_african_pagan
+	b_kifoses = tribal

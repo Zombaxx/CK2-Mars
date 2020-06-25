@@ -1,0 +1,5 @@
+	title = c_navanca
+	max_settlements = 2
+	culture = volhynian
+	religion = druze
+	b_reom = tribal

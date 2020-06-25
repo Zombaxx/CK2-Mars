@@ -1,0 +1,5 @@
+	title = c_ehakoto
+	max_settlements = 2
+	culture = old_saxon
+	religion = waldensian
+	b_asille = tribal

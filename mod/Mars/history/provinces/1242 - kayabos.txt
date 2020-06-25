@@ -1,0 +1,5 @@
+	title = c_kayabos
+	max_settlements = 2
+	culture = karluk
+	religion = hellenic_pagan_reformed
+	b_dojeas = tribal

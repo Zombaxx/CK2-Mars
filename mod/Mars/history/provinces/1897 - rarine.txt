@@ -1,0 +1,5 @@
+	title = c_rarine
+	max_settlements = 2
+	culture = ilmenian
+	religion = hellenic_pagan_reformed
+	b_seodor = tribal

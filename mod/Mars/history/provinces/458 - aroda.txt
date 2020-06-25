@@ -1,0 +1,5 @@
+	title = c_aroda
+	max_settlements = 3
+	culture = khitan
+	religion = bogomilist
+	b_samosai = tribal

@@ -1,0 +1,5 @@
+	title = c_sotogna
+	max_settlements = 2
+	culture = khanty
+	religion = zoroastrian
+	b_dumeter = tribal

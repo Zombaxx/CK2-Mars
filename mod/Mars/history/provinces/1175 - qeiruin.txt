@@ -1,0 +1,5 @@
+	title = c_qeiruin
+	max_settlements = 2
+	culture = bosnian
+	religion = baltic_pagan
+	b_selagnus = tribal

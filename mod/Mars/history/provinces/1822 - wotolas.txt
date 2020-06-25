@@ -1,0 +1,5 @@
+	title = c_wotolas
+	max_settlements = 2
+	culture = samoyed
+	religion = pagan
+	b_dibavac = tribal

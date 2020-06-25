@@ -1,0 +1,5 @@
+	title = c_dasilvi
+	max_settlements = 2
+	culture = rajput
+	religion = kharijite
+	b_rolopher = tribal

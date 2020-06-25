@@ -1,0 +1,5 @@
+	title = c_qosai
+	max_settlements = 4
+	culture = sephardi
+	religion = hellenic_pagan
+	b_dinain = tribal

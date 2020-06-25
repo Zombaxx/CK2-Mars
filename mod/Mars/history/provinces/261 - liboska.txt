@@ -1,0 +1,5 @@
+	title = c_liboska
+	max_settlements = 2
+	culture = songhay
+	religion = finnish_pagan
+	b_botabr = tribal

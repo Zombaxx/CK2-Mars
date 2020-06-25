@@ -1,0 +1,5 @@
+	title = c_qohewal
+	max_settlements = 2
+	culture = italian
+	religion = paulician
+	b_timugno = tribal

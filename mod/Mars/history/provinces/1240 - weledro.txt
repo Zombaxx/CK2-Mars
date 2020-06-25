@@ -1,0 +1,5 @@
+	title = c_weledro
+	max_settlements = 2
+	culture = bolghar
+	religion = fraticelli
+	b_rahaul = tribal

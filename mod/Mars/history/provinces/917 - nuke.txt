@@ -1,0 +1,5 @@
+	title = c_nuke
+	max_settlements = 2
+	culture = roman
+	religion = zoroastrian
+	b_ranyula = tribal

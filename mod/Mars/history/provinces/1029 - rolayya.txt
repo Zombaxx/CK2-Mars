@@ -1,0 +1,5 @@
+	title = c_rolayya
+	max_settlements = 2
+	culture = kanuri
+	religion = interface_skin
+	b_ebibirai = tribal

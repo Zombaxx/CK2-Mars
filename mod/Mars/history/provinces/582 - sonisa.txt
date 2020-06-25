@@ -1,0 +1,5 @@
+	title = c_sonisa
+	max_settlements = 4
+	culture = maghreb_arabic
+	religion = samaritan
+	b_kajork = tribal

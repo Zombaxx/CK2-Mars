@@ -1,0 +1,5 @@
+	title = c_namelec
+	max_settlements = 2
+	culture = saka
+	religion = finnish_pagan_reformed
+	b_tyefila = tribal

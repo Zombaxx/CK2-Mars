@@ -1,0 +1,5 @@
+	title = c_rulagni
+	max_settlements = 2
+	culture = nahuatl
+	religion = hurufi
+	b_dalafiz = tribal

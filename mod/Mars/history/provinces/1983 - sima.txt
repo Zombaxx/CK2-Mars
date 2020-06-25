@@ -1,0 +1,5 @@
+	title = c_sima
+	max_settlements = 2
+	culture = dutch
+	religion = baltic_pagan
+	b_walric = tribal

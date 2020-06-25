@@ -1,0 +1,5 @@
+	title = c_kuraksa
+	max_settlements = 3
+	culture = occitan
+	religion = slavic_pagan_reformed
+	b_ruripaz = tribal

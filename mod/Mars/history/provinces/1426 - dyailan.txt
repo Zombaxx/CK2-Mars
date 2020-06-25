@@ -1,0 +1,5 @@
+	title = c_dyailan
+	max_settlements = 2
+	culture = ashkenazi
+	religion = mazdaki
+	b_qohaud = tribal

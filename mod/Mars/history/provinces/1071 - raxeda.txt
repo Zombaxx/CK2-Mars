@@ -1,0 +1,5 @@
+	title = c_raxeda
+	max_settlements = 2
+	culture = crimean_gothic
+	religion = color
+	b_sumura = tribal

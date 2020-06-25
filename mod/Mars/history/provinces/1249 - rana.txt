@@ -1,0 +1,5 @@
+	title = c_rana
+	max_settlements = 2
+	culture = slovieni
+	religion = khurmazta
+	b_etruke = tribal

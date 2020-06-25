@@ -1,0 +1,5 @@
+	title = c_namint
+	max_settlements = 4
+	culture = coptic
+	religion = pagan
+	b_ryinuke = tribal

@@ -1,0 +1,5 @@
+	title = c_tubecca
+	max_settlements = 6
+	culture = maghreb_arabic
+	religion = kharijite
+	b_kinapal = tribal

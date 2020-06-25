@@ -1,0 +1,5 @@
+	title = c_reph
+	max_settlements = 2
+	culture = maghreb_arabic
+	religion = tengri_pagan_reformed
+	b_aboloul = tribal

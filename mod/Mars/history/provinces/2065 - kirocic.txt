@@ -1,0 +1,5 @@
+	title = c_kirocic
+	max_settlements = 3
+	culture = armenian
+	religion = samaritan
+	b_dyoi = tribal

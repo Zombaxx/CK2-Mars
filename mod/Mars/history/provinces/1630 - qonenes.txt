@@ -1,0 +1,5 @@
+	title = c_qonenes
+	max_settlements = 2
+	culture = assamese
+	religion = orthodox
+	b_wonara = tribal

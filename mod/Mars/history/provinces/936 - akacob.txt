@@ -1,0 +1,5 @@
+	title = c_akacob
+	max_settlements = 2
+	culture = songhay
+	religion = khurmazta
+	b_anarory = tribal

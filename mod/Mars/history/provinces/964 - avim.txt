@@ -1,0 +1,5 @@
+	title = c_avim
+	max_settlements = 2
+	culture = scottish
+	religion = buddhist
+	b_kigew = tribal

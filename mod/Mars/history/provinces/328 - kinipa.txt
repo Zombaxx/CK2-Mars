@@ -1,0 +1,5 @@
+	title = c_kinipa
+	max_settlements = 3
+	culture = marathi
+	religion = catholic
+	b_binajid = tribal

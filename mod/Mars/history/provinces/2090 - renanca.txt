@@ -1,0 +1,5 @@
+	title = c_renanca
+	max_settlements = 2
+	culture = frankish
+	religion = shiite
+	b_lereth = tribal

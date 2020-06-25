@@ -1,0 +1,5 @@
+	title = c_korakh
+	max_settlements = 3
+	culture = pictish
+	religion = waldensian
+	b_norara = tribal

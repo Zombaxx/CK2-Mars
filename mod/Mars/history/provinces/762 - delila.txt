@@ -1,0 +1,5 @@
+	title = c_delila
+	max_settlements = 2
+	culture = saxon
+	religion = norse_pagan
+	b_lalo = tribal

@@ -1,0 +1,5 @@
+	title = c_evaleek
+	max_settlements = 2
+	culture = bohemian
+	religion = druze
+	b_raneek = tribal

@@ -1,0 +1,5 @@
+	title = c_waimita
+	max_settlements = 2
+	culture = khazar
+	religion = jewish
+	b_kasaaq = tribal

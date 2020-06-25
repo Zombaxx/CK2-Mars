@@ -1,0 +1,5 @@
+	title = c_kadecca
+	max_settlements = 2
+	culture = norman
+	religion = pagan
+	b_binanka = tribal

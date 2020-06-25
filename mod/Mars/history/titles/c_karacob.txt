@@ -1,0 +1,176 @@
+758.2.1 = {
+	holder = 1000048
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1002534
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	liege = d_lebayla
+}
+
+758.2.4 = {
+	holder = 1002535
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.5 = {
+	holder = 1002532
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+793.2.1 = {
+	liege = d_egawabib
+}
+
+793.2.2 = {
+	holder = 1004060
+}
+
+793.2.3 = {
+	liege = k_nenur
+}
+
+794.2.1 = {
+	liege = d_lebayla
+}
+
+794.2.2 = {
+	liege = d_egawabib
+}
+
+794.2.3 = {
+	holder = 1002512
+}
+
+794.2.4 = {
+	liege = k_nenur
+}
+
+799.2.1 = {
+	liege = d_lebayla
+}
+
+799.2.2 = {
+	liege = d_egawabib
+}
+
+799.2.3 = {
+	holder = 1004716
+}
+
+799.2.4 = {
+	liege = k_nenur
+}
+
+811.2.1 = {
+	liege = d_lebayla
+}
+
+811.2.2 = {
+	liege = d_nyfn
+}
+
+811.2.3 = {
+	holder = 1009190
+}
+
+865.2.1 = {
+	liege = d_lebayla
+}
+
+865.2.2 = {
+	liege = d_egawabib
+}
+
+865.2.3 = {
+	holder = 1011303
+}
+
+904.2.1 = {
+	holder = 1012507
+}
+
+907.2.1 = {
+	holder = 1014231
+}
+
+933.2.1 = {
+	liege = d_lebayla
+}
+
+933.2.2 = {
+	liege = d_nyfn
+}
+
+933.2.3 = {
+	liege = d_qirund
+}
+
+933.2.4 = {
+	holder = 1015234
+}
+
+991.2.1 = {
+	liege = d_nyfn
+}
+
+991.2.2 = {
+	liege = d_lebayla
+}
+
+991.2.3 = {
+	liege = d_egawabib
+}
+
+991.2.4 = {
+	holder = 1015947
+}
+
+998.2.1 = {
+	holder = 1017681
+}
+
+1000.2.1 = {
+	liege = d_lebayla
+}
+
+1000.2.2 = {
+	liege = d_nyfn
+}
+
+1000.2.3 = {
+	liege = d_qirund
+}
+
+1000.2.4 = {
+	holder = 1017973
+}
+
+1021.2.1 = {
+	liege = d_nyfn
+}
+
+1021.2.2 = {
+	liege = d_lebayla
+}
+
+1021.2.3 = {
+	liege = d_egawabib
+}
+
+1021.2.4 = {
+	holder = 1018014
+}
+
+1036.2.1 = {
+	holder = 1018901
+}
+

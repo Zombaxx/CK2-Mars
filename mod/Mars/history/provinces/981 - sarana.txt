@@ -1,0 +1,5 @@
+	title = c_sarana
+	max_settlements = 4
+	culture = norse
+	religion = fraticelli
+	b_talius = tribal

@@ -1,0 +1,5 @@
+	title = c_sasirai
+	max_settlements = 3
+	culture = somali
+	religion = cathar
+	b_tugying = tribal

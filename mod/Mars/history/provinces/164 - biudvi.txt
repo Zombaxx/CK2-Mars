@@ -1,0 +1,5 @@
+	title = c_biudvi
+	max_settlements = 4
+	culture = bulgarian
+	religion = bon_reformed
+	b_avaroj = tribal

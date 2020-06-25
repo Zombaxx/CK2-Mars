@@ -1,0 +1,5 @@
+	title = c_ahjoja
+	max_settlements = 2
+	culture = carantanian
+	religion = miaphysite
+	b_eskardus = tribal

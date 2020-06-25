@@ -1,0 +1,5 @@
+	title = c_nyasoto
+	max_settlements = 2
+	culture = bodpa
+	religion = sunni
+	b_tojaria = tribal

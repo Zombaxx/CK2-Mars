@@ -1,0 +1,5 @@
+	title = c_kinanda
+	max_settlements = 2
+	culture = catalan
+	religion = aztec
+	b_keler = tribal

@@ -1,0 +1,5 @@
+	title = c_wukaac
+	max_settlements = 2
+	culture = han
+	religion = buddhist
+	b_kyakafa = tribal

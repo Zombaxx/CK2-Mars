@@ -1,0 +1,5 @@
+	title = c_segew
+	max_settlements = 3
+	culture = frisian
+	religion = ibadi
+	b_lahint = tribal

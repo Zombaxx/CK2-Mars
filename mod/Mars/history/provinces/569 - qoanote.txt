@@ -1,0 +1,5 @@
+	title = c_qoanote
+	max_settlements = 2
+	culture = norman
+	religion = finnish_pagan_reformed
+	b_amuboras = tribal

@@ -1,0 +1,5 @@
+	title = c_sararma
+	max_settlements = 2
+	culture = sindhi
+	religion = catholic
+	b_revanie = tribal

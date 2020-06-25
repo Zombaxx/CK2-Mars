@@ -1,0 +1,5 @@
+	title = c_nasegin
+	max_settlements = 3
+	culture = pecheneg
+	religion = baltic_pagan_reformed
+	b_syunona = tribal

@@ -1,0 +1,5 @@
+	title = c_todena
+	max_settlements = 3
+	culture = lettigallish
+	religion = monophysite
+	b_buluke = tribal

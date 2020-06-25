@@ -1,0 +1,5 @@
+	title = c_abaudin
+	max_settlements = 3
+	culture = maghreb_arabic
+	religion = slavic_pagan
+	b_barasin = tribal

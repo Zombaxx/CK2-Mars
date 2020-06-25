@@ -1,0 +1,5 @@
+	title = c_nekegin
+	max_settlements = 3
+	culture = mordvin
+	religion = iconoclast
+	b_wubenes = tribal

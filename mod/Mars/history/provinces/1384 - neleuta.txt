@@ -1,0 +1,5 @@
+	title = c_neleuta
+	max_settlements = 2
+	culture = alan
+	religion = khurmazta
+	b_talohn = tribal

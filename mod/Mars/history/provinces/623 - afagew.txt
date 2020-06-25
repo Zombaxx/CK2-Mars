@@ -1,0 +1,5 @@
+	title = c_afagew
+	max_settlements = 2
+	culture = kirghiz
+	religion = shiite
+	b_lanalter = tribal

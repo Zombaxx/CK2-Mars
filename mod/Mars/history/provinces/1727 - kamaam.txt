@@ -1,0 +1,5 @@
+	title = c_kamaam
+	max_settlements = 3
+	culture = sinhala
+	religion = pagan
+	b_emaroor = tribal

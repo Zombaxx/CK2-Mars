@@ -1,0 +1,5 @@
+	title = c_lagoriy
+	max_settlements = 2
+	culture = rajput
+	religion = zun_pagan_reformed
+	b_bernida = tribal

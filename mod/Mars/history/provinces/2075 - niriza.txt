@@ -1,0 +1,5 @@
+	title = c_niriza
+	max_settlements = 3
+	culture = basque
+	religion = zikri
+	b_dakato = tribal

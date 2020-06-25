@@ -1,0 +1,5 @@
+	title = c_sududan
+	max_settlements = 2
+	culture = outremer
+	religion = catholic
+	b_qaludan = tribal

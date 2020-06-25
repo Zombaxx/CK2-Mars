@@ -1,0 +1,5 @@
+	title = c_adiami
+	max_settlements = 2
+	culture = uyghur
+	religion = slavic_pagan
+	b_dahadda = tribal

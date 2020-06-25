@@ -1,0 +1,5 @@
+	title = c_reraha
+	max_settlements = 3
+	culture = castillan
+	religion = bon
+	b_qadaksa = tribal

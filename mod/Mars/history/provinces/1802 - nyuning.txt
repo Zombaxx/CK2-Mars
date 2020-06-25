@@ -1,0 +1,5 @@
+	title = c_nyuning
+	max_settlements = 2
+	culture = suebi
+	religion = yazidi
+	b_lisayla = tribal

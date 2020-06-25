@@ -1,0 +1,5 @@
+	title = c_eketul
+	max_settlements = 2
+	culture = telugu
+	religion = nestorian
+	b_leteir = tribal

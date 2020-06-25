@@ -1,0 +1,5 @@
+	title = c_lalahar
+	max_settlements = 2
+	culture = frisian
+	religion = color
+	b_kalosai = tribal

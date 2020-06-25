@@ -1,0 +1,5 @@
+	title = c_wararam
+	max_settlements = 2
+	culture = outremer
+	religion = yazidi
+	b_larija = tribal

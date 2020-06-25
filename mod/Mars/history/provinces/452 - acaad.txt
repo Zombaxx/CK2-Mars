@@ -1,0 +1,5 @@
+	title = c_acaad
+	max_settlements = 4
+	culture = georgian
+	religion = miaphysite
+	b_tinine = tribal

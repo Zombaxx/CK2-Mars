@@ -1,0 +1,5 @@
+	title = c_darit
+	max_settlements = 3
+	culture = uyghur
+	religion = taoist
+	b_senura = tribal

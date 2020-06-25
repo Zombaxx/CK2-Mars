@@ -1,0 +1,5 @@
+	title = c_elastu
+	max_settlements = 2
+	culture = hungarian
+	religion = pagan
+	b_bizaev = tribal

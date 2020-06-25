@@ -1,0 +1,5 @@
+	title = c_dyuin
+	max_settlements = 3
+	culture = scottish
+	religion = west_african_pagan
+	b_seluin = tribal

@@ -1,0 +1,5 @@
+	title = c_kaydam
+	max_settlements = 3
+	culture = jurchen
+	religion = ibadi
+	b_decuti = tribal

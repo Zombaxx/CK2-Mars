@@ -1,0 +1,5 @@
+	title = c_tamafa
+	max_settlements = 4
+	culture = assamese
+	religion = hindu
+	b_kobipac = tribal

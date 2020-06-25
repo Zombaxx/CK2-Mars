@@ -1,0 +1,5 @@
+	title = c_quradan
+	max_settlements = 2
+	culture = suebi
+	religion = slavic_pagan
+	b_kiteda = tribal

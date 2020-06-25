@@ -1,0 +1,5 @@
+	title = c_wiraja
+	max_settlements = 2
+	culture = roman
+	religion = iconoclast
+	b_welilii = tribal

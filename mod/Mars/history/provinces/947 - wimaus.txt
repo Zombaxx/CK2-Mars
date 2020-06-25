@@ -1,0 +1,5 @@
+	title = c_wimaus
+	max_settlements = 2
+	culture = andalusian_arabic
+	religion = aztec_reformed
+	b_wamach = tribal

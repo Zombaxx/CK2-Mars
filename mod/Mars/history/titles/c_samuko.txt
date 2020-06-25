@@ -1,0 +1,126 @@
+758.2.1 = {
+	holder = 1000049
+	law = succ_seniority
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1002667
+	law = succ_seniority
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	liege = d_karyla
+}
+
+758.2.4 = {
+	liege = d_tumokia
+}
+
+758.2.5 = {
+	holder = 1002590
+	law = succ_seniority
+	law = cognatic_succession
+}
+
+786.2.1 = {
+	holder = 1006002
+}
+
+826.2.1 = {
+	holder = 1007538
+}
+
+827.2.1 = {
+	holder = 1010108
+}
+
+833.2.1 = {
+	holder = 1010533
+}
+
+838.2.1 = {
+	holder = 1005559
+}
+
+839.2.1 = {
+	holder = 1011128
+}
+
+855.2.1 = {
+	liege = d_wubaola
+}
+
+855.2.2 = {
+	liege = d_toguko
+}
+
+855.2.3 = {
+	holder = 1011490
+}
+
+919.2.1 = {
+	liege = d_wubaola
+}
+
+919.2.2 = {
+	liege = d_tumokia
+}
+
+919.2.3 = {
+	holder = 1014778
+}
+
+972.2.1 = {
+	liege = d_wubaola
+}
+
+972.2.2 = {
+	liege = d_toguko
+}
+
+972.2.3 = {
+	holder = 1015988
+}
+
+986.2.1 = {
+	liege = d_wubaola
+}
+
+986.2.2 = {
+	liege = d_tumokia
+}
+
+986.2.3 = {
+	holder = 1017319
+}
+
+988.2.1 = {
+	holder = 1017520
+}
+
+1006.2.1 = {
+	liege = d_wubaola
+}
+
+1006.2.2 = {
+	liege = d_toguko
+}
+
+1006.2.3 = {
+	holder = 1017561
+}
+
+1048.2.1 = {
+	liege = d_tekele
+}
+
+1048.2.2 = {
+	liege = d_qubiuva
+}
+
+1048.2.3 = {
+	holder = 1018537
+}
+

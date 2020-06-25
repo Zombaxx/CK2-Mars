@@ -1,0 +1,5 @@
+	title = c_kahnou
+	max_settlements = 2
+	culture = assamese
+	religion = messalian
+	b_rolaret = tribal

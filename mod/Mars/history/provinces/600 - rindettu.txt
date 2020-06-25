@@ -1,0 +1,5 @@
+	title = c_rindettu
+	max_settlements = 4
+	culture = scottish
+	religion = color
+	b_tatyi = tribal

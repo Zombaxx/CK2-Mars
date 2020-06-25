@@ -1,0 +1,5 @@
+	title = c_abhucho
+	max_settlements = 2
+	culture = romanian
+	religion = slavic_pagan
+	b_rinatok = tribal

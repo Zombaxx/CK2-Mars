@@ -1,0 +1,5 @@
+	title = c_nie
+	max_settlements = 2
+	culture = croatian
+	religion = norse_pagan
+	b_qakudrd = tribal

@@ -1,0 +1,5 @@
+	title = c_barazi
+	max_settlements = 2
+	culture = kanuri
+	religion = finnish_pagan_reformed
+	b_roripa = tribal

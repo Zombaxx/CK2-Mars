@@ -1,0 +1,5 @@
+	title = c_kibew
+	max_settlements = 2
+	culture = lappish
+	religion = west_african_pagan_reformed
+	b_suzosz = tribal

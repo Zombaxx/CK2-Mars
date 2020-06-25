@@ -1,0 +1,5 @@
+	title = c_raseinn
+	max_settlements = 2
+	culture = soninke
+	religion = khurmazta
+	b_neupugh = tribal

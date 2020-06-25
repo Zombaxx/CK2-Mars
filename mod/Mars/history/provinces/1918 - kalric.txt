@@ -1,0 +1,5 @@
+	title = c_kalric
+	max_settlements = 2
+	culture = ilmenian
+	religion = messalian
+	b_keph = tribal

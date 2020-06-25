@@ -1,0 +1,5 @@
+	title = c_edazja
+	max_settlements = 3
+	culture = songhay
+	religion = orthodox
+	b_seconno = tribal

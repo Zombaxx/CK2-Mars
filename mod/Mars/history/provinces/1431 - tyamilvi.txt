@@ -1,0 +1,5 @@
+	title = c_tyamilvi
+	max_settlements = 3
+	culture = khitan
+	religion = lollard
+	b_byamim = tribal

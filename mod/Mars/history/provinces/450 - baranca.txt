@@ -1,0 +1,5 @@
+	title = c_baranca
+	max_settlements = 6
+	culture = bedouin_arabic
+	religion = sunni
+	b_weceila = tribal

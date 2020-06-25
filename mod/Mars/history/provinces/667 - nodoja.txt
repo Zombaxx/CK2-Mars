@@ -1,0 +1,5 @@
+	title = c_nodoja
+	max_settlements = 3
+	culture = songhay
+	religion = hindu
+	b_kiboja = tribal

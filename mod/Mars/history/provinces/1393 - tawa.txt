@@ -1,0 +1,5 @@
+	title = c_tawa
+	max_settlements = 2
+	culture = han
+	religion = nestorian
+	b_sunita = tribal

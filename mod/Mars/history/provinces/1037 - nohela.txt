@@ -1,0 +1,5 @@
+	title = c_nohela
+	max_settlements = 5
+	culture = nubian
+	religion = monothelite
+	b_ralulnar = tribal

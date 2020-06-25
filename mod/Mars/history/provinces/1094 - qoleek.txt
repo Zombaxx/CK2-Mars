@@ -1,0 +1,5 @@
+	title = c_qoleek
+	max_settlements = 3
+	culture = oriya
+	religion = zikri
+	b_amayoek = tribal

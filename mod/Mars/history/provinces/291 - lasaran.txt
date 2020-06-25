@@ -1,0 +1,5 @@
+	title = c_lasaran
+	max_settlements = 5
+	culture = old_frankish
+	religion = iconoclast
+	b_badilii = tribal

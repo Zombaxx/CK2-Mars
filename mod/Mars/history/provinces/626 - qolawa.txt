@@ -1,0 +1,5 @@
+	title = c_qolawa
+	max_settlements = 3
+	culture = outremer
+	religion = kharijite
+	b_kotard = tribal

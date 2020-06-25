@@ -1,0 +1,5 @@
+	title = c_kamote
+	max_settlements = 2
+	culture = visigothic
+	religion = norse_pagan_reformed
+	b_kamoras = tribal

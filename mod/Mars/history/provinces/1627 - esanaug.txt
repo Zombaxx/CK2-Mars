@@ -1,0 +1,5 @@
+	title = c_esanaug
+	max_settlements = 2
+	culture = uyghur
+	religion = taoist
+	b_edadania = tribal

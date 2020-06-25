@@ -1,0 +1,5 @@
+	title = c_tabyo
+	max_settlements = 2
+	culture = kirghiz
+	religion = aztec
+	b_naroyan = tribal

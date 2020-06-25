@@ -1,0 +1,5 @@
+	title = c_teluo
+	max_settlements = 3
+	culture = finnish
+	religion = west_african_pagan
+	b_ekadeye = tribal

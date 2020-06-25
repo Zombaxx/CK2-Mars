@@ -1,0 +1,5 @@
+	title = c_tijunai
+	max_settlements = 2
+	culture = meshchera
+	religion = nestorian
+	b_dyudeph = tribal

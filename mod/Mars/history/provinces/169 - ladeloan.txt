@@ -1,0 +1,5 @@
+	title = c_ladeloan
+	max_settlements = 2
+	culture = welsh
+	religion = kharijite
+	b_waulenes = tribal

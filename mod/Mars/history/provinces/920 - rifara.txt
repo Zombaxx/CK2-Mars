@@ -1,0 +1,5 @@
+	title = c_rifara
+	max_settlements = 6
+	culture = uyghur
+	religion = interface_skin
+	b_balenes = tribal

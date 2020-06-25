@@ -1,0 +1,128 @@
+758.2.1 = {
+	holder = 1000007
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1000008
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	holder = 1000715
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+758.2.4 = {
+	liege = d_daxalli
+}
+
+758.2.5 = {
+	holder = 1000714
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+758.2.6 = {
+	holder = 1003164
+}
+
+773.2.1 = {
+	liege = d_ahimucha
+}
+
+773.2.2 = {
+	holder = 1004560
+}
+
+773.2.3 = {
+	liege = k_kemying
+}
+
+806.2.1 = {
+	liege = d_kaxying
+}
+
+806.2.2 = {
+	liege = d_neralo
+}
+
+806.2.3 = {
+	liege = d_tugavak
+}
+
+806.2.4 = {
+	liege = d_kolerhi
+}
+
+806.2.5 = {
+	liege = d_amumying
+}
+
+806.2.6 = {
+	liege = d_qubila
+}
+
+806.2.7 = {
+	liege = d_daxalli
+}
+
+806.2.8 = {
+	liege = d_ahimucha
+}
+
+806.2.9 = {
+	holder = 1006608
+}
+
+836.2.1 = {
+	liege = d_daxalli
+}
+
+836.2.2 = {
+	holder = 1009373
+}
+
+863.2.1 = {
+	holder = 1012295
+}
+
+867.2.1 = {
+	holder = 1012457
+}
+
+903.2.1 = {
+	holder = 1014050
+}
+
+926.2.1 = {
+	liege = d_ahimucha
+}
+
+926.2.2 = {
+	holder = 1015050
+}
+
+933.2.1 = {
+	holder = 1015348
+}
+
+996.2.1 = {
+	liege = d_daxalli
+}
+
+996.2.2 = {
+	holder = 1015894
+}
+
+999.2.1 = {
+	holder = 1017884
+}
+
+1033.2.1 = {
+	holder = 1018557
+}
+

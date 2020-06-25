@@ -1,0 +1,5 @@
+	title = c_sani
+	max_settlements = 2
+	culture = prussian
+	religion = miaphysite
+	b_rani = tribal

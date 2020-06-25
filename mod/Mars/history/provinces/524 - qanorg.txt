@@ -1,0 +1,5 @@
+	title = c_qanorg
+	max_settlements = 3
+	culture = zhangzhung
+	religion = catholic
+	b_lekaret = tribal

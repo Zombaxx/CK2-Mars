@@ -1,0 +1,5 @@
+	title = c_belina
+	max_settlements = 2
+	culture = somali
+	religion = aztec_reformed
+	b_tasia = tribal

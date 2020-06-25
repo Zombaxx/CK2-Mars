@@ -1,0 +1,5 @@
+	title = c_eguolas
+	max_settlements = 2
+	culture = afghan
+	religion = nestorian
+	b_dererai = tribal

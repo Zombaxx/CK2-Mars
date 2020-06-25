@@ -1,0 +1,5 @@
+	title = c_suludan
+	max_settlements = 2
+	culture = basque
+	religion = interface_skin
+	b_buo = tribal

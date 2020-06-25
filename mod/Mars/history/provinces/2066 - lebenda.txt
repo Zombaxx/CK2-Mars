@@ -1,0 +1,5 @@
+	title = c_lebenda
+	max_settlements = 2
+	culture = castillan
+	religion = zoroastrian
+	b_biefan = tribal

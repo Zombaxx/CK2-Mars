@@ -1,0 +1,5 @@
+	title = c_qenes
+	max_settlements = 2
+	culture = afghan
+	religion = mazdaki
+	b_quboan = tribal

@@ -1,0 +1,5 @@
+	title = c_kareba
+	max_settlements = 3
+	culture = zaghawa
+	religion = lollard
+	b_tilii = tribal

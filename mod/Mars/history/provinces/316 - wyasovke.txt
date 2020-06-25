@@ -1,0 +1,5 @@
+	title = c_wyasovke
+	max_settlements = 2
+	culture = uyghur
+	religion = hellenic_pagan_reformed
+	b_sisa = tribal

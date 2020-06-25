@@ -1,0 +1,5 @@
+	title = c_deir
+	max_settlements = 3
+	culture = oriya
+	religion = interface_skin
+	b_wibodan = tribal

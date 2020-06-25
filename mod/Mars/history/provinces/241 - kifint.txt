@@ -1,0 +1,5 @@
+	title = c_kifint
+	max_settlements = 2
+	culture = han
+	religion = baltic_pagan
+	b_wanenes = tribal

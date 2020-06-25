@@ -1,0 +1,5 @@
+	title = c_kareer
+	max_settlements = 4
+	culture = bedouin_arabic
+	religion = interface_skin
+	b_raluna = tribal

@@ -1,0 +1,5 @@
+	title = c_tecato
+	max_settlements = 2
+	culture = english
+	religion = lollard
+	b_kebeuta = tribal

@@ -1,0 +1,5 @@
+	title = c_wilopher
+	max_settlements = 2
+	culture = lettigallish
+	religion = aztec_reformed
+	b_sabijah = tribal

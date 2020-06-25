@@ -1,0 +1,5 @@
+	title = c_kakanka
+	max_settlements = 2
+	culture = lettigallish
+	religion = bogomilist
+	b_bagacob = tribal

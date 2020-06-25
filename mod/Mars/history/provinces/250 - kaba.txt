@@ -1,0 +1,5 @@
+	title = c_kaba
+	max_settlements = 4
+	culture = crimean_gothic
+	religion = aztec
+	b_adardus = tribal

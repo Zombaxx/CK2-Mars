@@ -1,0 +1,5 @@
+	title = c_ebing
+	max_settlements = 3
+	culture = mongol
+	religion = pagan
+	b_kanodis = tribal

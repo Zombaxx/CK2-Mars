@@ -1,0 +1,5 @@
+	title = c_dodew
+	max_settlements = 2
+	culture = alan
+	religion = qarmatian
+	b_atodew = tribal

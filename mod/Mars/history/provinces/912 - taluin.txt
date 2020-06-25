@@ -1,0 +1,5 @@
+	title = c_taluin
+	max_settlements = 4
+	culture = kanuri
+	religion = nestorian
+	b_kenaud = tribal

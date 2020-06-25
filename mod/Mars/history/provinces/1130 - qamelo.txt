@@ -1,0 +1,5 @@
+	title = c_qamelo
+	max_settlements = 2
+	culture = avar
+	religion = manichean
+	b_qeye = tribal

@@ -1,0 +1,5 @@
+	title = c_nisa
+	max_settlements = 2
+	culture = ugricbaltic
+	religion = slavic_pagan
+	b_kekimon = tribal

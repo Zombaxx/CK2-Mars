@@ -1,0 +1,5 @@
+	title = c_ramabib
+	max_settlements = 2
+	culture = tocharian
+	religion = tengri_pagan
+	b_tobawgan = tribal

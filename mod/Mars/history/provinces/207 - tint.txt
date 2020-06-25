@@ -1,0 +1,5 @@
+	title = c_tint
+	max_settlements = 3
+	culture = serbian
+	religion = aztec
+	b_raxardus = tribal

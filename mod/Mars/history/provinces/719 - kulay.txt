@@ -1,0 +1,5 @@
+	title = c_kulay
+	max_settlements = 3
+	culture = assyrian
+	religion = paulician
+	b_qawar = tribal

@@ -1,0 +1,5 @@
+	title = c_qakapal
+	max_settlements = 4
+	culture = dalmatian
+	religion = finnish_pagan
+	b_wedudrd = tribal

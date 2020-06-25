@@ -1,0 +1,5 @@
+	title = c_ranna
+	max_settlements = 3
+	culture = norse
+	religion = druze
+	b_korona = tribal

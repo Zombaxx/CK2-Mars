@@ -1,0 +1,5 @@
+	title = c_tasyana
+	max_settlements = 3
+	culture = bosnian
+	religion = norse_pagan
+	b_amoraad = tribal

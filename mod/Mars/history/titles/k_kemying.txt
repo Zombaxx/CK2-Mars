@@ -1,0 +1,74 @@
+758.2.1 = {
+	holder = 1003164
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	liege = e_atardus
+}
+
+758.2.3 = {
+	liege = e_rugila
+}
+
+758.2.4 = {
+	liege = e_dumila
+}
+
+758.2.5 = {
+	liege = e_abdirai
+}
+
+758.2.6 = {
+	liege = e_disuo
+}
+
+758.2.7 = {
+	liege = e_ninarde
+}
+
+773.2.1 = {
+	holder = 1004560
+}
+
+806.2.1 = {
+	holder = 1006608
+}
+
+836.2.1 = {
+	holder = 1009373
+}
+
+863.2.1 = {
+	holder = 1012295
+}
+
+867.2.1 = {
+	holder = 1012457
+}
+
+903.2.1 = {
+	holder = 1014050
+}
+
+926.2.1 = {
+	holder = 1015050
+}
+
+933.2.1 = {
+	holder = 1015348
+}
+
+996.2.1 = {
+	holder = 1015894
+}
+
+999.2.1 = {
+	holder = 1017884
+}
+
+1033.2.1 = {
+	holder = 1018557
+}
+

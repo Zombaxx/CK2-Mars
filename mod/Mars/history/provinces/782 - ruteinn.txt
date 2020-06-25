@@ -1,0 +1,5 @@
+	title = c_ruteinn
+	max_settlements = 2
+	culture = hausa
+	religion = finnish_pagan
+	b_nanalo = tribal

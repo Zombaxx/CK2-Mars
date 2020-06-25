@@ -1,0 +1,5 @@
+	title = c_rudo
+	max_settlements = 4
+	culture = frisian
+	religion = ibadi
+	b_risoses = tribal

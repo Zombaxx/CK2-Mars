@@ -1,0 +1,5 @@
+	title = c_wunazi
+	max_settlements = 3
+	culture = irish
+	religion = shiite
+	b_boripa = tribal

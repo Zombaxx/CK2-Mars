@@ -1,0 +1,5 @@
+	title = c_sunala
+	max_settlements = 2
+	culture = pecheneg
+	religion = norse_pagan
+	b_wavonne = tribal

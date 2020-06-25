@@ -1,0 +1,5 @@
+	title = c_qamire
+	max_settlements = 2
+	culture = bosnian
+	religion = zoroastrian
+	b_kyudaaq = tribal

@@ -1,0 +1,5 @@
+	title = c_nahava
+	max_settlements = 2
+	culture = visigothic
+	religion = jewish
+	b_sohava = tribal

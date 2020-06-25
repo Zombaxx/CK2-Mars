@@ -1,0 +1,5 @@
+	title = c_taluke
+	max_settlements = 2
+	culture = nepali
+	religion = miaphysite
+	b_benuke = tribal

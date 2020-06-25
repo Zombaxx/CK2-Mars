@@ -1,0 +1,5 @@
+	title = c_sakaim
+	max_settlements = 2
+	culture = han
+	religion = druze
+	b_epamabr = tribal

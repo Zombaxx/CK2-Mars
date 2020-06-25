@@ -1,0 +1,5 @@
+	title = c_kohiami
+	max_settlements = 5
+	culture = daju
+	religion = shiite
+	b_banine = tribal

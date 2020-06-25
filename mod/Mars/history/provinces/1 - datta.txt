@@ -1,0 +1,5 @@
+	title = c_datta
+	max_settlements = 2
+	culture = german
+	religion = zun_pagan_reformed
+	b_rabir = tribal

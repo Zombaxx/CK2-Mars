@@ -1,0 +1,5 @@
+	title = c_tekayan
+	max_settlements = 3
+	culture = hindustani
+	religion = bogomilist
+	b_rasoyan = tribal

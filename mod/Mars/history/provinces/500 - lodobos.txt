@@ -1,0 +1,5 @@
+	title = c_lodobos
+	max_settlements = 3
+	culture = zhangzhung
+	religion = sunni
+	b_kilii = tribal

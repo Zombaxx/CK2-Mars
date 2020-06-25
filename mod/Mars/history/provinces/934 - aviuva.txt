@@ -1,0 +1,5 @@
+	title = c_aviuva
+	max_settlements = 3
+	culture = visigothic
+	religion = qarmatian
+	b_bajoras = tribal

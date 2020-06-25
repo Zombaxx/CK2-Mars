@@ -1,0 +1,5 @@
+	title = c_losinat
+	max_settlements = 2
+	culture = ugricbaltic
+	religion = druze
+	b_roisi = tribal

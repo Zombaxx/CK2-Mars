@@ -1,0 +1,5 @@
+	title = c_laiija
+	max_settlements = 2
+	culture = armenian
+	religion = cathar
+	b_tanahim = tribal

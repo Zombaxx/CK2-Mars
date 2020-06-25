@@ -1,0 +1,72 @@
+758.2.1 = {
+	holder = 1000099
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1003018
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_tarbai
+}
+
+758.2.4 = {
+	holder = 1003019
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.5 = {
+	holder = 1003016
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+789.2.1 = {
+	holder = 1005294
+}
+
+824.2.1 = {
+	holder = 1008810
+}
+
+867.2.1 = {
+	holder = 1010510
+}
+
+879.2.1 = {
+	holder = 1012804
+}
+
+937.2.1 = {
+	holder = 1013612
+}
+
+951.2.1 = {
+	holder = 1015480
+}
+
+966.2.1 = {
+	holder = 1016174
+}
+
+988.2.1 = {
+	holder = 1017010
+}
+
+1019.2.1 = {
+	holder = 1017721
+}
+
+1026.2.1 = {
+	holder = 1018782
+}
+
+1039.2.1 = {
+	holder = 1019485
+}
+

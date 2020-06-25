@@ -1,0 +1,5 @@
+	title = c_roj
+	max_settlements = 2
+	culture = suebi
+	religion = interface_skin
+	b_dayar = tribal

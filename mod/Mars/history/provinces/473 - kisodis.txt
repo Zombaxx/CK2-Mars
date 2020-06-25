@@ -1,0 +1,5 @@
+	title = c_kisodis
+	max_settlements = 2
+	culture = komi
+	religion = ibadi
+	b_ligele = tribal

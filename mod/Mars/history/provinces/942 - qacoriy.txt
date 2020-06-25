@@ -1,0 +1,5 @@
+	title = c_qacoriy
+	max_settlements = 2
+	culture = occitan
+	religion = karaite
+	b_nari = tribal

@@ -1,0 +1,5 @@
+	title = c_kahila
+	max_settlements = 4
+	culture = prussian
+	religion = shiite
+	b_rarurna = tribal

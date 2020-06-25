@@ -1,0 +1,5 @@
+	title = c_raniel
+	max_settlements = 2
+	culture = bolghar
+	religion = jewish
+	b_tekaqar = tribal

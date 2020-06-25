@@ -1,0 +1,5 @@
+	title = c_nenude
+	max_settlements = 3
+	culture = baloch
+	religion = interface_skin
+	b_qirali = tribal

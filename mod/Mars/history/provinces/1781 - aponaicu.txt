@@ -1,0 +1,5 @@
+	title = c_aponaicu
+	max_settlements = 2
+	culture = sindhi
+	religion = manichean
+	b_bijanda = tribal

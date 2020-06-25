@@ -1,0 +1,60 @@
+758.2.1 = {
+	holder = 1000014
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	liege = d_titita
+}
+
+758.2.3 = {
+	liege = d_byasoto
+}
+
+758.2.4 = {
+	holder = 1001031
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+902.2.1 = {
+	holder = 1012769
+}
+
+932.2.1 = {
+	liege = d_lyasoto
+}
+
+932.2.2 = {
+	liege = d_bitita
+}
+
+932.2.3 = {
+	liege = d_akojita
+}
+
+932.2.4 = {
+	holder = 1014215
+}
+
+972.2.1 = {
+	holder = 1015353
+}
+
+1003.2.1 = {
+	holder = 1016904
+}
+
+1016.2.1 = {
+	holder = 1018238
+}
+
+1049.2.1 = {
+	holder = 1019841
+}
+
+1051.2.1 = {
+	holder = 1019910
+}
+

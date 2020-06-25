@@ -1,0 +1,5 @@
+	title = c_tadandi
+	max_settlements = 3
+	culture = maghreb_arabic
+	religion = interface_skin
+	b_kaod = tribal

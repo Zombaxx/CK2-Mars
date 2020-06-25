@@ -1,0 +1,1 @@
+Place the 'mod' folder and the 'Mars' folder in documents\Paradox Interactive\ Crusader Kings II.  The 'Mars' folder only contains recommended save files since the mod can overwise only be used with the Random World setting. The 'mod' folder contains a second 'Mars' folder and .mod file that contain the actual mod.

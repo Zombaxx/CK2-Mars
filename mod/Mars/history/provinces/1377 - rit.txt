@@ -1,0 +1,5 @@
+	title = c_rit
+	max_settlements = 2
+	culture = kirghiz
+	religion = paulician
+	b_neleer = tribal

@@ -1,0 +1,5 @@
+	title = c_wahint
+	max_settlements = 3
+	culture = tangut
+	religion = yazidi
+	b_lautiel = tribal

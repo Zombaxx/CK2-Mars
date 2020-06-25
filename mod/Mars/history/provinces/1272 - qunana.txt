@@ -1,0 +1,5 @@
+	title = c_qunana
+	max_settlements = 2
+	culture = sogdian
+	religion = tengri_pagan_reformed
+	b_berana = tribal

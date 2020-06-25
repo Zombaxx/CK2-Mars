@@ -1,0 +1,5 @@
+	title = c_sifegin
+	max_settlements = 2
+	culture = saxon
+	religion = finnish_pagan_reformed
+	b_lifa = tribal

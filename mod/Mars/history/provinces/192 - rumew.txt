@@ -1,0 +1,5 @@
+	title = c_rumew
+	max_settlements = 2
+	culture = german
+	religion = karaite
+	b_wulena = tribal

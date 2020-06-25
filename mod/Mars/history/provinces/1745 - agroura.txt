@@ -1,0 +1,5 @@
+	title = c_agroura
+	max_settlements = 2
+	culture = roman
+	religion = zun_pagan
+	b_asinina = tribal

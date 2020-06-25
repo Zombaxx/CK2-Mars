@@ -1,0 +1,5 @@
+	title = c_tasit
+	max_settlements = 2
+	culture = hausa
+	religion = sunni
+	b_tamek = tribal

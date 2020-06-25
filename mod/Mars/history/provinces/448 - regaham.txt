@@ -1,0 +1,5 @@
+	title = c_regaham
+	max_settlements = 3
+	culture = suebi
+	religion = miaphysite
+	b_tonaim = tribal

@@ -1,0 +1,5 @@
+	title = c_wuneas
+	max_settlements = 3
+	culture = norman
+	religion = karaite
+	b_bahuida = tribal

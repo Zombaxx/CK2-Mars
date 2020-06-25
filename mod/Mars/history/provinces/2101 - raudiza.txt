@@ -1,0 +1,5 @@
+	title = c_raudiza
+	max_settlements = 2
+	culture = bosnian
+	religion = zikri
+	b_wefan = tribal

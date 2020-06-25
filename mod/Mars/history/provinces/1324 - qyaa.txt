@@ -1,0 +1,5 @@
+	title = c_qyaa
+	max_settlements = 2
+	culture = greek
+	religion = taoist
+	b_qererai = tribal

@@ -1,0 +1,5 @@
+	title = c_ruloja
+	max_settlements = 2
+	culture = pecheneg
+	religion = khurmazta
+	b_daloja = tribal

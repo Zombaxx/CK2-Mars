@@ -1,0 +1,5 @@
+	title = c_reye
+	max_settlements = 3
+	culture = bulgarian
+	religion = iconoclast
+	b_kinudan = tribal

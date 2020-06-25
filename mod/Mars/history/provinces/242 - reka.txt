@@ -1,0 +1,5 @@
+	title = c_reka
+	max_settlements = 4
+	culture = bulgarian
+	religion = baltic_pagan
+	b_damaqar = tribal

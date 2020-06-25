@@ -1,0 +1,5 @@
+	title = c_laraud
+	max_settlements = 3
+	culture = severian
+	religion = iconoclast
+	b_raguin = tribal

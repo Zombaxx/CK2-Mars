@@ -1,0 +1,5 @@
+	title = c_rijifa
+	max_settlements = 2
+	culture = carantanian
+	religion = bogomilist
+	b_lamaim = tribal

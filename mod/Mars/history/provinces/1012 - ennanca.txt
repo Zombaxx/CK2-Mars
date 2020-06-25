@@ -1,0 +1,5 @@
+	title = c_ennanca
+	max_settlements = 2
+	culture = assyrian
+	religion = slavic_pagan
+	b_atheones = tribal

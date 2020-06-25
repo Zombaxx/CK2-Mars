@@ -1,0 +1,5 @@
+	title = c_etiska
+	max_settlements = 2
+	culture = meshchera
+	religion = bogomilist
+	b_sulena = tribal

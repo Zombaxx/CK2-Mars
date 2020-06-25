@@ -1,0 +1,5 @@
+	title = c_laoji
+	max_settlements = 3
+	culture = bengali
+	religion = interface_skin
+	b_atahmud = tribal

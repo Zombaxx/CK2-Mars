@@ -1,0 +1,5 @@
+	title = c_rinudan
+	max_settlements = 2
+	culture = lettigallish
+	religion = iconoclast
+	b_etsahar = tribal

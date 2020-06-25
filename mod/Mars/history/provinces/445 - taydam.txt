@@ -1,0 +1,5 @@
+	title = c_taydam
+	max_settlements = 3
+	culture = komi
+	religion = miaphysite
+	b_levuti = tribal

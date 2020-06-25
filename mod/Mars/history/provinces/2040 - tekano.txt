@@ -1,0 +1,5 @@
+	title = c_tekano
+	max_settlements = 2
+	culture = irish
+	religion = jewish
+	b_sekoyan = tribal

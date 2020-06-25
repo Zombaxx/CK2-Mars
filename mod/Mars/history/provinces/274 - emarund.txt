@@ -1,0 +1,5 @@
+	title = c_emarund
+	max_settlements = 2
+	culture = pecheneg
+	religion = shiite
+	b_evilda = tribal

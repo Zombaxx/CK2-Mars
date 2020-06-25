@@ -1,0 +1,5 @@
+	title = c_tajyer
+	max_settlements = 2
+	culture = bosnian
+	religion = catholic
+	b_tunuo = tribal

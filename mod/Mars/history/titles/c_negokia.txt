@@ -1,0 +1,142 @@
+758.2.1 = {
+	holder = 1000113
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1000114
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	holder = 1003127
+	law = succ_seniority
+	law = cognatic_succession
+}
+
+758.2.4 = {
+	liege = d_nekiam
+}
+
+758.2.5 = {
+	holder = 1003128
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.6 = {
+	holder = 1003125
+	law = succ_seniority
+	law = cognatic_succession
+}
+
+799.2.1 = {
+	holder = 1008502
+}
+
+832.2.1 = {
+	holder = 1009433
+}
+
+851.2.1 = {
+	holder = 1011097
+}
+
+867.2.1 = {
+	holder = 1010166
+}
+
+887.2.1 = {
+	liege = d_romiek
+}
+
+887.2.2 = {
+	liege = d_tetagan
+}
+
+887.2.3 = {
+	liege = d_qipiek
+}
+
+887.2.4 = {
+	liege = d_betagan
+}
+
+887.2.5 = {
+	liege = d_dilunes
+}
+
+887.2.6 = {
+	liege = d_narinop
+}
+
+887.2.7 = {
+	holder = 1012996
+}
+
+887.2.8 = {
+	liege = k_raubagan
+}
+
+918.2.1 = {
+	liege = d_atomyuan
+}
+
+918.2.2 = {
+	liege = d_betagan
+}
+
+918.2.3 = {
+	liege = d_qipiek
+}
+
+918.2.4 = {
+	liege = d_tetagan
+}
+
+918.2.5 = {
+	liege = d_romiek
+}
+
+918.2.6 = {
+	liege = d_nekiam
+}
+
+918.2.7 = {
+	liege = d_dilunes
+}
+
+918.2.8 = {
+	liege = d_ewimorka
+}
+
+918.2.9 = {
+	liege = d_narinop
+}
+
+918.2.10 = {
+	holder = 1014748
+}
+
+949.2.1 = {
+	holder = 1015196
+}
+
+981.2.1 = {
+	holder = 1016451
+}
+
+1024.2.1 = {
+	holder = 1017596
+}
+
+1044.2.1 = {
+	holder = 1019531
+}
+
+1044.2.2 = {
+	liege = k_raubagan
+}
+

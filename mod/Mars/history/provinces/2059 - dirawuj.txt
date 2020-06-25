@@ -1,0 +1,5 @@
+	title = c_dirawuj
+	max_settlements = 2
+	culture = mordvin
+	religion = cathar
+	b_ebadonse = tribal

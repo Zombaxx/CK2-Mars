@@ -1,0 +1,5 @@
+	title = c_benita
+	max_settlements = 3
+	culture = songhay
+	religion = cathar
+	b_dyi = tribal

@@ -1,0 +1,5 @@
+	title = c_ducaht
+	max_settlements = 3
+	culture = zaghawa
+	religion = baltic_pagan
+	b_qebodis = tribal

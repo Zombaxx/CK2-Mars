@@ -1,0 +1,5 @@
+	title = c_korosai
+	max_settlements = 3
+	culture = finnish
+	religion = lollard
+	b_enain = tribal

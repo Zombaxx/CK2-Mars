@@ -1,0 +1,5 @@
+	title = c_nazi
+	max_settlements = 6
+	culture = carantanian
+	religion = iconoclast
+	b_danins = tribal

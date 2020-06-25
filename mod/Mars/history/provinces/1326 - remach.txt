@@ -1,0 +1,5 @@
+	title = c_remach
+	max_settlements = 2
+	culture = carantanian
+	religion = zun_pagan_reformed
+	b_rosirai = tribal

@@ -1,0 +1,5 @@
+	title = c_dalar
+	max_settlements = 2
+	culture = old_frankish
+	religion = ibadi
+	b_tawying = tribal

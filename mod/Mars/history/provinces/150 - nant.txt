@@ -1,0 +1,5 @@
+	title = c_nant
+	max_settlements = 3
+	culture = tamil
+	religion = waldensian
+	b_naxying = tribal

@@ -1,0 +1,5 @@
+	title = c_kubacob
+	max_settlements = 2
+	culture = hausa
+	religion = nestorian
+	b_enariuva = tribal

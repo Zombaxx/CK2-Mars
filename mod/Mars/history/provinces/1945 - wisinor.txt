@@ -1,0 +1,5 @@
+	title = c_wisinor
+	max_settlements = 2
+	culture = nubian
+	religion = buddhist
+	b_tineph = tribal

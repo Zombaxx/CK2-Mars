@@ -1,0 +1,5 @@
+	title = c_binanka
+	max_settlements = 2
+	culture = karluk
+	religion = zoroastrian
+	b_tagaim = tribal

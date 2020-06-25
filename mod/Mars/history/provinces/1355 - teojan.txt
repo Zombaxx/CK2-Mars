@@ -1,0 +1,5 @@
+	title = c_teojan
+	max_settlements = 2
+	culture = zaghawa
+	religion = baltic_pagan
+	b_akasia = tribal

@@ -1,0 +1,5 @@
+	title = c_taguslo
+	max_settlements = 2
+	culture = norwegian
+	religion = catholic
+	b_lernine = tribal

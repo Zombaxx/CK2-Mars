@@ -1,0 +1,5 @@
+	title = c_tabdirai
+	max_settlements = 2
+	culture = irish
+	religion = pagan
+	b_wumucha = tribal

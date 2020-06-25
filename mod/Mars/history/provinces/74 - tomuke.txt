@@ -1,0 +1,5 @@
+	title = c_tomuke
+	max_settlements = 3
+	culture = bohemian
+	religion = aztec
+	b_rander = tribal

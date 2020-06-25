@@ -1,0 +1,5 @@
+	title = c_refaya
+	max_settlements = 2
+	culture = pictish
+	religion = catholic
+	b_sologna = tribal

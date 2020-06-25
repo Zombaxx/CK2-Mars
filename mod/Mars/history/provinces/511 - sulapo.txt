@@ -1,0 +1,5 @@
+	title = c_sulapo
+	max_settlements = 4
+	culture = samoyed
+	religion = nestorian
+	b_ahund = tribal

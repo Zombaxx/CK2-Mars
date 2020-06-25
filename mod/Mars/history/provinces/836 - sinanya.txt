@@ -1,0 +1,5 @@
+	title = c_sinanya
+	max_settlements = 3
+	culture = kannada
+	religion = zun_pagan_reformed
+	b_sohanka = tribal

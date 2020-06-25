@@ -1,0 +1,5 @@
+	title = c_wujujie
+	max_settlements = 3
+	culture = outremer
+	religion = bon_reformed
+	b_kagujie = tribal

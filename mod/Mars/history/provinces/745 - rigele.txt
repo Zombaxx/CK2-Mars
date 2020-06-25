@@ -1,0 +1,5 @@
+	title = c_rigele
+	max_settlements = 2
+	culture = bedouin_arabic
+	religion = shiite
+	b_kigodis = tribal

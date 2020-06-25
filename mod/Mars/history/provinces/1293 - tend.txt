@@ -1,0 +1,5 @@
+	title = c_tend
+	max_settlements = 2
+	culture = kannada
+	religion = shiite
+	b_avano = tribal

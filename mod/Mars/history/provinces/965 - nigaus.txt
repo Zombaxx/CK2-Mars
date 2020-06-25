@@ -1,0 +1,5 @@
+	title = c_nigaus
+	max_settlements = 3
+	culture = swedish
+	religion = orthodox
+	b_agopaut = tribal

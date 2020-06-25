@@ -1,0 +1,5 @@
+	title = c_waratan
+	max_settlements = 2
+	culture = russian
+	religion = kharijite
+	b_deluti = tribal

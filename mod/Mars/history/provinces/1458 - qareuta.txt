@@ -1,0 +1,5 @@
+	title = c_qareuta
+	max_settlements = 2
+	culture = ashkenazi
+	religion = khurmazta
+	b_norit = tribal

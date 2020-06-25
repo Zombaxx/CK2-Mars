@@ -1,0 +1,5 @@
+	title = c_teodat
+	max_settlements = 3
+	culture = tocharian
+	religion = cathar
+	b_nubepi = tribal

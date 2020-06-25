@@ -1,0 +1,5 @@
+	title = c_setoyan
+	max_settlements = 7
+	culture = bulgarian
+	religion = miaphysite
+	b_reateph = tribal

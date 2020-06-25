@@ -1,0 +1,5 @@
+	title = c_lakawuj
+	max_settlements = 2
+	culture = lombard
+	religion = yazidi
+	b_raeseth = tribal

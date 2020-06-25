@@ -1,0 +1,5 @@
+	title = c_sabozin
+	max_settlements = 3
+	culture = italian
+	religion = jain
+	b_kalka = tribal

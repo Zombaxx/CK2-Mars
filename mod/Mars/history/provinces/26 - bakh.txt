@@ -1,0 +1,5 @@
+	title = c_bakh
+	max_settlements = 4
+	culture = samoyed
+	religion = interface_skin
+	b_tarassa = tribal

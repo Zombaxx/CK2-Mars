@@ -1,0 +1,5 @@
+	title = c_katasa
+	max_settlements = 2
+	culture = bolghar
+	religion = tengri_pagan_reformed
+	b_wonani = tribal

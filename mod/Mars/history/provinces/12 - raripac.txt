@@ -1,0 +1,5 @@
+	title = c_raripac
+	max_settlements = 4
+	culture = turkish
+	religion = zikri
+	b_atrla = tribal

@@ -1,0 +1,5 @@
+	title = c_kamipac
+	max_settlements = 2
+	culture = pommeranian
+	religion = hellenic_pagan_reformed
+	b_qaraac = tribal

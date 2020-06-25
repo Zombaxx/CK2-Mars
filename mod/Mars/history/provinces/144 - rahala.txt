@@ -1,0 +1,5 @@
+	title = c_rahala
+	max_settlements = 4
+	culture = mongol
+	religion = waldensian
+	b_tamirai = tribal

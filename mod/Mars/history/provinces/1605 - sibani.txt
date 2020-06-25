@@ -1,0 +1,5 @@
+	title = c_sibani
+	max_settlements = 2
+	culture = mongol
+	religion = finnish_pagan_reformed
+	b_aketabha = tribal

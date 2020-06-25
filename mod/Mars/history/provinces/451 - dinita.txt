@@ -1,0 +1,5 @@
+	title = c_dinita
+	max_settlements = 2
+	culture = somali
+	religion = zoroastrian
+	b_benita = tribal

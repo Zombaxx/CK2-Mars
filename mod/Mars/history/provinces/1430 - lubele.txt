@@ -1,0 +1,5 @@
+	title = c_lubele
+	max_settlements = 3
+	culture = bulgarian
+	religion = hellenic_pagan
+	b_dekius = tribal

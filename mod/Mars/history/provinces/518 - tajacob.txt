@@ -1,0 +1,5 @@
+	title = c_tajacob
+	max_settlements = 2
+	culture = manden
+	religion = monophysite
+	b_nojisa = tribal

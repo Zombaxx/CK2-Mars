@@ -1,0 +1,5 @@
+	title = c_nasa
+	max_settlements = 2
+	culture = scottish
+	religion = manichean
+	b_sasahar = tribal

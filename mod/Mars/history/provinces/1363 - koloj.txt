@@ -1,0 +1,5 @@
+	title = c_koloj
+	max_settlements = 2
+	culture = catalan
+	religion = interface_skin
+	b_lolarya = tribal

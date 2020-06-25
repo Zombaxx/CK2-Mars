@@ -1,0 +1,5 @@
+	title = c_rindila
+	max_settlements = 3
+	culture = german
+	religion = interface_skin
+	b_syamory = tribal

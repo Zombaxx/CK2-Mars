@@ -1,0 +1,5 @@
+	title = c_rajare
+	max_settlements = 2
+	culture = kurdish
+	religion = qarmatian
+	b_qanaicu = tribal

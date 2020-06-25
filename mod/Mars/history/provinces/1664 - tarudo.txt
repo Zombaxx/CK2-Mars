@@ -1,0 +1,5 @@
+	title = c_tarudo
+	max_settlements = 2
+	culture = bedouin_arabic
+	religion = aztec
+	b_darida = tribal

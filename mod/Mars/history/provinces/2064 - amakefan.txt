@@ -1,0 +1,5 @@
+	title = c_amakefan
+	max_settlements = 3
+	culture = swedish
+	religion = khurmazta
+	b_nireka = tribal

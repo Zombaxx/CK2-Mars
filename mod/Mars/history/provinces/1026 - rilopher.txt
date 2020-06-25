@@ -1,0 +1,5 @@
+	title = c_rilopher
+	max_settlements = 4
+	culture = dutch
+	religion = waldensian
+	b_rilavid = tribal

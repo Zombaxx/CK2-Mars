@@ -1,0 +1,5 @@
+	title = c_efagena
+	max_settlements = 2
+	culture = ashkenazi
+	religion = ibadi
+	b_tiorim = tribal

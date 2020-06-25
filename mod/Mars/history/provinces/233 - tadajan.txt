@@ -1,0 +1,5 @@
+	title = c_tadajan
+	max_settlements = 2
+	culture = karluk
+	religion = sunni
+	b_barar = tribal

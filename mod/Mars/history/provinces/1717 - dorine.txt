@@ -1,0 +1,5 @@
+	title = c_dorine
+	max_settlements = 3
+	culture = polish
+	religion = slavic_pagan
+	b_tisuslo = tribal

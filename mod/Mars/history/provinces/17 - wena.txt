@@ -1,0 +1,5 @@
+	title = c_wena
+	max_settlements = 4
+	culture = saka
+	religion = fraticelli
+	b_liska = tribal

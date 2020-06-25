@@ -1,0 +1,5 @@
+	title = c_ladiran
+	max_settlements = 2
+	culture = catalan
+	religion = west_african_pagan_reformed
+	b_kibokal = tribal

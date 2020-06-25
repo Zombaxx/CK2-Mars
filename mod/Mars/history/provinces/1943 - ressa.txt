@@ -1,0 +1,5 @@
+	title = c_ressa
+	max_settlements = 2
+	culture = baloch
+	religion = bogomilist
+	b_ryasora = tribal

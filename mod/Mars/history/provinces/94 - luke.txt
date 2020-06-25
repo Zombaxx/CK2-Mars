@@ -1,0 +1,5 @@
+	title = c_luke
+	max_settlements = 4
+	culture = khazar
+	religion = yazidi
+	b_kodiska = tribal

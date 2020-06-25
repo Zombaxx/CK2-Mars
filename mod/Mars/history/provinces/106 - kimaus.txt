@@ -1,0 +1,5 @@
+	title = c_kimaus
+	max_settlements = 4
+	culture = uyghur
+	religion = norse_pagan_reformed
+	b_kari = tribal

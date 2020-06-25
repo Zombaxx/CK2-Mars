@@ -1,0 +1,5 @@
+	title = c_sakobos
+	max_settlements = 2
+	culture = lombard
+	religion = color
+	b_neatrou = tribal

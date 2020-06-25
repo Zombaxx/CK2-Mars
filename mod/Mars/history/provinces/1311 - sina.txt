@@ -1,0 +1,5 @@
+	title = c_sina
+	max_settlements = 2
+	culture = nepali
+	religion = fraticelli
+	b_nayajan = tribal

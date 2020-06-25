@@ -1,0 +1,5 @@
+	title = c_wabdurna
+	max_settlements = 4
+	culture = ashkenazi
+	religion = kharijite
+	b_dahyuan = tribal

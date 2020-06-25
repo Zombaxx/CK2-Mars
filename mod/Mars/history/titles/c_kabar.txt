@@ -1,0 +1,180 @@
+758.2.1 = {
+	holder = 1000017
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1000018
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	holder = 1001228
+	law = succ_gavelkind
+	law = agnatic_succession
+}
+
+758.2.4 = {
+	liege = d_kubewal
+}
+
+758.2.5 = {
+	holder = 1001227
+	law = succ_gavelkind
+	law = agnatic_succession
+}
+
+813.2.1 = {
+	holder = 1003771
+}
+
+837.2.1 = {
+	holder = 1009745
+}
+
+839.2.1 = {
+	holder = 1011086
+}
+
+892.2.1 = {
+	holder = 1011156
+}
+
+902.2.1 = {
+	holder = 1013641
+}
+
+912.2.1 = {
+	holder = 1014391
+}
+
+969.2.1 = {
+	holder = 1015134
+}
+
+980.2.1 = {
+	holder = 1016895
+}
+
+1011.2.1 = {
+	liege = d_keidja
+}
+
+1011.2.2 = {
+	liege = d_saiaye
+}
+
+1011.2.3 = {
+	holder = 1017890
+}
+
+1014.2.1 = {
+	holder = 1018481
+}
+
+1026.2.1 = {
+	liege = d_keidja
+}
+
+1026.2.2 = {
+	liege = d_esumuone
+}
+
+1026.2.3 = {
+	holder = 1016472
+}
+
+1026.2.4 = {
+	liege = k_leba
+}
+
+1034.2.1 = {
+	liege = d_rotasia
+}
+
+1034.2.2 = {
+	liege = d_kubewal
+}
+
+1034.2.3 = {
+	liege = d_ratugno
+}
+
+1034.2.4 = {
+	liege = d_dyaad
+}
+
+1034.2.5 = {
+	liege = d_wohuida
+}
+
+1034.2.6 = {
+	liege = d_sanine
+}
+
+1034.2.7 = {
+	liege = d_saiaye
+}
+
+1034.2.8 = {
+	liege = d_keidja
+}
+
+1034.2.9 = {
+	liege = d_esumuone
+}
+
+1034.2.10 = {
+	holder = 1017256
+}
+
+1034.2.11 = {
+	liege = k_leba
+}
+
+1039.2.1 = {
+	liege = d_rotasia
+}
+
+1039.2.2 = {
+	liege = d_kubewal
+}
+
+1039.2.3 = {
+	liege = d_ratugno
+}
+
+1039.2.4 = {
+	liege = d_dyaad
+}
+
+1039.2.5 = {
+	liege = d_wohuida
+}
+
+1039.2.6 = {
+	liege = d_sanine
+}
+
+1039.2.7 = {
+	liege = d_saiaye
+}
+
+1039.2.8 = {
+	liege = d_keidja
+}
+
+1039.2.9 = {
+	liege = d_esumuone
+}
+
+1039.2.10 = {
+	holder = 1019469
+}
+
+1039.2.11 = {
+	liege = k_leba
+}
+

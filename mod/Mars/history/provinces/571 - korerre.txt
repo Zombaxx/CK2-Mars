@@ -1,0 +1,5 @@
+	title = c_korerre
+	max_settlements = 3
+	culture = breton
+	religion = orthodox
+	b_nomuwe = tribal

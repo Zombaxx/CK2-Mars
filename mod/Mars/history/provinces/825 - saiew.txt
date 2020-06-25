@@ -1,0 +1,5 @@
+	title = c_saiew
+	max_settlements = 4
+	culture = songhay
+	religion = catholic
+	b_raiint = tribal

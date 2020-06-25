@@ -1,0 +1,5 @@
+	title = c_sopluk
+	max_settlements = 2
+	culture = telugu
+	religion = khurmazta
+	b_lamaus = tribal

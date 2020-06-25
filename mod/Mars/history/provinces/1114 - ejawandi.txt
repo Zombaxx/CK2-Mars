@@ -1,0 +1,5 @@
+	title = c_ejawandi
+	max_settlements = 2
+	culture = ethiopian
+	religion = sunni
+	b_lojeas = tribal

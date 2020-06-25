@@ -1,0 +1,5 @@
+	title = c_keer
+	max_settlements = 4
+	culture = roman
+	religion = monophysite
+	b_kanuin = tribal

@@ -1,0 +1,5 @@
+	title = c_waba
+	max_settlements = 4
+	culture = outremer
+	religion = qarmatian
+	b_qena = tribal

@@ -1,0 +1,5 @@
+	title = c_senuna
+	max_settlements = 6
+	culture = egyptian_arabic
+	religion = qarmatian
+	b_loreth = tribal

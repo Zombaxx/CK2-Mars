@@ -1,0 +1,5 @@
+	title = c_dosz
+	max_settlements = 2
+	culture = scottish
+	religion = zun_pagan
+	b_kifyula = tribal

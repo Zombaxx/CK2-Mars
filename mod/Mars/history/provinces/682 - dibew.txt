@@ -1,0 +1,5 @@
+	title = c_dibew
+	max_settlements = 2
+	culture = daju
+	religion = orthodox
+	b_nagund = tribal

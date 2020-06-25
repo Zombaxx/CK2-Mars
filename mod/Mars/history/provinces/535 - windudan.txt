@@ -1,0 +1,5 @@
+	title = c_windudan
+	max_settlements = 3
+	culture = marathi
+	religion = interface_skin
+	b_bala = tribal

@@ -1,0 +1,5 @@
+	title = c_neitek
+	max_settlements = 3
+	culture = persian
+	religion = cathar
+	b_seitek = tribal

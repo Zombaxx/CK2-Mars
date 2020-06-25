@@ -1,0 +1,5 @@
+	title = c_sopael
+	max_settlements = 4
+	culture = croatian
+	religion = mazdaki
+	b_nanane = tribal

@@ -1,0 +1,5 @@
+	title = c_kena
+	max_settlements = 2
+	culture = castillan
+	religion = bogomilist
+	b_bardus = tribal

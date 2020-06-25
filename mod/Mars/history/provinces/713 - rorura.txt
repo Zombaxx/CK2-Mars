@@ -1,0 +1,5 @@
+	title = c_rorura
+	max_settlements = 2
+	culture = somali
+	religion = bogomilist
+	b_quigi = tribal

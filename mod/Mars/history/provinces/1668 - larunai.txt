@@ -1,0 +1,5 @@
+	title = c_larunai
+	max_settlements = 2
+	culture = sinhala
+	religion = yazidi
+	b_qakadiq = tribal

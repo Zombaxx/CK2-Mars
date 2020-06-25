@@ -1,0 +1,5 @@
+	title = c_eboreth
+	max_settlements = 4
+	culture = pecheneg
+	religion = fraticelli
+	b_nijeda = tribal

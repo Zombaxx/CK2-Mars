@@ -1,0 +1,5 @@
+	title = c_amicing
+	max_settlements = 2
+	culture = assyrian
+	religion = miaphysite
+	b_nerni = tribal

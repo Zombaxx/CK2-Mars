@@ -1,0 +1,5 @@
+	title = c_nukipac
+	max_settlements = 2
+	culture = bohemian
+	religion = baltic_pagan
+	b_acrla = tribal

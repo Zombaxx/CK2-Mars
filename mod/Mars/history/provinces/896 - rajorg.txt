@@ -1,0 +1,5 @@
+	title = c_rajorg
+	max_settlements = 2
+	culture = jurchen
+	religion = norse_pagan
+	b_najorg = tribal

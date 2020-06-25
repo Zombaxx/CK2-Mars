@@ -1,0 +1,5 @@
+	title = c_laarilii
+	max_settlements = 2
+	culture = finnish
+	religion = bon
+	b_qoitrou = tribal

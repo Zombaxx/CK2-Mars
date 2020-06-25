@@ -1,0 +1,5 @@
+	title = c_wima
+	max_settlements = 2
+	culture = rajput
+	religion = monothelite
+	b_riolw = tribal

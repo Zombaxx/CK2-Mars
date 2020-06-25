@@ -1,0 +1,5 @@
+	title = c_karaya
+	max_settlements = 3
+	culture = ethiopian
+	religion = jewish
+	b_kotuna = tribal

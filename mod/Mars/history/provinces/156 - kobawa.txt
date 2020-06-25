@@ -1,0 +1,5 @@
+	title = c_kobawa
+	max_settlements = 3
+	culture = alan
+	religion = west_african_pagan
+	b_qudeter = tribal

@@ -1,0 +1,5 @@
+	title = c_nitach
+	max_settlements = 2
+	culture = maghreb_arabic
+	religion = west_african_pagan
+	b_sacig = tribal

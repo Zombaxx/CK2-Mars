@@ -1,0 +1,5 @@
+	title = c_reek
+	max_settlements = 4
+	culture = avar
+	religion = qarmatian
+	b_keteek = tribal

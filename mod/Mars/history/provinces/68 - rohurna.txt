@@ -1,0 +1,5 @@
+	title = c_rohurna
+	max_settlements = 2
+	culture = romanian
+	religion = buddhist
+	b_kugua = tribal

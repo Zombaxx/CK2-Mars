@@ -1,0 +1,5 @@
+	title = c_tusayla
+	max_settlements = 3
+	culture = lithuanian
+	religion = kharijite
+	b_kirodis = tribal

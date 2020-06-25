@@ -1,0 +1,5 @@
+	title = c_rubyuan
+	max_settlements = 2
+	culture = volhynian
+	religion = fraticelli
+	b_sumurna = tribal

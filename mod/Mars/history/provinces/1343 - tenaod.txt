@@ -1,0 +1,5 @@
+	title = c_tenaod
+	max_settlements = 2
+	culture = egyptian_arabic
+	religion = monophysite
+	b_weneas = tribal

@@ -1,0 +1,5 @@
+	title = c_deacob
+	max_settlements = 3
+	culture = pommeranian
+	religion = bogomilist
+	b_bolayla = tribal

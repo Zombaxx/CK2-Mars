@@ -1,0 +1,5 @@
+	title = c_qalins
+	max_settlements = 3
+	culture = norwegian
+	religion = bon_reformed
+	b_qalunda = tribal

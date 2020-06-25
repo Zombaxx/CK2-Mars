@@ -1,0 +1,5 @@
+	title = c_dyasork
+	max_settlements = 3
+	culture = baloch
+	religion = catholic
+	b_asita = tribal

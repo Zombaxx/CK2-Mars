@@ -1,0 +1,5 @@
+	title = c_bitacob
+	max_settlements = 2
+	culture = hausa
+	religion = baltic_pagan
+	b_bojema = tribal

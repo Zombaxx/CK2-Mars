@@ -1,0 +1,5 @@
+	title = c_eteula
+	max_settlements = 2
+	culture = kurdish
+	religion = jewish
+	b_lininor = tribal

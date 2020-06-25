@@ -1,0 +1,5 @@
+	title = c_larais
+	max_settlements = 2
+	culture = crimean_gothic
+	religion = tengri_pagan_reformed
+	b_nijesar = tribal

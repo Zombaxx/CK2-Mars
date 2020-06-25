@@ -1,0 +1,5 @@
+	title = c_barahim
+	max_settlements = 2
+	culture = volhynian
+	religion = taoist
+	b_dagalek = tribal

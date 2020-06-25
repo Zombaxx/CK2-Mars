@@ -1,0 +1,5 @@
+	title = c_kerasia
+	max_settlements = 2
+	culture = ethiopian
+	religion = orthodox
+	b_qudasia = tribal

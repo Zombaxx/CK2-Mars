@@ -1,0 +1,5 @@
+	title = c_tuslo
+	max_settlements = 2
+	culture = assyrian
+	religion = mazdaki
+	b_sudalan = tribal

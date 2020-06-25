@@ -1,0 +1,5 @@
+	title = c_roleter
+	max_settlements = 5
+	culture = hungarian
+	religion = aztec_reformed
+	b_karawa = tribal

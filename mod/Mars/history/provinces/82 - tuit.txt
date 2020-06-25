@@ -1,0 +1,5 @@
+	title = c_tuit
+	max_settlements = 2
+	culture = lithuanian
+	religion = slavic_pagan_reformed
+	b_dafozar = tribal

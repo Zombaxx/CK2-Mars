@@ -1,0 +1,5 @@
+	title = c_bamimhi
+	max_settlements = 2
+	culture = sumpa
+	religion = norse_pagan_reformed
+	b_qeones = tribal

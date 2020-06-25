@@ -1,0 +1,5 @@
+	title = c_laulara
+	max_settlements = 2
+	culture = uyghur
+	religion = interface_skin
+	b_nalara = tribal

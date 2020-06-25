@@ -1,0 +1,5 @@
+	title = c_najisa
+	max_settlements = 2
+	culture = italian
+	religion = jain
+	b_qezork = tribal

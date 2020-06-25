@@ -1,0 +1,13 @@
+name="Mars"
+path="mod/mars30"
+dependencies = {  }
+user_dir = "mars30"
+replace_path="history/titles"
+replace_path="history/characters"
+replace_path="history/wars"
+replace_path="history/provinces"
+replace_path="history/technology"
+replace_path ="gfx/flags"
+replace_path="common/landed_titles"
+replace_path="common/bookmarks"
+replace_path="common/dynasties"

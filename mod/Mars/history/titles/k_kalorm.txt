@@ -1,0 +1,50 @@
+758.2.1 = {
+	holder = 1003283
+	law = succ_gavelkind
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	liege = e_abofia
+}
+
+758.2.3 = {
+	liege = e_nagagni
+}
+
+758.2.4 = {
+	liege = e_leupiva
+}
+
+758.2.5 = {
+	liege = e_nugno
+}
+
+758.2.6 = {
+	liege = e_tuniva
+}
+
+758.2.7 = {
+	liege = e_akiero
+}
+
+758.2.8 = {
+	liege = e_kora
+}
+
+758.2.9 = {
+	liege = e_wyasugno
+}
+
+811.2.1 = {
+	holder = 1005599
+}
+
+900.2.1 = {
+	holder = 1013912
+}
+
+1000.2.1 = {
+	holder = 1017948
+}
+

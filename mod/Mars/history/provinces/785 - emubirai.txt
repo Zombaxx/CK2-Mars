@@ -1,0 +1,5 @@
+	title = c_emubirai
+	max_settlements = 3
+	culture = serbian
+	religion = monophysite
+	b_kosasad = tribal

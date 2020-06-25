@@ -1,0 +1,5 @@
+	title = c_notosz
+	max_settlements = 3
+	culture = sumpa
+	religion = interface_skin
+	b_bitaba = tribal

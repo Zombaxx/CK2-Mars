@@ -1,0 +1,5 @@
+	title = c_kani
+	max_settlements = 4
+	culture = occitan
+	religion = hindu
+	b_damodan = tribal

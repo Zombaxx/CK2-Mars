@@ -1,0 +1,5 @@
+	title = c_torah
+	max_settlements = 2
+	culture = norse
+	religion = hellenic_pagan_reformed
+	b_sorahim = tribal

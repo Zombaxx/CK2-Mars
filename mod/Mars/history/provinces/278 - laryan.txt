@@ -1,0 +1,5 @@
+	title = c_laryan
+	max_settlements = 4
+	culture = zaghawa
+	religion = cathar
+	b_tatyan = tribal

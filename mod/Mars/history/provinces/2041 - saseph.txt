@@ -1,0 +1,5 @@
+	title = c_saseph
+	max_settlements = 2
+	culture = mongol
+	religion = fraticelli
+	b_sasinos = tribal

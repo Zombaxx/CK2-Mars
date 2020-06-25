@@ -1,0 +1,5 @@
+	title = c_kehosai
+	max_settlements = 3
+	culture = assamese
+	religion = lollard
+	b_barde = tribal

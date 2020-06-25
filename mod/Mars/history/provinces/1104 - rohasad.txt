@@ -1,0 +1,5 @@
+	title = c_rohasad
+	max_settlements = 4
+	culture = avar
+	religion = miaphysite
+	b_kahuo = tribal

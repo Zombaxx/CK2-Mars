@@ -1,0 +1,5 @@
+	title = c_kella
+	max_settlements = 2
+	culture = pommeranian
+	religion = monothelite
+	b_totimon = tribal

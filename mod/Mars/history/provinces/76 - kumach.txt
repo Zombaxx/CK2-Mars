@@ -1,0 +1,5 @@
+	title = c_kumach
+	max_settlements = 3
+	culture = sardinian
+	religion = zikri
+	b_kudayya = tribal

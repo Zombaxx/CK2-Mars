@@ -1,0 +1,5 @@
+	title = c_koraria
+	max_settlements = 2
+	culture = meshchera
+	religion = pagan
+	b_boraac = tribal

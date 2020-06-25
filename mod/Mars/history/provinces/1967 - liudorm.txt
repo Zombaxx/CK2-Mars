@@ -1,0 +1,5 @@
+	title = c_liudorm
+	max_settlements = 3
+	culture = bedouin_arabic
+	religion = interface_skin
+	b_sorm = tribal

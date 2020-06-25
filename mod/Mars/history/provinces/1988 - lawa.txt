@@ -1,0 +1,5 @@
+	title = c_lawa
+	max_settlements = 2
+	culture = romanian
+	religion = tengri_pagan
+	b_kieleph = tribal

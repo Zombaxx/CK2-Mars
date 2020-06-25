@@ -1,0 +1,5 @@
+	title = c_kelura
+	max_settlements = 2
+	culture = soninke
+	religion = cathar
+	b_renann = tribal

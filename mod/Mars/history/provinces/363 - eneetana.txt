@@ -1,0 +1,5 @@
+	title = c_eneetana
+	max_settlements = 4
+	culture = bosnian
+	religion = shiite
+	b_emarana = tribal

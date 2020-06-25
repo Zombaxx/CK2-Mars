@@ -1,0 +1,5 @@
+	title = c_revaim
+	max_settlements = 2
+	culture = greek
+	religion = shiite
+	b_beceila = tribal

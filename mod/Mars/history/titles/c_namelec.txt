@@ -1,0 +1,134 @@
+758.2.1 = {
+	holder = 1000008
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1000711
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_wend
+}
+
+758.2.4 = {
+	holder = 1000709
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+800.2.1 = {
+	holder = 1005499
+}
+
+820.2.1 = {
+	holder = 1008998
+}
+
+875.2.1 = {
+	liege = d_kathalo
+}
+
+875.2.2 = {
+	holder = 1010058
+}
+
+883.2.1 = {
+	liege = d_wend
+}
+
+883.2.2 = {
+	liege = d_ranega
+}
+
+883.2.3 = {
+	holder = 1012839
+}
+
+890.2.1 = {
+	holder = 1013485
+}
+
+926.2.1 = {
+	holder = 1013521
+}
+
+932.2.1 = {
+	holder = 1014130
+}
+
+954.2.1 = {
+	liege = d_wend
+}
+
+954.2.2 = {
+	liege = d_kathalo
+}
+
+954.2.3 = {
+	liege = d_sanutar
+}
+
+954.2.4 = {
+	holder = 1015292
+}
+
+985.2.1 = {
+	holder = 1016341
+}
+
+1014.2.1 = {
+	liege = d_kathalo
+}
+
+1014.2.2 = {
+	liege = d_wend
+}
+
+1014.2.3 = {
+	liege = d_ranega
+}
+
+1014.2.4 = {
+	holder = 1018477
+}
+
+1037.2.1 = {
+	liege = d_wend
+}
+
+1037.2.2 = {
+	liege = d_kathalo
+}
+
+1037.2.3 = {
+	liege = d_sanutar
+}
+
+1037.2.4 = {
+	holder = 1018670
+}
+
+1047.2.1 = {
+	liege = d_kathalo
+}
+
+1047.2.2 = {
+	liege = d_wend
+}
+
+1047.2.3 = {
+	liege = d_ranega
+}
+
+1047.2.4 = {
+	holder = 1019596
+}
+
+1050.2.1 = {
+	holder = 1019872
+}
+

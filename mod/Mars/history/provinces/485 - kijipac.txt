@@ -1,0 +1,5 @@
+	title = c_kijipac
+	max_settlements = 2
+	culture = songhay
+	religion = paulician
+	b_sobiaged = tribal

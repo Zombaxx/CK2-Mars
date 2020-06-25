@@ -1,0 +1,5 @@
+	title = c_qurille
+	max_settlements = 2
+	culture = avar
+	religion = color
+	b_sulana = tribal

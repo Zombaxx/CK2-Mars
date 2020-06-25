@@ -1,0 +1,5 @@
+	title = c_kuin
+	max_settlements = 2
+	culture = carantanian
+	religion = interface_skin
+	b_eshomeus = tribal

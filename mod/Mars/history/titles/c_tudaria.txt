@@ -1,0 +1,214 @@
+758.2.1 = {
+	holder = 1000015
+	law = succ_tanistry
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1001063
+	law = succ_tanistry
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_ludisa
+}
+
+758.2.4 = {
+	holder = 1001062
+	law = succ_tanistry
+	law = agnatic_succession
+}
+
+794.2.1 = {
+	holder = 1005034
+}
+
+802.2.1 = {
+	holder = 1006816
+}
+
+818.2.1 = {
+	holder = 1009823
+}
+
+819.2.1 = {
+	holder = 1005380
+}
+
+824.2.1 = {
+	liege = d_naarobos
+}
+
+824.2.2 = {
+	liege = d_rafiar
+}
+
+824.2.3 = {
+	holder = 1008296
+}
+
+824.2.4 = {
+	liege = k_warilii
+}
+
+833.2.1 = {
+	liege = d_renilii
+}
+
+833.2.2 = {
+	liege = d_ludisa
+}
+
+833.2.3 = {
+	liege = d_naarobos
+}
+
+833.2.4 = {
+	liege = d_rafiar
+}
+
+833.2.5 = {
+	holder = 1010809
+}
+
+833.2.6 = {
+	liege = k_warilii
+}
+
+863.2.1 = {
+	liege = d_renilii
+}
+
+863.2.2 = {
+	liege = d_ludisa
+}
+
+863.2.3 = {
+	liege = d_naarobos
+}
+
+863.2.4 = {
+	liege = d_rafiar
+}
+
+863.2.5 = {
+	holder = 1011476
+}
+
+863.2.6 = {
+	liege = k_warilii
+}
+
+899.2.1 = {
+	liege = d_ezakoura
+}
+
+899.2.2 = {
+	liege = d_naarobos
+}
+
+899.2.3 = {
+	liege = d_ludisa
+}
+
+899.2.4 = {
+	liege = d_rafiar
+}
+
+899.2.5 = {
+	holder = 1012462
+}
+
+907.2.1 = {
+	holder = 1013932
+}
+
+907.2.2 = {
+	liege = k_warilii
+}
+
+924.2.1 = {
+	liege = d_ezakoura
+}
+
+924.2.2 = {
+	liege = d_naarobos
+}
+
+924.2.3 = {
+	liege = d_ludisa
+}
+
+924.2.4 = {
+	liege = d_rafiar
+}
+
+924.2.5 = {
+	holder = 1014971
+}
+
+929.2.1 = {
+	holder = 1015180
+}
+
+968.2.1 = {
+	holder = 1015220
+}
+
+982.2.1 = {
+	holder = 1017150
+}
+
+982.2.2 = {
+	liege = k_warilii
+}
+
+993.2.1 = {
+	liege = d_renilii
+}
+
+993.2.2 = {
+	liege = d_ludisa
+}
+
+993.2.3 = {
+	liege = d_naarobos
+}
+
+993.2.4 = {
+	liege = d_rafiar
+}
+
+993.2.5 = {
+	holder = 1017711
+}
+
+993.2.6 = {
+	liege = k_warilii
+}
+
+1039.2.1 = {
+	liege = d_renilii
+}
+
+1039.2.2 = {
+	liege = d_ludisa
+}
+
+1039.2.3 = {
+	liege = d_naarobos
+}
+
+1039.2.4 = {
+	liege = d_rafiar
+}
+
+1039.2.5 = {
+	holder = 1018591
+}
+
+1039.2.6 = {
+	liege = k_warilii
+}
+

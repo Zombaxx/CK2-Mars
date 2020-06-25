@@ -1,0 +1,5 @@
+	title = c_taganka
+	max_settlements = 3
+	culture = bedouin_arabic
+	religion = baltic_pagan_reformed
+	b_wavapal = tribal

@@ -1,0 +1,5 @@
+	title = c_tohins
+	max_settlements = 4
+	culture = greek
+	religion = ibadi
+	b_ralius = tribal

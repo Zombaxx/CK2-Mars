@@ -1,0 +1,5 @@
+	title = c_ryerassa
+	max_settlements = 2
+	culture = lithuanian
+	religion = jain
+	b_serund = tribal

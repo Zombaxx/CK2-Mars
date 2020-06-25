@@ -1,0 +1,5 @@
+	title = c_suripaz
+	max_settlements = 2
+	culture = old_frankish
+	religion = qarmatian
+	b_amunanu = tribal

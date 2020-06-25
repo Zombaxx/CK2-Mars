@@ -1,0 +1,5 @@
+	title = c_rogijah
+	max_settlements = 2
+	culture = oriya
+	religion = kharijite
+	b_sekory = tribal

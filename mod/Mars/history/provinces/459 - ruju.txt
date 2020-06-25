@@ -1,0 +1,5 @@
+	title = c_ruju
+	max_settlements = 3
+	culture = kannada
+	religion = cathar
+	b_nehucho = tribal

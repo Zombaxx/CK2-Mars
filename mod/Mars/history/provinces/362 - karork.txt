@@ -1,0 +1,5 @@
+	title = c_karork
+	max_settlements = 4
+	culture = zhangzhung
+	religion = lollard
+	b_kojaria = tribal

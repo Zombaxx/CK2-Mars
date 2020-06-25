@@ -1,0 +1,5 @@
+	title = c_sanutar
+	max_settlements = 3
+	culture = nepali
+	religion = ibadi
+	b_solerhi = tribal

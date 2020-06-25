@@ -1,0 +1,5 @@
+	title = c_rernlo
+	max_settlements = 4
+	culture = lettigallish
+	religion = finnish_pagan_reformed
+	b_raguslo = tribal

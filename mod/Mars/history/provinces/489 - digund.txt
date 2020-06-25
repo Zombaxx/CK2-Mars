@@ -1,0 +1,5 @@
+	title = c_digund
+	max_settlements = 5
+	culture = visigothic
+	religion = finnish_pagan
+	b_kyuvodis = tribal

@@ -1,0 +1,5 @@
+	title = c_licyi
+	max_settlements = 4
+	culture = scottish
+	religion = tengri_pagan
+	b_tert = tribal

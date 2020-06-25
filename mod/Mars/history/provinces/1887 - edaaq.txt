@@ -1,0 +1,5 @@
+	title = c_edaaq
+	max_settlements = 2
+	culture = finnish
+	religion = taoist
+	b_sereph = tribal

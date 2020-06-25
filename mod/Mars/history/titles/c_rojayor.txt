@@ -1,0 +1,172 @@
+758.2.1 = {
+	holder = 1000020
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1001261
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_bumoman
+}
+
+758.2.4 = {
+	holder = 1001262
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.5 = {
+	holder = 1001258
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+782.2.1 = {
+	holder = 1003779
+}
+
+784.2.1 = {
+	holder = 1001013
+}
+
+818.2.1 = {
+	holder = 1005376
+}
+
+831.2.1 = {
+	holder = 1007762
+}
+
+832.2.1 = {
+	holder = 1009343
+}
+
+853.2.1 = {
+	holder = 1010902
+}
+
+866.2.1 = {
+	liege = d_ereda
+}
+
+866.2.2 = {
+	liege = d_ryaseka
+}
+
+866.2.3 = {
+	holder = 1011922
+}
+
+906.2.1 = {
+	liege = d_narohn
+}
+
+906.2.2 = {
+	holder = 1012636
+}
+
+906.2.3 = {
+	liege = k_qeetema
+}
+
+909.2.1 = {
+	liege = d_bumoman
+}
+
+909.2.2 = {
+	liege = d_ereda
+}
+
+909.2.3 = {
+	liege = d_ryaseka
+}
+
+909.2.4 = {
+	liege = d_narohn
+}
+
+909.2.5 = {
+	holder = 1014273
+}
+
+909.2.6 = {
+	liege = k_qeetema
+}
+
+919.2.1 = {
+	liege = d_bumoman
+}
+
+919.2.2 = {
+	liege = d_ereda
+}
+
+919.2.3 = {
+	liege = d_ryaseka
+}
+
+919.2.4 = {
+	liege = d_narohn
+}
+
+919.2.5 = {
+	holder = 1012690
+}
+
+919.2.6 = {
+	liege = k_qeetema
+}
+
+925.2.1 = {
+	liege = d_qyasork
+}
+
+925.2.2 = {
+	liege = d_ereda
+}
+
+925.2.3 = {
+	liege = d_bumoman
+}
+
+925.2.4 = {
+	liege = d_ryaseka
+}
+
+925.2.5 = {
+	holder = 1015014
+}
+
+928.2.1 = {
+	holder = 1015147
+}
+
+977.2.1 = {
+	holder = 1015306
+}
+
+982.2.1 = {
+	holder = 1017149
+}
+
+983.2.1 = {
+	holder = 1017305
+}
+
+1001.2.1 = {
+	holder = 1017358
+}
+
+1043.2.1 = {
+	holder = 1018037
+}
+
+1054.2.1 = {
+	holder = 1019669
+}
+

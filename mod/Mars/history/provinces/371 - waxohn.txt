@@ -1,0 +1,5 @@
+	title = c_waxohn
+	max_settlements = 2
+	culture = armenian
+	religion = pagan
+	b_qumoman = tribal

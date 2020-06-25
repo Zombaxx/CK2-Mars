@@ -1,0 +1,5 @@
+	title = c_rernine
+	max_settlements = 2
+	culture = zaghawa
+	religion = bon
+	b_qyuludo = tribal

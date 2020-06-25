@@ -1,0 +1,5 @@
+	title = c_eboroman
+	max_settlements = 2
+	culture = lettigallish
+	religion = sunni
+	b_lonaret = tribal

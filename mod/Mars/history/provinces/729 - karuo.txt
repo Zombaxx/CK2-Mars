@@ -1,0 +1,5 @@
+	title = c_karuo
+	max_settlements = 2
+	culture = bedouin_arabic
+	religion = orthodox
+	b_luguo = tribal

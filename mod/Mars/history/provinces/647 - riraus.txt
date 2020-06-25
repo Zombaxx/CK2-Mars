@@ -1,0 +1,5 @@
+	title = c_riraus
+	max_settlements = 2
+	culture = sindhi
+	religion = iconoclast
+	b_adatena = tribal

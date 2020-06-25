@@ -1,0 +1,5 @@
+	title = c_dina
+	max_settlements = 2
+	culture = swedish
+	religion = interface_skin
+	b_serasia = tribal

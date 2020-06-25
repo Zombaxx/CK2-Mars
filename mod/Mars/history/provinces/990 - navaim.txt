@@ -1,0 +1,5 @@
+	title = c_navaim
+	max_settlements = 2
+	culture = mongol
+	religion = cathar
+	b_levuna = tribal

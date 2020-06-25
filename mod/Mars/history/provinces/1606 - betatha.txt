@@ -1,0 +1,5 @@
+	title = c_betatha
+	max_settlements = 3
+	culture = swedish
+	religion = samaritan
+	b_qunaha = tribal

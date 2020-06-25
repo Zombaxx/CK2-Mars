@@ -1,0 +1,5 @@
+	title = c_kevire
+	max_settlements = 4
+	culture = georgian
+	religion = bon_reformed
+	b_avacabr = tribal

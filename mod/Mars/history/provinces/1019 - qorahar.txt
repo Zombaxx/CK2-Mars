@@ -1,0 +1,5 @@
+	title = c_qorahar
+	max_settlements = 2
+	culture = komi
+	religion = pagan
+	b_budarde = tribal

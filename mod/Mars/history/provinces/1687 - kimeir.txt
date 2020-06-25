@@ -1,0 +1,5 @@
+	title = c_kimeir
+	max_settlements = 2
+	culture = panjabi
+	religion = interface_skin
+	b_kamudah = tribal

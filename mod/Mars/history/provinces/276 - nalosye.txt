@@ -1,0 +1,5 @@
+	title = c_nalosye
+	max_settlements = 4
+	culture = lithuanian
+	religion = finnish_pagan
+	b_lajoras = tribal

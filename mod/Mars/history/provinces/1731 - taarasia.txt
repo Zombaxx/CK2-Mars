@@ -1,0 +1,5 @@
+	title = c_taarasia
+	max_settlements = 3
+	culture = breton
+	religion = slavic_pagan
+	b_takina = tribal

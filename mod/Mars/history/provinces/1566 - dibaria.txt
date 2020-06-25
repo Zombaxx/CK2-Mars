@@ -1,0 +1,5 @@
+	title = c_dibaria
+	max_settlements = 2
+	culture = baloch
+	religion = finnish_pagan
+	b_sudaria = tribal

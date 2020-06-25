@@ -1,0 +1,5 @@
+	title = c_limaim
+	max_settlements = 3
+	culture = armenian
+	religion = paulician
+	b_dijunai = tribal

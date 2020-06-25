@@ -1,0 +1,5 @@
+	title = c_becam
+	max_settlements = 2
+	culture = samoyed
+	religion = druze
+	b_naras = tribal

@@ -1,0 +1,5 @@
+	title = c_nielita
+	max_settlements = 2
+	culture = pecheneg
+	religion = catholic
+	b_wosamy = tribal

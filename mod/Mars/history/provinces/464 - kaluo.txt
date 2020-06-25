@@ -1,0 +1,5 @@
+	title = c_kaluo
+	max_settlements = 2
+	culture = andalusian_arabic
+	religion = hindu
+	b_rehucho = tribal

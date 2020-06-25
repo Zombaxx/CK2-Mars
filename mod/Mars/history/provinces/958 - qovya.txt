@@ -1,0 +1,5 @@
+	title = c_qovya
+	max_settlements = 2
+	culture = songhay
+	religion = norse_pagan
+	b_tayya = tribal

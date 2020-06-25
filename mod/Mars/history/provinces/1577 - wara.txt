@@ -1,0 +1,5 @@
+	title = c_wara
+	max_settlements = 2
+	culture = tamil
+	religion = monothelite
+	b_taulimon = tribal

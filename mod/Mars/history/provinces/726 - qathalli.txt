@@ -1,0 +1,5 @@
+	title = c_qathalli
+	max_settlements = 3
+	culture = armenian
+	religion = tengri_pagan_reformed
+	b_tamelec = tribal

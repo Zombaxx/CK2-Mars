@@ -1,0 +1,5 @@
+	title = c_ecrerfn
+	max_settlements = 3
+	culture = volhynian
+	religion = khurmazta
+	b_totyla = tribal

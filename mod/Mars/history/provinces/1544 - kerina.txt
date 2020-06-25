@@ -1,0 +1,5 @@
+	title = c_kerina
+	max_settlements = 2
+	culture = sinhala
+	religion = pagan
+	b_tabilii = tribal

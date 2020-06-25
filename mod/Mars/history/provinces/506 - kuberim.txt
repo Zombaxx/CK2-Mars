@@ -1,0 +1,5 @@
+	title = c_kuberim
+	max_settlements = 2
+	culture = lithuanian
+	religion = samaritan
+	b_danur = tribal

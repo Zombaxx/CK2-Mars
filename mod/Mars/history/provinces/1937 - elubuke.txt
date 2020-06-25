@@ -1,0 +1,5 @@
+	title = c_elubuke
+	max_settlements = 3
+	culture = kanuri
+	religion = bon
+	b_amalaoji = tribal

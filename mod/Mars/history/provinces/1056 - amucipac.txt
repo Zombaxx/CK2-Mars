@@ -1,0 +1,5 @@
+	title = c_amucipac
+	max_settlements = 3
+	culture = persian
+	religion = bon
+	b_tamipac = tribal

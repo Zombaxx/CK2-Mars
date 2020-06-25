@@ -1,0 +1,5 @@
+	title = c_eskeir
+	max_settlements = 2
+	culture = telugu
+	religion = aztec
+	b_raleek = tribal

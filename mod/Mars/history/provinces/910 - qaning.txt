@@ -1,0 +1,5 @@
+	title = c_qaning
+	max_settlements = 4
+	culture = coptic
+	religion = baltic_pagan
+	b_kay-ita = tribal

@@ -1,0 +1,5 @@
+	title = c_takaret
+	max_settlements = 2
+	culture = norwegian
+	religion = qarmatian
+	b_takapal = tribal

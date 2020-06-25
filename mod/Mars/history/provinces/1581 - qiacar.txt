@@ -1,0 +1,5 @@
+	title = c_qiacar
+	max_settlements = 2
+	culture = sogdian
+	religion = hindu
+	b_siudine = tribal

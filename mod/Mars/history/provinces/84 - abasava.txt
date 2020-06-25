@@ -1,0 +1,5 @@
+	title = c_abasava
+	max_settlements = 2
+	culture = tamil
+	religion = nestorian
+	b_wedideva = tribal

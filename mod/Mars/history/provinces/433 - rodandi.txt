@@ -1,0 +1,5 @@
+	title = c_rodandi
+	max_settlements = 2
+	culture = tamil
+	religion = cathar
+	b_kereas = tribal

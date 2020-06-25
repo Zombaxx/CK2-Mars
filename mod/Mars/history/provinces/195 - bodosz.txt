@@ -1,0 +1,5 @@
+	title = c_bodosz
+	max_settlements = 3
+	culture = avar
+	religion = monophysite
+	b_evaloja = tribal

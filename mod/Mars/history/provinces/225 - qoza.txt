@@ -1,0 +1,5 @@
+	title = c_qoza
+	max_settlements = 2
+	culture = rajput
+	religion = jewish
+	b_todolas = tribal

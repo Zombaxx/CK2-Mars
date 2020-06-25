@@ -1,0 +1,5 @@
+	title = c_lumeba
+	max_settlements = 2
+	culture = irish
+	religion = pagan
+	b_ahaleba = tribal

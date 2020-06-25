@@ -1,0 +1,5 @@
+	title = c_binast
+	max_settlements = 2
+	culture = basque
+	religion = baltic_pagan_reformed
+	b_rorona = tribal

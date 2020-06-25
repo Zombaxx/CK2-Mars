@@ -1,0 +1,5 @@
+	title = c_bizarya
+	max_settlements = 3
+	culture = tocharian
+	religion = iconoclast
+	b_taytar = tribal

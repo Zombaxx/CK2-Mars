@@ -1,0 +1,5 @@
+	title = c_daxaicu
+	max_settlements = 2
+	culture = maghreb_arabic
+	religion = nestorian
+	b_amogeth = tribal

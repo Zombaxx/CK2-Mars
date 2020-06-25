@@ -1,0 +1,5 @@
+	title = c_sekasa
+	max_settlements = 3
+	culture = irish
+	religion = manichean
+	b_bailk = tribal

@@ -1,0 +1,5 @@
+	title = c_somuwe
+	max_settlements = 2
+	culture = sogdian
+	religion = manichean
+	b_wofyu = tribal

@@ -1,0 +1,5 @@
+	title = c_kekima
+	max_settlements = 2
+	culture = carantanian
+	religion = slavic_pagan_reformed
+	b_einor = tribal

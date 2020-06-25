@@ -1,0 +1,5 @@
+	title = c_sakork
+	max_settlements = 2
+	culture = assamese
+	religion = west_african_pagan
+	b_bohipa = tribal

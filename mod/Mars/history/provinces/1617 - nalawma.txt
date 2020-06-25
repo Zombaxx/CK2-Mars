@@ -1,0 +1,5 @@
+	title = c_nalawma
+	max_settlements = 3
+	culture = mongol
+	religion = west_african_pagan
+	b_kilaha = tribal

@@ -1,0 +1,5 @@
+	title = c_lanail
+	max_settlements = 3
+	culture = carantanian
+	religion = baltic_pagan_reformed
+	b_loretar = tribal

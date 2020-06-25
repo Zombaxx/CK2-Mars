@@ -1,0 +1,5 @@
+	title = c_kucipac
+	max_settlements = 2
+	culture = ashkenazi
+	religion = bon
+	b_tijan = tribal

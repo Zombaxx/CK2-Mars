@@ -1,0 +1,5 @@
+	title = c_taneuta
+	max_settlements = 4
+	culture = bosnian
+	religion = qarmatian
+	b_waleth = tribal

@@ -1,0 +1,5 @@
+	title = c_byamyi
+	max_settlements = 2
+	culture = ethiopian
+	religion = orthodox
+	b_katayan = tribal

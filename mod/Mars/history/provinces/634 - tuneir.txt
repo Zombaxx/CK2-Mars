@@ -1,0 +1,5 @@
+	title = c_tuneir
+	max_settlements = 4
+	culture = welsh
+	religion = bogomilist
+	b_sailtek = tribal

@@ -1,0 +1,5 @@
+	title = c_dunoul
+	max_settlements = 2
+	culture = sardinian
+	religion = khurmazta
+	b_lorena = tribal

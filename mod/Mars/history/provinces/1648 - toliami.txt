@@ -1,0 +1,5 @@
+	title = c_toliami
+	max_settlements = 2
+	culture = lombard
+	religion = hellenic_pagan
+	b_seramba = tribal

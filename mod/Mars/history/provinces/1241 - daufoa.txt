@@ -1,0 +1,5 @@
+	title = c_daufoa
+	max_settlements = 2
+	culture = han
+	religion = taoist
+	b_rielava = tribal

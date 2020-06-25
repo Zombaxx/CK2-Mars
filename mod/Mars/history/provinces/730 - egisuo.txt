@@ -1,0 +1,5 @@
+	title = c_egisuo
+	max_settlements = 2
+	culture = assyrian
+	religion = norse_pagan
+	b_tahasad = tribal

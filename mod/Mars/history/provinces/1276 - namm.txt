@@ -1,0 +1,5 @@
+	title = c_namm
+	max_settlements = 3
+	culture = panjabi
+	religion = ibadi
+	b_ethawma = tribal

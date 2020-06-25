@@ -1,0 +1,5 @@
+	title = c_rucius
+	max_settlements = 2
+	culture = visigothic
+	religion = druze
+	b_qyunania = tribal

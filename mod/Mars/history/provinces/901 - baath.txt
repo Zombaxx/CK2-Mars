@@ -1,0 +1,5 @@
+	title = c_baath
+	max_settlements = 6
+	culture = andalusian_arabic
+	religion = interface_skin
+	b_sobaham = tribal

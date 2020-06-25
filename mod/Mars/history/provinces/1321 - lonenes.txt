@@ -1,0 +1,5 @@
+	title = c_lonenes
+	max_settlements = 2
+	culture = assamese
+	religion = interface_skin
+	b_konuke = tribal

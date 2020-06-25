@@ -1,0 +1,5 @@
+	title = c_laulint
+	max_settlements = 2
+	culture = sindhi
+	religion = waldensian
+	b_atubiel = tribal

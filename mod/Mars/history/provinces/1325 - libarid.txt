@@ -1,0 +1,5 @@
+	title = c_libarid
+	max_settlements = 2
+	culture = norwegian
+	religion = baltic_pagan
+	b_achanari = tribal

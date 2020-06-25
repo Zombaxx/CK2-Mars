@@ -1,0 +1,5 @@
+	title = c_kabdoras
+	max_settlements = 2
+	culture = oriya
+	religion = bogomilist
+	b_asohacob = tribal

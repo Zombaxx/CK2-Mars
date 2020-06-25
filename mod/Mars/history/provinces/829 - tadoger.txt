@@ -1,0 +1,5 @@
+	title = c_tadoger
+	max_settlements = 3
+	culture = maghreb_arabic
+	religion = catholic
+	b_norirma = tribal

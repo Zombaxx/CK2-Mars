@@ -1,0 +1,5 @@
+	title = c_nojinat
+	max_settlements = 2
+	culture = tocharian
+	religion = hellenic_pagan
+	b_losava = tribal

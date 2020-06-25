@@ -1,0 +1,5 @@
+	title = c_sokeph
+	max_settlements = 2
+	culture = catalan
+	religion = hellenic_pagan_reformed
+	b_beradiq = tribal

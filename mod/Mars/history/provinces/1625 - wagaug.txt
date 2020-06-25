@@ -1,0 +1,5 @@
+	title = c_wagaug
+	max_settlements = 5
+	culture = pictish
+	religion = shiite
+	b_tadaug = tribal

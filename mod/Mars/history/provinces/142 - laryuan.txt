@@ -1,0 +1,5 @@
+	title = c_laryuan
+	max_settlements = 4
+	culture = prussian
+	religion = interface_skin
+	b_nosuo = tribal

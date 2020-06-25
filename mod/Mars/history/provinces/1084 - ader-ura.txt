@@ -1,0 +1,5 @@
+	title = c_ader-ura
+	max_settlements = 2
+	culture = russian
+	religion = messalian
+	b_kibida = tribal

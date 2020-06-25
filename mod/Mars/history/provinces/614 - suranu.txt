@@ -1,0 +1,5 @@
+	title = c_suranu
+	max_settlements = 3
+	culture = finnish
+	religion = jain
+	b_asuranu = tribal

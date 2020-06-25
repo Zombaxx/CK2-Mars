@@ -1,0 +1,5 @@
+	title = c_taluna
+	max_settlements = 4
+	culture = kirghiz
+	religion = fraticelli
+	b_adageuta = tribal

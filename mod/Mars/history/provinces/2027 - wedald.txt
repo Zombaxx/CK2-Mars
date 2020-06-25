@@ -1,0 +1,5 @@
+	title = c_wedald
+	max_settlements = 2
+	culture = sinhala
+	religion = buddhist
+	b_edagnus = tribal

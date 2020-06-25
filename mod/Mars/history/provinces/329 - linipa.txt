@@ -1,0 +1,5 @@
+	title = c_linipa
+	max_settlements = 3
+	culture = sindhi
+	religion = manichean
+	b_wohipa = tribal

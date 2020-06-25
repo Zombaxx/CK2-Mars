@@ -1,0 +1,132 @@
+758.2.1 = {
+	holder = 1000002
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1000311
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_ramyula
+}
+
+758.2.4 = {
+	holder = 1000312
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.5 = {
+	holder = 1000309
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+798.2.1 = {
+	holder = 1006051
+}
+
+811.2.1 = {
+	holder = 1008848
+}
+
+849.2.1 = {
+	holder = 1010421
+}
+
+886.2.1 = {
+	holder = 1011655
+}
+
+889.2.1 = {
+	holder = 1013341
+}
+
+929.2.1 = {
+	holder = 1014085
+}
+
+956.2.1 = {
+	holder = 1016049
+}
+
+972.2.1 = {
+	holder = 1016820
+}
+
+972.2.2 = {
+	liege = k_naqar
+}
+
+1005.2.1 = {
+	liege = d_simon
+}
+
+1005.2.2 = {
+	liege = d_wibuke
+}
+
+1005.2.3 = {
+	liege = d_ramyula
+}
+
+1005.2.4 = {
+	holder = 1016902
+}
+
+1005.2.5 = {
+	liege = k_naqar
+}
+
+1006.2.1 = {
+	liege = d_simon
+}
+
+1006.2.2 = {
+	liege = d_wibuke
+}
+
+1006.2.3 = {
+	liege = d_ramyula
+}
+
+1006.2.4 = {
+	holder = 1018164
+}
+
+1006.2.5 = {
+	liege = k_naqar
+}
+
+1022.2.1 = {
+	liege = d_simon
+}
+
+1022.2.2 = {
+	liege = d_erama
+}
+
+1022.2.3 = {
+	liege = d_wibuke
+}
+
+1022.2.4 = {
+	holder = 1018624
+}
+
+1038.2.1 = {
+	holder = 1019423
+}
+
+1048.2.1 = {
+	liege = 0
+}
+
+1048.2.2 = {
+	holder = 1019793
+}
+

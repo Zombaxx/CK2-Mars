@@ -1,0 +1,5 @@
+	title = c_rarid
+	max_settlements = 2
+	culture = welsh
+	religion = nestorian
+	b_azacaus = tribal

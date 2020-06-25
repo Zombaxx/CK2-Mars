@@ -1,0 +1,5 @@
+	title = c_dareter
+	max_settlements = 2
+	culture = bulgarian
+	religion = druze
+	b_labdeter = tribal

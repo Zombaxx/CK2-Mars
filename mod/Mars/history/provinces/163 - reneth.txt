@@ -1,0 +1,5 @@
+	title = c_reneth
+	max_settlements = 4
+	culture = oriya
+	religion = hindu
+	b_eralohn = tribal

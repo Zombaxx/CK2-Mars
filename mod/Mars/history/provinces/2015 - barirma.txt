@@ -1,0 +1,5 @@
+	title = c_barirma
+	max_settlements = 3
+	culture = persian
+	religion = aztec_reformed
+	b_sanca = tribal

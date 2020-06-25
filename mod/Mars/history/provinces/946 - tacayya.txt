@@ -1,0 +1,5 @@
+	title = c_tacayya
+	max_settlements = 3
+	culture = zaghawa
+	religion = kharijite
+	b_wavolas = tribal

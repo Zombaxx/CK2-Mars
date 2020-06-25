@@ -1,0 +1,5 @@
+	title = c_ekue
+	max_settlements = 3
+	culture = zaghawa
+	religion = hellenic_pagan
+	b_turorm = tribal

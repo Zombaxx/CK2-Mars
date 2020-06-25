@@ -1,0 +1,5 @@
+	title = c_degapo
+	max_settlements = 2
+	culture = old_frankish
+	religion = messalian
+	b_nosork = tribal

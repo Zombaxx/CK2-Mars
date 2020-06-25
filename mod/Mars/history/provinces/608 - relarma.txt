@@ -1,0 +1,5 @@
+	title = c_relarma
+	max_settlements = 3
+	culture = assyrian
+	religion = messalian
+	b_termaham = tribal

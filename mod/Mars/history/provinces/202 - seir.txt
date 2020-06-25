@@ -1,0 +1,5 @@
+	title = c_seir
+	max_settlements = 2
+	culture = welsh
+	religion = monothelite
+	b_sereir = tribal

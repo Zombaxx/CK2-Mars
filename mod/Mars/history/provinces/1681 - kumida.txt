@@ -1,0 +1,5 @@
+	title = c_kumida
+	max_settlements = 3
+	culture = arberian
+	religion = cathar
+	b_tarulia = tribal

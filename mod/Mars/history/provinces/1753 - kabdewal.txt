@@ -1,0 +1,5 @@
+	title = c_kabdewal
+	max_settlements = 2
+	culture = basque
+	religion = buddhist
+	b_kaneis = tribal

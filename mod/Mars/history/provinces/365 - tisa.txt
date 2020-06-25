@@ -1,0 +1,5 @@
+	title = c_tisa
+	max_settlements = 2
+	culture = bulgarian
+	religion = karaite
+	b_tojacob = tribal

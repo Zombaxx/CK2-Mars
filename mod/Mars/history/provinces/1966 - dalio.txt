@@ -1,0 +1,5 @@
+	title = c_dalio
+	max_settlements = 2
+	culture = polish
+	religion = messalian
+	b_tunuke = tribal

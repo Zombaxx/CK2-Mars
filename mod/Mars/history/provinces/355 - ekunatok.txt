@@ -1,0 +1,5 @@
+	title = c_ekunatok
+	max_settlements = 4
+	culture = pommeranian
+	religion = aztec_reformed
+	b_tanork = tribal

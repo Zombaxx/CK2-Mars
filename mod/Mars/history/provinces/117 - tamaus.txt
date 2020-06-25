@@ -1,0 +1,5 @@
+	title = c_tamaus
+	max_settlements = 3
+	culture = bosnian
+	religion = interface_skin
+	b_tineter = tribal

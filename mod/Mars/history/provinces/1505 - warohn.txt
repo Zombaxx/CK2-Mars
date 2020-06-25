@@ -1,0 +1,5 @@
+	title = c_warohn
+	max_settlements = 3
+	culture = scottish
+	religion = pagan
+	b_worura = tribal

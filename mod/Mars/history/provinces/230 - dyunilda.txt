@@ -1,0 +1,5 @@
+	title = c_dyunilda
+	max_settlements = 2
+	culture = oriya
+	religion = finnish_pagan_reformed
+	b_ragew = tribal

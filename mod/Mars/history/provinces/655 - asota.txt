@@ -1,0 +1,5 @@
+	title = c_asota
+	max_settlements = 2
+	culture = armenian
+	religion = kharijite
+	b_razaqar = tribal

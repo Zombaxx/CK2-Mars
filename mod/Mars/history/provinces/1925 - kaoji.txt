@@ -1,0 +1,5 @@
+	title = c_kaoji
+	max_settlements = 4
+	culture = bedouin_arabic
+	religion = west_african_pagan
+	b_torm = tribal

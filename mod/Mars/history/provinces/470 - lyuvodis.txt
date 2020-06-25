@@ -1,0 +1,5 @@
+	title = c_lyuvodis
+	max_settlements = 4
+	culture = serbian
+	religion = norse_pagan_reformed
+	b_wirierr = tribal

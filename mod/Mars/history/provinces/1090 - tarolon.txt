@@ -1,0 +1,5 @@
+	title = c_tarolon
+	max_settlements = 2
+	culture = tocharian
+	religion = kharijite
+	b_rorying = tribal

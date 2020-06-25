@@ -1,0 +1,5 @@
+	title = c_kodona
+	max_settlements = 2
+	culture = swedish
+	religion = cathar
+	b_tararia = tribal

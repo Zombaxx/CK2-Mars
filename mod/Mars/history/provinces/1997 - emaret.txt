@@ -1,0 +1,5 @@
+	title = c_emaret
+	max_settlements = 2
+	culture = alan
+	religion = manichean
+	b_avyeh = tribal

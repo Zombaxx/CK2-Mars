@@ -1,0 +1,5 @@
+	title = c_taiura
+	max_settlements = 2
+	culture = volhynian
+	religion = west_african_pagan
+	b_kanah = tribal

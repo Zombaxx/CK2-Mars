@@ -1,0 +1,5 @@
+	title = c_wokelet
+	max_settlements = 2
+	culture = assyrian
+	religion = lollard
+	b_qakabr = tribal

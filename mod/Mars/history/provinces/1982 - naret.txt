@@ -1,0 +1,5 @@
+	title = c_naret
+	max_settlements = 2
+	culture = breton
+	religion = norse_pagan
+	b_weinima = tribal

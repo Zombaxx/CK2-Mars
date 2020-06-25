@@ -1,0 +1,5 @@
+	title = c_amarma
+	max_settlements = 2
+	culture = visigothic
+	religion = hindu
+	b_lermarma = tribal

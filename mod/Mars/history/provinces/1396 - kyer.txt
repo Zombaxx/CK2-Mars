@@ -1,0 +1,5 @@
+	title = c_kyer
+	max_settlements = 2
+	culture = egyptian_arabic
+	religion = fraticelli
+	b_qelapo = tribal

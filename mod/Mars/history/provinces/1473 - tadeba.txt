@@ -1,0 +1,5 @@
+	title = c_tadeba
+	max_settlements = 2
+	culture = slovieni
+	religion = jain
+	b_qandi = tribal

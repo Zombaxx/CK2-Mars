@@ -1,0 +1,5 @@
+	title = c_qana
+	max_settlements = 2
+	culture = norse
+	religion = west_african_pagan
+	b_takeka = tribal

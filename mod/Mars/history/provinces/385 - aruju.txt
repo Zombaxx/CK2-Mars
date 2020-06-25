@@ -1,0 +1,5 @@
+	title = c_aruju
+	max_settlements = 2
+	culture = pictish
+	religion = interface_skin
+	b_doruju = tribal

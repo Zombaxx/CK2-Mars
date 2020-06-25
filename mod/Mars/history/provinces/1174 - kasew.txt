@@ -1,0 +1,5 @@
+	title = c_kasew
+	max_settlements = 4
+	culture = nepali
+	religion = west_african_pagan_reformed
+	b_rahad = tribal

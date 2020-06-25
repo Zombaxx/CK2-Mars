@@ -1,0 +1,5 @@
+	title = c_aclovya
+	max_settlements = 2
+	culture = persian
+	religion = tengri_pagan_reformed
+	b_seodat = tribal

@@ -1,0 +1,5 @@
+	title = c_narandi
+	max_settlements = 3
+	culture = lombard
+	religion = bon
+	b_qikobos = tribal

@@ -1,0 +1,5 @@
+	title = c_kyayuo
+	max_settlements = 5
+	culture = old_saxon
+	religion = monophysite
+	b_enajapo = tribal

@@ -1,0 +1,5 @@
+	title = c_kojinat
+	max_settlements = 2
+	culture = assamese
+	religion = jain
+	b_tajoor = tribal

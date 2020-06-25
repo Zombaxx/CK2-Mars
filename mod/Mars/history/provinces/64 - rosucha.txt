@@ -1,0 +1,5 @@
+	title = c_rosucha
+	max_settlements = 4
+	culture = han
+	religion = catholic
+	b_laxila = tribal

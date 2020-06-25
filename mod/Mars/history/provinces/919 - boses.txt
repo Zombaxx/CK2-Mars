@@ -1,0 +1,5 @@
+	title = c_boses
+	max_settlements = 2
+	culture = lithuanian
+	religion = waldensian
+	b_beirek = tribal

@@ -1,0 +1,5 @@
+	title = c_ragega
+	max_settlements = 4
+	culture = old_saxon
+	religion = aztec
+	b_kueleda = tribal

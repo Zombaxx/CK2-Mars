@@ -1,0 +1,5 @@
+	title = c_wenda
+	max_settlements = 3
+	culture = avar
+	religion = norse_pagan
+	b_naxith = tribal

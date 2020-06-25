@@ -1,0 +1,5 @@
+	title = c_quisipa
+	max_settlements = 6
+	culture = oriya
+	religion = yazidi
+	b_nohapal = tribal

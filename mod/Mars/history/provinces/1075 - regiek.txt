@@ -1,0 +1,5 @@
+	title = c_regiek
+	max_settlements = 3
+	culture = german
+	religion = zikri
+	b_weguna = tribal

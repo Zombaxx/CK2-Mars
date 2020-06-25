@@ -1,0 +1,5 @@
+	title = c_lalaad
+	max_settlements = 2
+	culture = lombard
+	religion = nestorian
+	b_adavalaf = tribal

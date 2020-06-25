@@ -1,0 +1,5 @@
+	title = c_eradoj
+	max_settlements = 6
+	culture = frisian
+	religion = hellenic_pagan
+	b_leata = tribal

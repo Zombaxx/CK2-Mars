@@ -1,0 +1,5 @@
+	title = c_rabduan
+	max_settlements = 3
+	culture = hindustani
+	religion = zikri
+	b_qubasad = tribal

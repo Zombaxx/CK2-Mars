@@ -1,0 +1,5 @@
+	title = c_lerujin
+	max_settlements = 2
+	culture = khitan
+	religion = west_african_pagan_reformed
+	b_wahomas = tribal

@@ -1,0 +1,5 @@
+	title = c_toroor
+	max_settlements = 2
+	culture = catalan
+	religion = finnish_pagan
+	b_tieloor = tribal

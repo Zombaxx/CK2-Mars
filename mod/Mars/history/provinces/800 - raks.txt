@@ -1,0 +1,5 @@
+	title = c_raks
+	max_settlements = 4
+	culture = armenian
+	religion = interface_skin
+	b_lindutar = tribal

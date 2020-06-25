@@ -1,0 +1,5 @@
+	title = c_tubafiz
+	max_settlements = 5
+	culture = afghan
+	religion = messalian
+	b_dagiero = tribal

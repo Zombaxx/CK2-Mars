@@ -1,0 +1,5 @@
+	title = c_tamius
+	max_settlements = 4
+	culture = visigothic
+	religion = interface_skin
+	b_sinoisi = tribal

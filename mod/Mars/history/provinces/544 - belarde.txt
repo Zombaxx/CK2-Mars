@@ -1,0 +1,5 @@
+	title = c_belarde
+	max_settlements = 3
+	culture = norwegian
+	religion = manichean
+	b_dorudan = tribal

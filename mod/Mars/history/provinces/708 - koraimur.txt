@@ -1,0 +1,5 @@
+	title = c_koraimur
+	max_settlements = 2
+	culture = english
+	religion = miaphysite
+	b_edategin = tribal

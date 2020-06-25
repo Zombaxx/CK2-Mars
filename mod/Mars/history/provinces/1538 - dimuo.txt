@@ -1,0 +1,5 @@
+	title = c_dimuo
+	max_settlements = 2
+	culture = bengali
+	religion = manichean
+	b_tabducha = tribal

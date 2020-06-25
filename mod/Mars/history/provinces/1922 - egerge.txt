@@ -1,0 +1,5 @@
+	title = c_egerge
+	max_settlements = 4
+	culture = outremer
+	religion = samaritan
+	b_qigerge = tribal

@@ -1,0 +1,5 @@
+	title = c_ravamm
+	max_settlements = 4
+	culture = arberian
+	religion = sunni
+	b_qeraha = tribal

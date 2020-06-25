@@ -1,0 +1,5 @@
+	title = c_tecanna
+	max_settlements = 4
+	culture = daju
+	religion = ibadi
+	b_kilati = tribal

@@ -1,0 +1,5 @@
+	title = c_sakifa
+	max_settlements = 2
+	culture = welsh
+	religion = aztec
+	b_lakudah = tribal

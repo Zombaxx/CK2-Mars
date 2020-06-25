@@ -1,0 +1,5 @@
+	title = c_rivicha
+	max_settlements = 2
+	culture = uyghur
+	religion = catholic
+	b_toreas = tribal

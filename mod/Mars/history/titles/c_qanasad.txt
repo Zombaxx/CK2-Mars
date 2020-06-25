@@ -1,0 +1,216 @@
+758.2.1 = {
+	holder = 1000007
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1000567
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_demizhen
+}
+
+758.2.4 = {
+	holder = 1000568
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.5 = {
+	holder = 1000565
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+768.2.1 = {
+	holder = 1005617
+}
+
+820.2.1 = {
+	liege = d_nolaya
+}
+
+820.2.2 = {
+	holder = 1008632
+}
+
+823.2.1 = {
+	liege = d_demizhen
+}
+
+823.2.2 = {
+	holder = 1004635
+}
+
+835.2.1 = {
+	liege = d_lubala
+}
+
+835.2.2 = {
+	holder = 1009983
+}
+
+835.2.3 = {
+	liege = k_lantua
+}
+
+839.2.1 = {
+	liege = d_dilari
+}
+
+839.2.2 = {
+	liege = d_nolaya
+}
+
+839.2.3 = {
+	liege = d_demizhen
+}
+
+839.2.4 = {
+	liege = d_lubala
+}
+
+839.2.5 = {
+	holder = 1010055
+}
+
+839.2.6 = {
+	liege = k_lantua
+}
+
+851.2.1 = {
+	liege = d_demizhen
+}
+
+851.2.2 = {
+	liege = d_nolaya
+}
+
+851.2.3 = {
+	liege = d_dilari
+}
+
+851.2.4 = {
+	liege = d_amala
+}
+
+851.2.5 = {
+	liege = d_tanavak
+}
+
+851.2.6 = {
+	liege = d_aguach
+}
+
+851.2.7 = {
+	holder = 1011626
+}
+
+851.2.8 = {
+	liege = k_lantua
+}
+
+910.2.1 = {
+	liege = d_amala
+}
+
+910.2.2 = {
+	liege = d_dilari
+}
+
+910.2.3 = {
+	liege = d_nolaya
+}
+
+910.2.4 = {
+	liege = d_demizhen
+}
+
+910.2.5 = {
+	liege = d_aguach
+}
+
+910.2.6 = {
+	liege = d_tanavak
+}
+
+910.2.7 = {
+	holder = 1012629
+}
+
+936.2.1 = {
+	liege = d_aguach
+}
+
+936.2.2 = {
+	liege = d_wanucha
+}
+
+936.2.3 = {
+	holder = 1014805
+}
+
+936.2.4 = {
+	liege = k_lantua
+}
+
+958.2.1 = {
+	liege = d_wanucha
+}
+
+958.2.2 = {
+	liege = d_amala
+}
+
+958.2.3 = {
+	liege = d_dilari
+}
+
+958.2.4 = {
+	liege = d_nolaya
+}
+
+958.2.5 = {
+	liege = d_demizhen
+}
+
+958.2.6 = {
+	liege = d_aguach
+}
+
+958.2.7 = {
+	liege = d_tanavak
+}
+
+958.2.8 = {
+	holder = 1015713
+}
+
+984.2.1 = {
+	holder = 1017349
+}
+
+1014.2.1 = {
+	liege = d_aguach
+}
+
+1014.2.2 = {
+	holder = 1017783
+}
+
+1026.2.1 = {
+	liege = d_tanavak
+}
+
+1026.2.2 = {
+	holder = 1018800
+}
+
+1029.2.1 = {
+	holder = 1019096
+}
+

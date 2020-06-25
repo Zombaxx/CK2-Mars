@@ -1,0 +1,5 @@
+	title = c_egamily
+	max_settlements = 3
+	culture = soninke
+	religion = bon
+	b_agily = tribal

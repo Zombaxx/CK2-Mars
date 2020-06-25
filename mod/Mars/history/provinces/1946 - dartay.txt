@@ -1,0 +1,5 @@
+	title = c_dartay
+	max_settlements = 2
+	culture = tocharian
+	religion = hurufi
+	b_wazula = tribal

@@ -1,0 +1,5 @@
+	title = c_ekehah
+	max_settlements = 3
+	culture = turkish
+	religion = interface_skin
+	b_roridia = tribal

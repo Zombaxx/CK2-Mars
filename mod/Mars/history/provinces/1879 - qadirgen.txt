@@ -1,0 +1,5 @@
+	title = c_qadirgen
+	max_settlements = 4
+	culture = castillan
+	religion = cathar
+	b_tumulad = tribal

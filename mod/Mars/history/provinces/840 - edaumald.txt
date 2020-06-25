@@ -1,0 +1,5 @@
+	title = c_edaumald
+	max_settlements = 3
+	culture = nahuatl
+	religion = jain
+	b_akiami = tribal

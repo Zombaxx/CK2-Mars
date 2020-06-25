@@ -1,0 +1,5 @@
+	title = c_kumetar
+	max_settlements = 2
+	culture = scottish
+	religion = messalian
+	b_wenoman = tribal

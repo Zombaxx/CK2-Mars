@@ -1,0 +1,5 @@
+	title = c_amubasin
+	max_settlements = 2
+	culture = cuman
+	religion = zoroastrian
+	b_lantua = tribal

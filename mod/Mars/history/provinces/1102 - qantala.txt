@@ -1,0 +1,5 @@
+	title = c_qantala
+	max_settlements = 3
+	culture = saxon
+	religion = zikri
+	b_esohying = tribal

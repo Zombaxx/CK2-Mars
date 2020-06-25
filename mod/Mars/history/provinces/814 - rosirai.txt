@@ -1,0 +1,5 @@
+	title = c_rosirai
+	max_settlements = 2
+	culture = arberian
+	religion = pagan
+	b_lererai = tribal

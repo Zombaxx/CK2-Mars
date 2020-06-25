@@ -1,0 +1,5 @@
+	title = c_kyuvatun
+	max_settlements = 3
+	culture = soninke
+	religion = tengri_pagan_reformed
+	b_tozad = tribal

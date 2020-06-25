@@ -1,0 +1,5 @@
+	title = c_wageuta
+	max_settlements = 3
+	culture = scottish
+	religion = qarmatian
+	b_qenit = tribal

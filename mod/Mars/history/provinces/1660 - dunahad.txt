@@ -1,0 +1,5 @@
+	title = c_dunahad
+	max_settlements = 3
+	culture = assyrian
+	religion = druze
+	b_dalacob = tribal

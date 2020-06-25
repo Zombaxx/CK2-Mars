@@ -1,0 +1,5 @@
+	title = c_qaroto
+	max_settlements = 2
+	culture = kurdish
+	religion = yazidi
+	b_ritita = tribal

@@ -1,0 +1,5 @@
+	title = c_eferagan
+	max_settlements = 2
+	culture = breton
+	religion = fraticelli
+	b_sibokia = tribal

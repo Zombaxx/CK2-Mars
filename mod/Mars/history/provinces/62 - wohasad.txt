@@ -1,0 +1,5 @@
+	title = c_wohasad
+	max_settlements = 4
+	culture = sephardi
+	religion = west_african_pagan_reformed
+	b_kohasad = tribal

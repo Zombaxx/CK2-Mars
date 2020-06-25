@@ -1,0 +1,5 @@
+	title = c_ebayar
+	max_settlements = 2
+	culture = khitan
+	religion = shiite
+	b_qata = tribal

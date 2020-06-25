@@ -1,0 +1,5 @@
+	title = c_boshel
+	max_settlements = 3
+	culture = polish
+	religion = karaite
+	b_bunaha = tribal

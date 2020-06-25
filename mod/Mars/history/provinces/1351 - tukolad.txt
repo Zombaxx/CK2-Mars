@@ -1,0 +1,5 @@
+	title = c_tukolad
+	max_settlements = 2
+	culture = old_frankish
+	religion = slavic_pagan_reformed
+	b_damabib = tribal

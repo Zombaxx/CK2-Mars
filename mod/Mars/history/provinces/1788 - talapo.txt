@@ -1,0 +1,5 @@
+	title = c_talapo
+	max_settlements = 4
+	culture = bulgarian
+	religion = messalian
+	b_wokana = tribal

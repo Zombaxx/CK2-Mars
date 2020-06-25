@@ -1,0 +1,5 @@
+	title = c_bajoras
+	max_settlements = 4
+	culture = ethiopian
+	religion = baltic_pagan
+	b_qubyla = tribal

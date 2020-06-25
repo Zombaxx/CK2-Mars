@@ -1,0 +1,5 @@
+	title = c_kotujri
+	max_settlements = 3
+	culture = sephardi
+	religion = paulician
+	b_noelin = tribal

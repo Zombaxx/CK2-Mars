@@ -1,0 +1,5 @@
+	title = c_doratok
+	max_settlements = 2
+	culture = nepali
+	religion = finnish_pagan_reformed
+	b_welosai = tribal

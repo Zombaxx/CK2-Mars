@@ -1,0 +1,5 @@
+	title = c_torita
+	max_settlements = 2
+	culture = ugricbaltic
+	religion = norse_pagan
+	b_rorakh = tribal

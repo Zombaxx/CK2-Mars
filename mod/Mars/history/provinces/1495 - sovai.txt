@@ -1,0 +1,5 @@
+	title = c_sovai
+	max_settlements = 3
+	culture = swedish
+	religion = tengri_pagan_reformed
+	b_ralofan = tribal

@@ -1,0 +1,5 @@
+	title = c_relory
+	max_settlements = 2
+	culture = georgian
+	religion = norse_pagan
+	b_avasuo = tribal

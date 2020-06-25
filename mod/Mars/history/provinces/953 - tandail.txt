@@ -1,0 +1,5 @@
+	title = c_tandail
+	max_settlements = 3
+	culture = bohemian
+	religion = zikri
+	b_sogaicu = tribal

@@ -1,0 +1,5 @@
+	title = c_nitegin
+	max_settlements = 2
+	culture = crimean_gothic
+	religion = messalian
+	b_rivegin = tribal

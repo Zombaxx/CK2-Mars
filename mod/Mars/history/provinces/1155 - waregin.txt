@@ -1,0 +1,5 @@
+	title = c_waregin
+	max_settlements = 3
+	culture = italian
+	religion = tengri_pagan_reformed
+	b_azawfiq = tribal

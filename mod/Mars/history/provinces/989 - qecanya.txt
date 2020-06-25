@@ -1,0 +1,5 @@
+	title = c_qecanya
+	max_settlements = 2
+	culture = swedish
+	religion = nestorian
+	b_lipa = tribal

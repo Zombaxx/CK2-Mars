@@ -1,0 +1,5 @@
+	title = c_kahele
+	max_settlements = 2
+	culture = coptic
+	religion = finnish_pagan
+	b_ebdoljo = tribal

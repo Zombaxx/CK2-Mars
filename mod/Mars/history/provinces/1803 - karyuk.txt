@@ -1,0 +1,5 @@
+	title = c_karyuk
+	max_settlements = 2
+	culture = mongol
+	religion = samaritan
+	b_korim = tribal

@@ -1,0 +1,5 @@
+	title = c_dajita
+	max_settlements = 2
+	culture = han
+	religion = sunni
+	b_waufwar = tribal

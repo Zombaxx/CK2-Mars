@@ -1,0 +1,5 @@
+	title = c_sivechun
+	max_settlements = 4
+	culture = han
+	religion = finnish_pagan_reformed
+	b_sivassa = tribal

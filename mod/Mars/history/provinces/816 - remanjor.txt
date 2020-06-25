@@ -1,0 +1,5 @@
+	title = c_remanjor
+	max_settlements = 2
+	culture = khazar
+	religion = bon_reformed
+	b_dyai = tribal

@@ -1,0 +1,5 @@
+	title = c_deineer
+	max_settlements = 3
+	culture = romanian
+	religion = bon
+	b_rerohn = tribal

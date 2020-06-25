@@ -1,0 +1,5 @@
+	title = c_rayduti
+	max_settlements = 3
+	culture = arberian
+	religion = messalian
+	b_ekaydaim = tribal

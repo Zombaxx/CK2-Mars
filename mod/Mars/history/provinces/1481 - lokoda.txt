@@ -1,0 +1,5 @@
+	title = c_lokoda
+	max_settlements = 3
+	culture = andalusian_arabic
+	religion = bogomilist
+	b_runund = tribal

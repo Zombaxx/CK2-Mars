@@ -1,0 +1,5 @@
+	title = c_asius
+	max_settlements = 2
+	culture = soninke
+	religion = norse_pagan_reformed
+	b_qirele = tribal

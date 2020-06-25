@@ -1,0 +1,5 @@
+	title = c_bahala
+	max_settlements = 2
+	culture = kanuri
+	religion = monophysite
+	b_wohying = tribal

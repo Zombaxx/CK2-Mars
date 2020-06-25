@@ -1,0 +1,5 @@
+	title = c_bulana
+	max_settlements = 3
+	culture = serbian
+	religion = west_african_pagan
+	b_lasatok = tribal

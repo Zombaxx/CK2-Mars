@@ -1,0 +1,5 @@
+	title = c_waham
+	max_settlements = 2
+	culture = norwegian
+	religion = aztec
+	b_akom = tribal

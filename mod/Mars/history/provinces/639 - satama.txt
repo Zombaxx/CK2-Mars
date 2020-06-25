@@ -1,0 +1,5 @@
+	title = c_satama
+	max_settlements = 4
+	culture = dalmatian
+	religion = zikri
+	b_laraya = tribal

@@ -1,0 +1,5 @@
+	title = c_abduan
+	max_settlements = 2
+	culture = bedouin_arabic
+	religion = nestorian
+	b_bumasin = tribal

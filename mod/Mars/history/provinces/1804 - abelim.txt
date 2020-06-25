@@ -1,0 +1,5 @@
+	title = c_abelim
+	max_settlements = 2
+	culture = manden
+	religion = finnish_pagan_reformed
+	b_kivick = tribal

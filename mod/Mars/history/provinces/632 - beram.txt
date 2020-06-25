@@ -1,0 +1,5 @@
+	title = c_beram
+	max_settlements = 3
+	culture = lithuanian
+	religion = jewish
+	b_tununa = tribal

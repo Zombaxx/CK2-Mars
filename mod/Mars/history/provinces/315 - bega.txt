@@ -1,0 +1,5 @@
+	title = c_bega
+	max_settlements = 3
+	culture = severian
+	religion = finnish_pagan
+	b_korega = tribal

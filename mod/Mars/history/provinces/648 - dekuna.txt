@@ -1,0 +1,5 @@
+	title = c_dekuna
+	max_settlements = 3
+	culture = hausa
+	religion = interface_skin
+	b_semawa = tribal

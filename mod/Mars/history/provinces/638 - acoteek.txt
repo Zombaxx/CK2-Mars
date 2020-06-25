@@ -1,0 +1,5 @@
+	title = c_acoteek
+	max_settlements = 4
+	culture = lettigallish
+	religion = cathar
+	b_soteir = tribal

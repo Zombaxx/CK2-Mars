@@ -1,0 +1,5 @@
+	title = c_edavana
+	max_settlements = 5
+	culture = turkish
+	religion = druze
+	b_rodava = tribal

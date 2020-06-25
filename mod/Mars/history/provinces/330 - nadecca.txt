@@ -1,0 +1,5 @@
+	title = c_nadecca
+	max_settlements = 5
+	culture = maghreb_arabic
+	religion = druze
+	b_runanya = tribal

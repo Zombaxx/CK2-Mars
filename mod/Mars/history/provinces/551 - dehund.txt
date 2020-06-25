@@ -1,0 +1,5 @@
+	title = c_dehund
+	max_settlements = 3
+	culture = polish
+	religion = monothelite
+	b_kadudan = tribal

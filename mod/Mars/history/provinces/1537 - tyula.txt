@@ -1,0 +1,5 @@
+	title = c_tyula
+	max_settlements = 2
+	culture = alan
+	religion = ibadi
+	b_qyigoan = tribal

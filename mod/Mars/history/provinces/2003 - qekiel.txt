@@ -1,0 +1,5 @@
+	title = c_qekiel
+	max_settlements = 2
+	culture = lettigallish
+	religion = west_african_pagan_reformed
+	b_syinara = tribal

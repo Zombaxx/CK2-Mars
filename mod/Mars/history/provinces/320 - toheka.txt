@@ -1,0 +1,5 @@
+	title = c_toheka
+	max_settlements = 2
+	culture = bedouin_arabic
+	religion = interface_skin
+	b_radapal = tribal

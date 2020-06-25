@@ -1,0 +1,5 @@
+	title = c_bulain
+	max_settlements = 3
+	culture = samoyed
+	religion = qarmatian
+	b_epokana = tribal

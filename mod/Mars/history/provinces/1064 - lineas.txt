@@ -1,0 +1,5 @@
+	title = c_lineas
+	max_settlements = 2
+	culture = armenian
+	religion = sunni
+	b_dahilii = tribal

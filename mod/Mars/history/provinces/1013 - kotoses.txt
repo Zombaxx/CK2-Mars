@@ -1,0 +1,5 @@
+	title = c_kotoses
+	max_settlements = 4
+	culture = soninke
+	religion = lollard
+	b_taulella = tribal

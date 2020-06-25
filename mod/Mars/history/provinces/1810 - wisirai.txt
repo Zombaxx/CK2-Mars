@@ -1,0 +1,5 @@
+	title = c_wisirai
+	max_settlements = 2
+	culture = oriya
+	religion = aztec_reformed
+	b_tuguo = tribal

@@ -1,0 +1,5 @@
+	title = c_noanius
+	max_settlements = 4
+	culture = kurdish
+	religion = zun_pagan
+	b_ramius = tribal

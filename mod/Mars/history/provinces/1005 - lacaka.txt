@@ -1,0 +1,5 @@
+	title = c_lacaka
+	max_settlements = 4
+	culture = somali
+	religion = miaphysite
+	b_kenaaq = tribal

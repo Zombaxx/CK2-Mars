@@ -1,0 +1,5 @@
+	title = c_tuo
+	max_settlements = 2
+	culture = panjabi
+	religion = norse_pagan
+	b_kasuda = tribal

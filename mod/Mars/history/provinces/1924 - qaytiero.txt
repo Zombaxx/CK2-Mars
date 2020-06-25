@@ -1,0 +1,5 @@
+	title = c_qaytiero
+	max_settlements = 4
+	culture = ugricbaltic
+	religion = zikri
+	b_ragorm = tribal

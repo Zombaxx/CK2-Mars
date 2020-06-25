@@ -1,0 +1,5 @@
+	title = c_karuti
+	max_settlements = 4
+	culture = kanuri
+	religion = color
+	b_tareila = tribal

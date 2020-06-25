@@ -1,0 +1,5 @@
+	title = c_waam
+	max_settlements = 2
+	culture = saxon
+	religion = shiite
+	b_kunavid = tribal

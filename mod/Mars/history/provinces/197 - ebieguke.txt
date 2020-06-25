@@ -1,0 +1,5 @@
+	title = c_ebieguke
+	max_settlements = 2
+	culture = roman
+	religion = cathar
+	b_avaluke = tribal

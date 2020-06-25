@@ -1,0 +1,5 @@
+	title = c_kurema
+	max_settlements = 3
+	culture = han
+	religion = bon_reformed
+	b_qulapo = tribal

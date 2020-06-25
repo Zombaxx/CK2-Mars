@@ -1,0 +1,5 @@
+	title = c_loma-va
+	max_settlements = 2
+	culture = bolghar
+	religion = bogomilist
+	b_nadania = tribal

@@ -1,0 +1,5 @@
+	title = c_agahim
+	max_settlements = 2
+	culture = suebi
+	religion = bon_reformed
+	b_karudao = tribal

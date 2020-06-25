@@ -1,0 +1,5 @@
+	title = c_kyua
+	max_settlements = 3
+	culture = saxon
+	religion = taoist
+	b_sezeda = tribal

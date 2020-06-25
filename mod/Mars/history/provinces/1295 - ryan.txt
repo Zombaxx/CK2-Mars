@@ -1,0 +1,5 @@
+	title = c_ryan
+	max_settlements = 2
+	culture = breton
+	religion = messalian
+	b_rogeis = tribal

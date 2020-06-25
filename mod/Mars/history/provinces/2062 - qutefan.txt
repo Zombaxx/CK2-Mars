@@ -1,0 +1,5 @@
+	title = c_qutefan
+	max_settlements = 3
+	culture = suebi
+	religion = qarmatian
+	b_rato = tribal

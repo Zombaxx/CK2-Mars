@@ -1,0 +1,5 @@
+	title = c_ralit
+	max_settlements = 2
+	culture = kanuri
+	religion = hindu
+	b_beleer = tribal

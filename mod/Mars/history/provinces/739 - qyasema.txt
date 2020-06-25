@@ -1,0 +1,5 @@
+	title = c_qyasema
+	max_settlements = 2
+	culture = lithuanian
+	religion = taoist
+	b_samogeka = tribal

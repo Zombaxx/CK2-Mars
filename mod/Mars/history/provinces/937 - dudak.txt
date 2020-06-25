@@ -1,0 +1,5 @@
+	title = c_dudak
+	max_settlements = 2
+	culture = andalusian_arabic
+	religion = khurmazta
+	b_taryuchi = tribal

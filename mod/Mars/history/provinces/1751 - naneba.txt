@@ -1,0 +1,5 @@
+	title = c_naneba
+	max_settlements = 2
+	culture = karluk
+	religion = hurufi
+	b_taleis = tribal

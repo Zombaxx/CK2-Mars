@@ -1,0 +1,5 @@
+	title = c_kanisam
+	max_settlements = 4
+	culture = dalmatian
+	religion = aztec
+	b_baria = tribal

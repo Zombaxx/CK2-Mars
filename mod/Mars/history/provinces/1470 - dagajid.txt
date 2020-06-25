@@ -1,0 +1,5 @@
+	title = c_dagajid
+	max_settlements = 3
+	culture = kirghiz
+	religion = druze
+	b_biateka = tribal

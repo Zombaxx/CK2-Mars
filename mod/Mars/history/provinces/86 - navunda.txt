@@ -1,0 +1,5 @@
+	title = c_navunda
+	max_settlements = 2
+	culture = tocharian
+	religion = waldensian
+	b_beneram = tribal

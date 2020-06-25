@@ -1,0 +1,5 @@
+	title = c_namuo
+	max_settlements = 3
+	culture = lithuanian
+	religion = samaritan
+	b_amelul = tribal

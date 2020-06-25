@@ -1,0 +1,5 @@
+	title = c_teonie
+	max_settlements = 3
+	culture = swedish
+	religion = shiite
+	b_davaim = tribal

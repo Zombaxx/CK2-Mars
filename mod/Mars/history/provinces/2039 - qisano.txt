@@ -1,0 +1,5 @@
+	title = c_qisano
+	max_settlements = 3
+	culture = ugricbaltic
+	religion = jain
+	b_abano = tribal

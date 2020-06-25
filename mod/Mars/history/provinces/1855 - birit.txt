@@ -1,0 +1,5 @@
+	title = c_birit
+	max_settlements = 2
+	culture = welsh
+	religion = west_african_pagan_reformed
+	b_tenim = tribal

@@ -1,0 +1,5 @@
+	title = c_kubaul
+	max_settlements = 3
+	culture = bosnian
+	religion = interface_skin
+	b_nubaul = tribal

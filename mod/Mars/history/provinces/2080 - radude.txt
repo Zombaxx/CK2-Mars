@@ -1,0 +1,5 @@
+	title = c_radude
+	max_settlements = 4
+	culture = hindustani
+	religion = kharijite
+	b_bavazja = tribal

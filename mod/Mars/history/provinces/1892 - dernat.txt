@@ -1,0 +1,5 @@
+	title = c_dernat
+	max_settlements = 2
+	culture = songhay
+	religion = sunni
+	b_kagha = tribal

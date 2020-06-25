@@ -1,0 +1,5 @@
+	title = c_necaim
+	max_settlements = 2
+	culture = hungarian
+	religion = karaite
+	b_regaim = tribal

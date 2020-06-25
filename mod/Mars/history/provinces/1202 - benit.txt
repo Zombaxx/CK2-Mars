@@ -1,0 +1,5 @@
+	title = c_benit
+	max_settlements = 2
+	culture = somali
+	religion = interface_skin
+	b_binura = tribal

@@ -1,0 +1,5 @@
+	title = c_kuili
+	max_settlements = 2
+	culture = egyptian_arabic
+	religion = interface_skin
+	b_leral = tribal

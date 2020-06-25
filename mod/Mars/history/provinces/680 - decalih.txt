@@ -1,0 +1,5 @@
+	title = c_decalih
+	max_settlements = 2
+	culture = bolghar
+	religion = karaite
+	b_ragenxiu = tribal

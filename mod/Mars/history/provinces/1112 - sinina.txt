@@ -1,0 +1,5 @@
+	title = c_sinina
+	max_settlements = 3
+	culture = lappish
+	religion = waldensian
+	b_bandi = tribal

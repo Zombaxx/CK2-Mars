@@ -1,0 +1,5 @@
+	title = c_qisosz
+	max_settlements = 3
+	culture = polish
+	religion = tengri_pagan_reformed
+	b_tisegin = tribal

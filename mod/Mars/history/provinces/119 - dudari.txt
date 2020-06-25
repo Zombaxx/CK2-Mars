@@ -1,0 +1,5 @@
+	title = c_dudari
+	max_settlements = 4
+	culture = telugu
+	religion = mazdaki
+	b_tararid = tribal

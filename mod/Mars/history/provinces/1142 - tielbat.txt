@@ -1,0 +1,5 @@
+	title = c_tielbat
+	max_settlements = 2
+	culture = bulgarian
+	religion = norse_pagan
+	b_ejosamy = tribal

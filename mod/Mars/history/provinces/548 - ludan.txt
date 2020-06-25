@@ -1,0 +1,5 @@
+	title = c_ludan
+	max_settlements = 2
+	culture = soninke
+	religion = color
+	b_egarde = tribal

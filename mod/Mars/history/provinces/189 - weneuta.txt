@@ -1,0 +1,5 @@
+	title = c_weneuta
+	max_settlements = 2
+	culture = bodpa
+	religion = finnish_pagan_reformed
+	b_taraud = tribal

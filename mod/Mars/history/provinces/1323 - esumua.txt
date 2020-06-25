@@ -1,0 +1,5 @@
+	title = c_esumua
+	max_settlements = 2
+	culture = samoyed
+	religion = pagan
+	b_nugurna = tribal

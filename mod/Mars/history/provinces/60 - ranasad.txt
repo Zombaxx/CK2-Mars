@@ -1,0 +1,5 @@
+	title = c_ranasad
+	max_settlements = 2
+	culture = maghreb_arabic
+	religion = lollard
+	b_rabdua = tribal

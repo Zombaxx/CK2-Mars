@@ -1,0 +1,5 @@
+	title = c_kumine
+	max_settlements = 2
+	culture = daju
+	religion = bon
+	b_daloriy = tribal

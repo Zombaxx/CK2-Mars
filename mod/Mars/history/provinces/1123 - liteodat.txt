@@ -1,0 +1,5 @@
+	title = c_liteodat
+	max_settlements = 2
+	culture = daju
+	religion = iconoclast
+	b_edoneda = tribal

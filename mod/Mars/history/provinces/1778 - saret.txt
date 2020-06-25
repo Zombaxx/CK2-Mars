@@ -1,0 +1,5 @@
+	title = c_saret
+	max_settlements = 2
+	culture = nubian
+	religion = pagan
+	b_kengar = tribal

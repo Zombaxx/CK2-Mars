@@ -1,0 +1,5 @@
+	title = c_rohabet
+	max_settlements = 3
+	culture = hungarian
+	religion = tengri_pagan
+	b_egorabet = tribal

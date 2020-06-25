@@ -1,0 +1,5 @@
+	title = c_bakandi
+	max_settlements = 2
+	culture = slovieni
+	religion = fraticelli
+	b_raararan = tribal

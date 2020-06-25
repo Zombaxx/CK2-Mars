@@ -1,0 +1,5 @@
+	title = c_lasidia
+	max_settlements = 2
+	culture = mongol
+	religion = bon
+	b_rehura = tribal

@@ -1,0 +1,5 @@
+	title = c_sosoisi
+	max_settlements = 2
+	culture = persian
+	religion = color
+	b_lojoa = tribal

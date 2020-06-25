@@ -1,0 +1,5 @@
+	title = c_lohille
+	max_settlements = 5
+	culture = sumpa
+	religion = bon_reformed
+	b_tadecca = tribal

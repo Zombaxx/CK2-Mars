@@ -1,0 +1,5 @@
+	title = c_qivins
+	max_settlements = 2
+	culture = italian
+	religion = catholic
+	b_ahimazi = tribal

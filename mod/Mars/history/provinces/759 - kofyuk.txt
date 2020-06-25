@@ -1,0 +1,5 @@
+	title = c_kofyuk
+	max_settlements = 2
+	culture = lithuanian
+	religion = catholic
+	b_wadyan = tribal

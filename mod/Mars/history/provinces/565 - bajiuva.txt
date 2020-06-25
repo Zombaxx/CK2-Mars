@@ -1,0 +1,5 @@
+	title = c_bajiuva
+	max_settlements = 3
+	culture = lettigallish
+	religion = yazidi
+	b_tubijah = tribal

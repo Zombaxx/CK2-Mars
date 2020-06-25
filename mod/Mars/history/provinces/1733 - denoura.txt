@@ -1,0 +1,5 @@
+	title = c_denoura
+	max_settlements = 2
+	culture = mongol
+	religion = finnish_pagan_reformed
+	b_landi = tribal

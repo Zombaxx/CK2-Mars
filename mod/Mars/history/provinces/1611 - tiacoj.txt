@@ -1,0 +1,5 @@
+	title = c_tiacoj
+	max_settlements = 2
+	culture = uyghur
+	religion = pagan
+	b_eradozar = tribal

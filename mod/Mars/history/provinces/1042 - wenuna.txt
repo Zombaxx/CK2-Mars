@@ -1,0 +1,5 @@
+	title = c_wenuna
+	max_settlements = 2
+	culture = tamil
+	religion = color
+	b_bagann = tribal

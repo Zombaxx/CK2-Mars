@@ -1,0 +1,5 @@
+	title = c_niceter
+	max_settlements = 2
+	culture = frisian
+	religion = jewish
+	b_aclavac = tribal

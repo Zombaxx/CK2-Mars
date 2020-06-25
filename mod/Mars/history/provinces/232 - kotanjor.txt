@@ -1,0 +1,5 @@
+	title = c_kotanjor
+	max_settlements = 2
+	culture = scottish
+	religion = khurmazta
+	b_kosivka = tribal

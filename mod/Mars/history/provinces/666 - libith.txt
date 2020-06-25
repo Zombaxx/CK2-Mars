@@ -1,0 +1,5 @@
+	title = c_libith
+	max_settlements = 2
+	culture = polish
+	religion = sunni
+	b_tomena = tribal

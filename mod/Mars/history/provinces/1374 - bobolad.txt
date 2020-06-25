@@ -1,0 +1,5 @@
+	title = c_bobolad
+	max_settlements = 2
+	culture = serbian
+	religion = messalian
+	b_bobyla = tribal

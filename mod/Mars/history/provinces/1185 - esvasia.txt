@@ -1,0 +1,5 @@
+	title = c_esvasia
+	max_settlements = 2
+	culture = marathi
+	religion = zoroastrian
+	b_tilajan = tribal

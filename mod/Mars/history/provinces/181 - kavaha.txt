@@ -1,0 +1,5 @@
+	title = c_kavaha
+	max_settlements = 2
+	culture = roman
+	religion = norse_pagan_reformed
+	b_komana = tribal

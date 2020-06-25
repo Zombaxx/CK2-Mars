@@ -1,0 +1,5 @@
+	title = c_balosye
+	max_settlements = 3
+	culture = welsh
+	religion = pagan
+	b_bolajan = tribal

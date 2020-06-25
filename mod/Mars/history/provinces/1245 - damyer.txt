@@ -1,0 +1,5 @@
+	title = c_damyer
+	max_settlements = 2
+	culture = crimean_gothic
+	religion = druze
+	b_ramuo = tribal

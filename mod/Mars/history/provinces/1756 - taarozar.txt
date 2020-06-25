@@ -1,0 +1,5 @@
+	title = c_taarozar
+	max_settlements = 2
+	culture = kanuri
+	religion = khurmazta
+	b_qubozar = tribal

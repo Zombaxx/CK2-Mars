@@ -1,0 +1,5 @@
+	title = c_damida
+	max_settlements = 3
+	culture = carantanian
+	religion = west_african_pagan_reformed
+	b_dicyi = tribal

@@ -1,0 +1,5 @@
+	title = c_rumaicu
+	max_settlements = 3
+	culture = ugricbaltic
+	religion = druze
+	b_laxorg = tribal

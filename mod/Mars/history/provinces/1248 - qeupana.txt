@@ -1,0 +1,5 @@
+	title = c_qeupana
+	max_settlements = 2
+	culture = prussian
+	religion = interface_skin
+	b_asharaya = tribal

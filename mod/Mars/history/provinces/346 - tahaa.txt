@@ -1,0 +1,5 @@
+	title = c_tahaa
+	max_settlements = 2
+	culture = khanty
+	religion = fraticelli
+	b_tamiami = tribal

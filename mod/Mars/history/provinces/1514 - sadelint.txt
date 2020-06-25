@@ -1,0 +1,5 @@
+	title = c_sadelint
+	max_settlements = 3
+	culture = bolghar
+	religion = karaite
+	b_subara = tribal

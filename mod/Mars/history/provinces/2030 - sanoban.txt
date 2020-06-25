@@ -1,0 +1,5 @@
+	title = c_sanoban
+	max_settlements = 2
+	culture = sumpa
+	religion = zoroastrian
+	b_asasia = tribal

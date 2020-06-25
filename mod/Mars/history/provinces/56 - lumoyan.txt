@@ -1,0 +1,5 @@
+	title = c_lumoyan
+	max_settlements = 3
+	culture = hausa
+	religion = norse_pagan_reformed
+	b_qyefelec = tribal

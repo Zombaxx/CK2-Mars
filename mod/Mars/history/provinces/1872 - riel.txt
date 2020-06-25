@@ -1,0 +1,5 @@
+	title = c_riel
+	max_settlements = 2
+	culture = saka
+	religion = color
+	b_qoan = tribal

@@ -1,0 +1,5 @@
+	title = c_roga
+	max_settlements = 2
+	culture = lithuanian
+	religion = west_african_pagan_reformed
+	b_esogaria = tribal

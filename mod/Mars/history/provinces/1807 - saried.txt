@@ -1,0 +1,5 @@
+	title = c_saried
+	max_settlements = 2
+	culture = ugricbaltic
+	religion = catholic
+	b_divyuk = tribal

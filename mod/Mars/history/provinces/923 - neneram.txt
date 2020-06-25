@@ -1,0 +1,5 @@
+	title = c_neneram
+	max_settlements = 2
+	culture = nahuatl
+	religion = bogomilist
+	b_ehjabha = tribal

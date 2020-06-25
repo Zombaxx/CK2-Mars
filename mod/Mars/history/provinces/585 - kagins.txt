@@ -1,0 +1,5 @@
+	title = c_kagins
+	max_settlements = 4
+	culture = jurchen
+	religion = jewish
+	b_wubisna = tribal

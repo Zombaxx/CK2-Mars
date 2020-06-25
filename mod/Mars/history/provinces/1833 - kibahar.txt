@@ -1,0 +1,5 @@
+	title = c_kibahar
+	max_settlements = 2
+	culture = nahuatl
+	religion = hellenic_pagan
+	b_kanna = tribal

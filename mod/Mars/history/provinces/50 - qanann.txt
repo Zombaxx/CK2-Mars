@@ -1,0 +1,5 @@
+	title = c_qanann
+	max_settlements = 5
+	culture = irish
+	religion = iconoclast
+	b_rareer = tribal

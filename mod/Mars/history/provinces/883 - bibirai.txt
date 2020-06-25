@@ -1,0 +1,5 @@
+	title = c_bibirai
+	max_settlements = 5
+	culture = manden
+	religion = tengri_pagan_reformed
+	b_rirai = tribal

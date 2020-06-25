@@ -1,0 +1,5 @@
+	title = c_rumuko
+	max_settlements = 4
+	culture = prussian
+	religion = iconoclast
+	b_bohunno = tribal

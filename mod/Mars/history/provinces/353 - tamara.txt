@@ -1,0 +1,5 @@
+	title = c_tamara
+	max_settlements = 2
+	culture = tocharian
+	religion = zikri
+	b_ramoan = tribal

@@ -1,0 +1,5 @@
+	title = c_dubyula
+	max_settlements = 3
+	culture = karluk
+	religion = zoroastrian
+	b_ekaqar = tribal

@@ -1,0 +1,5 @@
+	title = c_eharuslo
+	max_settlements = 5
+	culture = meshchera
+	religion = hellenic_pagan_reformed
+	b_borudo = tribal

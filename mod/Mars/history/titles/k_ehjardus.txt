@@ -1,0 +1,78 @@
+758.2.1 = {
+	holder = 1003150
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	liege = e_kulew
+}
+
+758.2.3 = {
+	liege = e_tardus
+}
+
+758.2.4 = {
+	liege = e_kitena
+}
+
+758.2.5 = {
+	liege = e_domenda
+}
+
+758.2.6 = {
+	liege = e_sander
+}
+
+758.2.7 = {
+	liege = e_wacari
+}
+
+789.2.1 = {
+	holder = 1006810
+}
+
+815.2.1 = {
+	holder = 1008099
+}
+
+841.2.1 = {
+	holder = 1010169
+}
+
+868.2.1 = {
+	holder = 1011285
+}
+
+896.2.1 = {
+	holder = 1012685
+}
+
+933.2.1 = {
+	holder = 1013883
+}
+
+942.2.1 = {
+	holder = 1015707
+}
+
+982.2.1 = {
+	holder = 1015786
+}
+
+996.2.1 = {
+	holder = 1017813
+}
+
+1004.2.1 = {
+	holder = 1018094
+}
+
+1038.2.1 = {
+	holder = 1018667
+}
+
+1042.2.1 = {
+	holder = 1019590
+}
+

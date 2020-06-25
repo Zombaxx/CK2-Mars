@@ -1,0 +1,5 @@
+	title = c_karacob
+	max_settlements = 2
+	culture = sinhala
+	religion = interface_skin
+	b_rigania = tribal

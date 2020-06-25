@@ -1,0 +1,5 @@
+	title = c_rinork
+	max_settlements = 2
+	culture = telugu
+	religion = pagan
+	b_lalulnar = tribal

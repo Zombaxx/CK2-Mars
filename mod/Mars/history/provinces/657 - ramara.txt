@@ -1,0 +1,5 @@
+	title = c_ramara
+	max_settlements = 4
+	culture = avar
+	religion = pagan
+	b_tanaqar = tribal

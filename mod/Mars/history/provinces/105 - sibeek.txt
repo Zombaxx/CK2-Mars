@@ -1,0 +1,5 @@
+	title = c_sibeek
+	max_settlements = 4
+	culture = outremer
+	religion = norse_pagan_reformed
+	b_aketeek = tribal

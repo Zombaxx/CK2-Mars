@@ -1,0 +1,5 @@
+	title = c_libala
+	max_settlements = 2
+	culture = pecheneg
+	religion = waldensian
+	b_narokal = tribal

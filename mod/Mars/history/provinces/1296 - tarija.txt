@@ -1,0 +1,5 @@
+	title = c_tarija
+	max_settlements = 2
+	culture = khanty
+	religion = kharijite
+	b_wawfiq = tribal

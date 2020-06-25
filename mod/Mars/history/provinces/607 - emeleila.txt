@@ -1,0 +1,5 @@
+	title = c_emeleila
+	max_settlements = 2
+	culture = castillan
+	religion = kharijite
+	b_weomna = tribal

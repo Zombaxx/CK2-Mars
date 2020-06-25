@@ -1,0 +1,5 @@
+	title = c_rardus
+	max_settlements = 3
+	culture = kanuri
+	religion = messalian
+	b_kodyuchi = tribal

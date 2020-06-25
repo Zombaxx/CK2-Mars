@@ -1,0 +1,5 @@
+	title = c_rahadda
+	max_settlements = 3
+	culture = castillan
+	religion = jain
+	b_rolaug = tribal

@@ -1,0 +1,5 @@
+	title = c_raguna
+	max_settlements = 2
+	culture = suebi
+	religion = kharijite
+	b_dareer = tribal

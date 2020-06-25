@@ -1,0 +1,5 @@
+	title = c_bolerhi
+	max_settlements = 2
+	culture = sinhala
+	religion = tengri_pagan
+	b_ekhar = tribal

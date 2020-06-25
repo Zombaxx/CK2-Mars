@@ -1,0 +1,5 @@
+	title = c_ejhapa
+	max_settlements = 2
+	culture = nahuatl
+	religion = jain
+	b_esanur = tribal

@@ -1,0 +1,5 @@
+	title = c_keulami
+	max_settlements = 2
+	culture = norman
+	religion = zun_pagan
+	b_kyodeh = tribal

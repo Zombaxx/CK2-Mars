@@ -1,0 +1,5 @@
+	title = c_lamurna
+	max_settlements = 3
+	culture = old_frankish
+	religion = zoroastrian
+	b_sisucha = tribal

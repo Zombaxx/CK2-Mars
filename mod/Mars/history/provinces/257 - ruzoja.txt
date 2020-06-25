@@ -1,0 +1,5 @@
+	title = c_ruzoja
+	max_settlements = 2
+	culture = outremer
+	religion = west_african_pagan_reformed
+	b_kotiska = tribal

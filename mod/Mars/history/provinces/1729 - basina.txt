@@ -1,0 +1,5 @@
+	title = c_basina
+	max_settlements = 5
+	culture = german
+	religion = ibadi
+	b_botandi = tribal

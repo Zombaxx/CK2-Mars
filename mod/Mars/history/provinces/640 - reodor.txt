@@ -1,0 +1,5 @@
+	title = c_reodor
+	max_settlements = 4
+	culture = scottish
+	religion = bogomilist
+	b_esaleter = tribal

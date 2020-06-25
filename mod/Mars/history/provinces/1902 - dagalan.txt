@@ -1,0 +1,5 @@
+	title = c_dagalan
+	max_settlements = 2
+	culture = baloch
+	religion = waldensian
+	b_ramert = tribal

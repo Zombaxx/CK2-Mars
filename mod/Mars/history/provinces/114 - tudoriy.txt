@@ -1,0 +1,5 @@
+	title = c_tudoriy
+	max_settlements = 2
+	culture = zhangzhung
+	religion = color
+	b_nolas = tribal

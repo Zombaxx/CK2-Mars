@@ -1,0 +1,5 @@
+	title = c_wahina
+	max_settlements = 3
+	culture = breton
+	religion = interface_skin
+	b_laran = tribal

@@ -1,0 +1,5 @@
+	title = c_ebdoljo
+	max_settlements = 3
+	culture = bohemian
+	religion = monothelite
+	b_dumayla = tribal

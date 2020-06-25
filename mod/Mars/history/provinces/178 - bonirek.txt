@@ -1,0 +1,5 @@
+	title = c_bonirek
+	max_settlements = 3
+	culture = outremer
+	religion = nestorian
+	b_sana = tribal

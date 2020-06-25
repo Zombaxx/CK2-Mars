@@ -1,0 +1,5 @@
+	title = c_kodeter
+	max_settlements = 2
+	culture = marathi
+	religion = messalian
+	b_rilovya = tribal

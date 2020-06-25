@@ -1,0 +1,5 @@
+	title = c_sirek
+	max_settlements = 2
+	culture = scottish
+	religion = nestorian
+	b_asotint = tribal

@@ -1,0 +1,5 @@
+	title = c_annuti
+	max_settlements = 4
+	culture = swedish
+	religion = interface_skin
+	b_ninnam = tribal

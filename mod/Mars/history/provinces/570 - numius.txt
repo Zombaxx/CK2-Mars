@@ -1,0 +1,5 @@
+	title = c_numius
+	max_settlements = 6
+	culture = tocharian
+	religion = color
+	b_kekote = tribal

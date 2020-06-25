@@ -1,0 +1,5 @@
+	title = c_ebar
+	max_settlements = 2
+	culture = occitan
+	religion = norse_pagan_reformed
+	b_karajan = tribal

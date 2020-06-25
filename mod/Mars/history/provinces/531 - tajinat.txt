@@ -1,0 +1,5 @@
+	title = c_tajinat
+	max_settlements = 4
+	culture = tamil
+	religion = hurufi
+	b_laani = tribal

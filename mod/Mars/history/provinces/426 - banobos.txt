@@ -1,0 +1,5 @@
+	title = c_banobos
+	max_settlements = 2
+	culture = manden
+	religion = buddhist
+	b_bakilios = tribal

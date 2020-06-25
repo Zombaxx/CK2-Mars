@@ -1,0 +1,5 @@
+	title = c_enomamm
+	max_settlements = 2
+	culture = irish
+	religion = zoroastrian
+	b_nunipaz = tribal

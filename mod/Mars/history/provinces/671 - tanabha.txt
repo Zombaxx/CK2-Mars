@@ -1,0 +1,5 @@
+	title = c_tanabha
+	max_settlements = 3
+	culture = scottish
+	religion = orthodox
+	b_seneek = tribal

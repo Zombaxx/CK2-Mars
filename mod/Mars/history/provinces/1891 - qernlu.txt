@@ -1,0 +1,5 @@
+	title = c_qernlu
+	max_settlements = 2
+	culture = egyptian_arabic
+	religion = baltic_pagan_reformed
+	b_ejudokal = tribal

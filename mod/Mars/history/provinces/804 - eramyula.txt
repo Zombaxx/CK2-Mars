@@ -1,0 +1,5 @@
+	title = c_eramyula
+	max_settlements = 2
+	culture = severian
+	religion = catholic
+	b_damirek = tribal

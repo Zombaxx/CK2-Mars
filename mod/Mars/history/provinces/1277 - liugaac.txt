@@ -1,0 +1,5 @@
+	title = c_liugaac
+	max_settlements = 2
+	culture = telugu
+	religion = fraticelli
+	b_qimatha = tribal

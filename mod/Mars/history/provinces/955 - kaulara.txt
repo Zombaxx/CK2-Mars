@@ -1,0 +1,5 @@
+	title = c_kaulara
+	max_settlements = 2
+	culture = manden
+	religion = manichean
+	b_elyula = tribal

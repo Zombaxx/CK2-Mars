@@ -1,0 +1,5 @@
+	title = c_king
+	max_settlements = 2
+	culture = arberian
+	religion = west_african_pagan
+	b_waryi = tribal

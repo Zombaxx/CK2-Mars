@@ -1,0 +1,70 @@
+758.2.1 = {
+	holder = 1003142
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	liege = e_tenes
+}
+
+758.2.3 = {
+	liege = e_rarit
+}
+
+758.2.4 = {
+	liege = e_teneka
+}
+
+758.2.5 = {
+	liege = e_dineth
+}
+
+758.2.6 = {
+	liege = e_emareuta
+}
+
+786.2.1 = {
+	holder = 1006110
+}
+
+832.2.1 = {
+	holder = 1008009
+}
+
+846.2.1 = {
+	holder = 1010996
+}
+
+871.2.1 = {
+	holder = 1011820
+}
+
+905.2.1 = {
+	holder = 1013069
+}
+
+930.2.1 = {
+	holder = 1014624
+}
+
+942.2.1 = {
+	holder = 1015299
+}
+
+954.2.1 = {
+	holder = 1015969
+}
+
+985.2.1 = {
+	holder = 1017383
+}
+
+1028.2.1 = {
+	holder = 1018059
+}
+
+1066.2.1 = {
+	holder = 1020449
+}
+

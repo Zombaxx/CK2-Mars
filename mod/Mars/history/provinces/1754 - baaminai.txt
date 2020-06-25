@@ -1,0 +1,5 @@
+	title = c_baaminai
+	max_settlements = 3
+	culture = alan
+	religion = interface_skin
+	b_lagim = tribal

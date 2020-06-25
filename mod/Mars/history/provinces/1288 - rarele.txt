@@ -1,0 +1,5 @@
+	title = c_rarele
+	max_settlements = 2
+	culture = sogdian
+	religion = baltic_pagan
+	b_ramote = tribal

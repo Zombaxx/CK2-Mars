@@ -1,0 +1,5 @@
+	title = c_kagora
+	max_settlements = 3
+	culture = andalusian_arabic
+	religion = paulician
+	b_biudora = tribal

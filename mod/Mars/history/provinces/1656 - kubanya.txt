@@ -1,0 +1,5 @@
+	title = c_kubanya
+	max_settlements = 2
+	culture = bengali
+	religion = norse_pagan
+	b_qubanka = tribal

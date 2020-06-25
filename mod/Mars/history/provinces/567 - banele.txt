@@ -1,0 +1,5 @@
+	title = c_banele
+	max_settlements = 6
+	culture = frankish
+	religion = interface_skin
+	b_nohiuva = tribal

@@ -1,0 +1,5 @@
+	title = c_damur
+	max_settlements = 2
+	culture = norwegian
+	religion = waldensian
+	b_afating = tribal

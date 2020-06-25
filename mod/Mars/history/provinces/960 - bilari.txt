@@ -1,0 +1,5 @@
+	title = c_bilari
+	max_settlements = 2
+	culture = bodpa
+	religion = baltic_pagan_reformed
+	b_qoza = tribal

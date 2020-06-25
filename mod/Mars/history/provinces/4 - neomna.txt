@@ -1,0 +1,5 @@
+	title = c_neomna
+	max_settlements = 2
+	culture = mordvin
+	religion = interface_skin
+	b_tayduna = tribal

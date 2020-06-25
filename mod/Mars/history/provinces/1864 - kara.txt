@@ -1,0 +1,5 @@
+	title = c_kara
+	max_settlements = 2
+	culture = oriya
+	religion = miaphysite
+	b_difoses = tribal

@@ -1,0 +1,5 @@
+	title = c_epokatok
+	max_settlements = 2
+	culture = meshchera
+	religion = baltic_pagan
+	b_damork = tribal

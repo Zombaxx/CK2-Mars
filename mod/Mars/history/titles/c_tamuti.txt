@@ -1,0 +1,90 @@
+758.2.1 = {
+	holder = 1000044
+	law = succ_tanistry
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1002304
+	law = succ_tanistry
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_beguti
+}
+
+758.2.4 = {
+	holder = 1002303
+	law = succ_tanistry
+	law = agnatic_succession
+}
+
+758.2.5 = {
+	holder = 1003239
+}
+
+760.2.1 = {
+	holder = 1004774
+}
+
+805.2.1 = {
+	liege = d_tamunes
+}
+
+805.2.2 = {
+	holder = 1005715
+}
+
+821.2.1 = {
+	liege = d_beguti
+}
+
+821.2.2 = {
+	holder = 1009643
+}
+
+853.2.1 = {
+	liege = d_tamunes
+}
+
+853.2.2 = {
+	liege = d_kelatan
+}
+
+853.2.3 = {
+	holder = 1010817
+}
+
+883.2.1 = {
+	holder = 1012650
+}
+
+915.2.1 = {
+	holder = 1013362
+}
+
+951.2.1 = {
+	holder = 1015030
+}
+
+961.2.1 = {
+	holder = 1016400
+}
+
+962.2.1 = {
+	holder = 1016497
+}
+
+998.2.1 = {
+	holder = 1017902
+}
+
+1044.2.1 = {
+	holder = 1018180
+}
+
+1059.2.1 = {
+	holder = 1020206
+}
+

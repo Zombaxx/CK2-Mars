@@ -1,0 +1,5 @@
+	title = c_kaheran
+	max_settlements = 2
+	culture = telugu
+	religion = norse_pagan
+	b_rotajan = tribal

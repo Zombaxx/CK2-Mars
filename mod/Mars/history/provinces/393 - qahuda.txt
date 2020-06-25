@@ -1,0 +1,5 @@
+	title = c_qahuda
+	max_settlements = 2
+	culture = sephardi
+	religion = baltic_pagan
+	b_tehyer = tribal

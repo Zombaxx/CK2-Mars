@@ -1,0 +1,5 @@
+	title = c_etolinda
+	max_settlements = 2
+	culture = pictish
+	religion = iconoclast
+	b_reacob = tribal

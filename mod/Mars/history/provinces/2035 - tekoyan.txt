@@ -1,0 +1,5 @@
+	title = c_tekoyan
+	max_settlements = 6
+	culture = polish
+	religion = interface_skin
+	b_tasim = tribal

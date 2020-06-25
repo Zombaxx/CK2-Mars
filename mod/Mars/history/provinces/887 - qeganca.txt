@@ -1,0 +1,5 @@
+	title = c_qeganca
+	max_settlements = 2
+	culture = assamese
+	religion = buddhist
+	b_recarma = tribal

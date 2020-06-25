@@ -1,0 +1,5 @@
+	title = c_neinaud
+	max_settlements = 2
+	culture = pictish
+	religion = cathar
+	b_korann = tribal

@@ -1,0 +1,5 @@
+	title = c_raheay
+	max_settlements = 2
+	culture = old_saxon
+	religion = taoist
+	b_rirocic = tribal

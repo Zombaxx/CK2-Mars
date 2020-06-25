@@ -1,0 +1,5 @@
+	title = c_sosala
+	max_settlements = 5
+	culture = assamese
+	religion = kharijite
+	b_bumurna = tribal

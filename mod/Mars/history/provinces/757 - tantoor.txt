@@ -1,0 +1,5 @@
+	title = c_tantoor
+	max_settlements = 2
+	culture = kannada
+	religion = monophysite
+	b_ebatta = tribal

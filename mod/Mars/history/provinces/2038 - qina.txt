@@ -1,0 +1,5 @@
+	title = c_qina
+	max_settlements = 3
+	culture = breton
+	religion = baltic_pagan
+	b_amekokia = tribal

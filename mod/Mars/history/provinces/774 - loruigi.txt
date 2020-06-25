@@ -1,0 +1,5 @@
+	title = c_loruigi
+	max_settlements = 3
+	culture = visigothic
+	religion = zoroastrian
+	b_qatona = tribal

@@ -1,0 +1,5 @@
+	title = c_risoger
+	max_settlements = 3
+	culture = manden
+	religion = nestorian
+	b_kibagha = tribal

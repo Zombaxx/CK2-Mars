@@ -1,0 +1,5 @@
+	title = c_ranaud
+	max_settlements = 2
+	culture = avar
+	religion = nestorian
+	b_qahewal = tribal

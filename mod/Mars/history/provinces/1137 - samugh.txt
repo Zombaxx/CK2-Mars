@@ -1,0 +1,5 @@
+	title = c_samugh
+	max_settlements = 3
+	culture = ethiopian
+	religion = norse_pagan_reformed
+	b_nathugh = tribal

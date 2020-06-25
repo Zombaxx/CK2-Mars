@@ -1,0 +1,5 @@
+	title = c_wawuke
+	max_settlements = 2
+	culture = sardinian
+	religion = hellenic_pagan
+	b_duneek = tribal

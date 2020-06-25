@@ -1,0 +1,5 @@
+	title = c_qarata
+	max_settlements = 2
+	culture = croatian
+	religion = interface_skin
+	b_eglourou = tribal

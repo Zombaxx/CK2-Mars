@@ -1,0 +1,5 @@
+	title = c_qay-ius
+	max_settlements = 4
+	culture = pecheneg
+	religion = interface_skin
+	b_tigodis = tribal

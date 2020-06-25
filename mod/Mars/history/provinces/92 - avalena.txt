@@ -1,0 +1,5 @@
+	title = c_avalena
+	max_settlements = 3
+	culture = somali
+	religion = aztec_reformed
+	b_sodew = tribal

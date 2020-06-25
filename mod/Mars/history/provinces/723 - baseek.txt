@@ -1,0 +1,5 @@
+	title = c_baseek
+	max_settlements = 3
+	culture = rajput
+	religion = slavic_pagan
+	b_tanalli = tribal

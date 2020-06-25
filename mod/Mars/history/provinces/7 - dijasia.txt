@@ -1,0 +1,5 @@
+	title = c_dijasia
+	max_settlements = 2
+	culture = kanuri
+	religion = buddhist
+	b_saimafa = tribal

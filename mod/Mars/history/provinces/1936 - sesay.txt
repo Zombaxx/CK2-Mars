@@ -1,0 +1,5 @@
+	title = c_sesay
+	max_settlements = 6
+	culture = oriya
+	religion = lollard
+	b_racagni = tribal

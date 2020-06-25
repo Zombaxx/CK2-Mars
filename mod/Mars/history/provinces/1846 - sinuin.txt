@@ -1,0 +1,5 @@
+	title = c_sinuin
+	max_settlements = 2
+	culture = dutch
+	religion = fraticelli
+	b_saleth = tribal

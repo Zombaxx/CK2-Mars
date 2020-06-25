@@ -1,0 +1,5 @@
+	title = c_tosadra
+	max_settlements = 3
+	culture = kanuri
+	religion = color
+	b_toganca = tribal

@@ -1,0 +1,5 @@
+	title = c_bodari
+	max_settlements = 4
+	culture = georgian
+	religion = jain
+	b_ahinaya = tribal

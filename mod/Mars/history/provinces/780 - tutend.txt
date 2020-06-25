@@ -1,0 +1,5 @@
+	title = c_tutend
+	max_settlements = 3
+	culture = nepali
+	religion = jain
+	b_kelalli = tribal

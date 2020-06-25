@@ -1,0 +1,5 @@
+	title = c_byasille
+	max_settlements = 2
+	culture = german
+	religion = bon_reformed
+	b_anyoo = tribal

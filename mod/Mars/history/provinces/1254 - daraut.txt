@@ -1,0 +1,5 @@
+	title = c_daraut
+	max_settlements = 3
+	culture = sumpa
+	religion = aztec
+	b_dopane = tribal

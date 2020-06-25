@@ -1,0 +1,5 @@
+	title = c_eralajan
+	max_settlements = 2
+	culture = tamil
+	religion = mazdaki
+	b_radozar = tribal

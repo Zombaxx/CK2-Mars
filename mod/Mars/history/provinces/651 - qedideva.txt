@@ -1,0 +1,5 @@
+	title = c_qedideva
+	max_settlements = 4
+	culture = old_frankish
+	religion = ibadi
+	b_wasimha = tribal

@@ -1,0 +1,5 @@
+	title = c_syeruliu
+	max_settlements = 2
+	culture = songhay
+	religion = bon
+	b_lenyuan = tribal

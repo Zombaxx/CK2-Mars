@@ -1,0 +1,5 @@
+	title = c_keom
+	max_settlements = 5
+	culture = russian
+	religion = zoroastrian
+	b_leom = tribal

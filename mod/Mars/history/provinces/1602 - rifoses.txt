@@ -1,0 +1,5 @@
+	title = c_rifoses
+	max_settlements = 2
+	culture = khitan
+	religion = monothelite
+	b_lotara = tribal

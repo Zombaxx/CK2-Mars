@@ -1,0 +1,5 @@
+	title = c_kadocic
+	max_settlements = 2
+	culture = italian
+	religion = bon_reformed
+	b_kosoatl = tribal

@@ -1,0 +1,5 @@
+	title = c_rosach
+	max_settlements = 3
+	culture = crimean_gothic
+	religion = west_african_pagan_reformed
+	b_ruavac = tribal

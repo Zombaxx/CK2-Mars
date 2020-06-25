@@ -1,0 +1,5 @@
+	title = c_kamald
+	max_settlements = 3
+	culture = andalusian_arabic
+	religion = baltic_pagan_reformed
+	b_lohine = tribal

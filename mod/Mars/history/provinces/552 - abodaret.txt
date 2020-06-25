@@ -1,0 +1,5 @@
+	title = c_abodaret
+	max_settlements = 3
+	culture = dutch
+	religion = cathar
+	b_bahaa = tribal

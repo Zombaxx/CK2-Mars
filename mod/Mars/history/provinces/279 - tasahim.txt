@@ -1,0 +1,5 @@
+	title = c_tasahim
+	max_settlements = 2
+	culture = uyghur
+	religion = zun_pagan_reformed
+	b_rogah = tribal

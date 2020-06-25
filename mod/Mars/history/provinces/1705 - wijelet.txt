@@ -1,0 +1,5 @@
+	title = c_wijelet
+	max_settlements = 3
+	culture = russian
+	religion = aztec
+	b_wacunai = tribal

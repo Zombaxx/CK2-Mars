@@ -1,0 +1,5 @@
+	title = c_kakaret
+	max_settlements = 3
+	culture = outremer
+	religion = zun_pagan_reformed
+	b_bedapal = tribal

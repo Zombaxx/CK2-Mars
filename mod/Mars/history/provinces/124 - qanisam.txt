@@ -1,0 +1,5 @@
+	title = c_qanisam
+	max_settlements = 2
+	culture = bedouin_arabic
+	religion = jewish
+	b_baisura = tribal

@@ -1,0 +1,5 @@
+	title = c_tyigiel
+	max_settlements = 4
+	culture = finnish
+	religion = hurufi
+	b_beaqar = tribal

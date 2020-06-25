@@ -1,0 +1,5 @@
+	title = c_escovit
+	max_settlements = 2
+	culture = norse
+	religion = aztec_reformed
+	b_talila = tribal

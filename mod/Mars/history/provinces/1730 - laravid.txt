@@ -1,0 +1,5 @@
+	title = c_laravid
+	max_settlements = 4
+	culture = saka
+	religion = zikri
+	b_qeorbat = tribal

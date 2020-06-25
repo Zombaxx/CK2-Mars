@@ -1,0 +1,5 @@
+	title = c_qahovit
+	max_settlements = 4
+	culture = khitan
+	religion = aztec
+	b_dohins = tribal

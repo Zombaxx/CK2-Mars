@@ -1,0 +1,5 @@
+	title = c_rirohn
+	max_settlements = 2
+	culture = crimean_gothic
+	religion = zikri
+	b_tinit = tribal

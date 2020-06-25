@@ -1,0 +1,5 @@
+	title = c_deones
+	max_settlements = 4
+	culture = danish
+	religion = taoist
+	b_tinnanie = tribal

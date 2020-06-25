@@ -1,0 +1,5 @@
+	title = c_takagnus
+	max_settlements = 2
+	culture = avar
+	religion = zun_pagan
+	b_rerania = tribal

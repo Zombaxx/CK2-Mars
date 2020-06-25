@@ -1,0 +1,5 @@
+	title = c_agawani
+	max_settlements = 3
+	culture = turkish
+	religion = baltic_pagan
+	b_qailtek = tribal

@@ -1,0 +1,5 @@
+	title = c_kobanga
+	max_settlements = 2
+	culture = carantanian
+	religion = norse_pagan_reformed
+	b_ralozar = tribal

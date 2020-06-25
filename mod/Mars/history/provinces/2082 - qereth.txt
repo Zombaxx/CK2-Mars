@@ -1,0 +1,5 @@
+	title = c_qereth
+	max_settlements = 2
+	culture = oriya
+	religion = hellenic_pagan
+	b_terocic = tribal

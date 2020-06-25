@@ -1,0 +1,5 @@
+	title = c_kolaya
+	max_settlements = 2
+	culture = nahuatl
+	religion = aztec_reformed
+	b_rararid = tribal

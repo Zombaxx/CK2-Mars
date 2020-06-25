@@ -1,0 +1,5 @@
+	title = c_bumanda
+	max_settlements = 2
+	culture = irish
+	religion = kharijite
+	b_bumaela = tribal

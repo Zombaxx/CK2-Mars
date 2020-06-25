@@ -1,0 +1,5 @@
+	title = c_qayti
+	max_settlements = 2
+	culture = kannada
+	religion = interface_skin
+	b_neluvje = tribal

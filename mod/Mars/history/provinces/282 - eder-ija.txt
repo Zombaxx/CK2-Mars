@@ -1,0 +1,5 @@
+	title = c_eder-ija
+	max_settlements = 2
+	culture = hausa
+	religion = yazidi
+	b_bodanna = tribal

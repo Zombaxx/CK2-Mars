@@ -1,0 +1,5 @@
+	title = c_tisanca
+	max_settlements = 3
+	culture = old_saxon
+	religion = west_african_pagan
+	b_esaba = tribal

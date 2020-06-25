@@ -1,0 +1,5 @@
+	title = c_rupo
+	max_settlements = 2
+	culture = slovieni
+	religion = baltic_pagan_reformed
+	b_daxania = tribal

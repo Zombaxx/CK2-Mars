@@ -1,0 +1,5 @@
+	title = c_kaumava
+	max_settlements = 3
+	culture = assamese
+	religion = baltic_pagan
+	b_liami = tribal

@@ -1,0 +1,5 @@
+	title = c_keneth
+	max_settlements = 2
+	culture = ethiopian
+	religion = karaite
+	b_qanohn = tribal

@@ -1,0 +1,5 @@
+	title = c_kivana
+	max_settlements = 2
+	culture = swedish
+	religion = tengri_pagan
+	b_qadawuj = tribal

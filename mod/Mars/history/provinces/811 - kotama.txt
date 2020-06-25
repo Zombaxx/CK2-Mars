@@ -1,0 +1,5 @@
+	title = c_kotama
+	max_settlements = 2
+	culture = ashkenazi
+	religion = zun_pagan_reformed
+	b_remama = tribal

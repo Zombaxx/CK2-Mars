@@ -1,0 +1,5 @@
+	title = c_kinidis
+	max_settlements = 4
+	culture = turkish
+	religion = zun_pagan
+	b_lazoa = tribal

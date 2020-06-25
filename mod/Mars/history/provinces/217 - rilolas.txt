@@ -1,0 +1,5 @@
+	title = c_rilolas
+	max_settlements = 4
+	culture = slovieni
+	religion = interface_skin
+	b_walory = tribal

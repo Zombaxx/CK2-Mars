@@ -1,0 +1,5 @@
+	title = c_noche
+	max_settlements = 3
+	culture = tocharian
+	religion = slavic_pagan_reformed
+	b_nailin = tribal

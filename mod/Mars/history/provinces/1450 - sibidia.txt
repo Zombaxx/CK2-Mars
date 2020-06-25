@@ -1,0 +1,5 @@
+	title = c_sibidia
+	max_settlements = 2
+	culture = kanuri
+	religion = orthodox
+	b_nazeem = tribal

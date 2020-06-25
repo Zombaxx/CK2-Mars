@@ -1,0 +1,5 @@
+	title = c_tanuraq
+	max_settlements = 4
+	culture = serbian
+	religion = pagan
+	b_kigena = tribal

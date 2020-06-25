@@ -1,0 +1,5 @@
+	title = c_baxuin
+	max_settlements = 4
+	culture = pecheneg
+	religion = interface_skin
+	b_wipoul = tribal

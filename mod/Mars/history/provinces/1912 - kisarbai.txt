@@ -1,0 +1,5 @@
+	title = c_kisarbai
+	max_settlements = 4
+	culture = nubian
+	religion = ibadi
+	b_kanda = tribal

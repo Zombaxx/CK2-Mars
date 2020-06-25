@@ -1,0 +1,5 @@
+	title = c_azwuigi
+	max_settlements = 2
+	culture = songhay
+	religion = interface_skin
+	b_rogisam = tribal

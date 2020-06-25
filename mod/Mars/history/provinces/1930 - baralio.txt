@@ -1,0 +1,5 @@
+	title = c_baralio
+	max_settlements = 2
+	culture = kanuri
+	religion = slavic_pagan_reformed
+	b_nalalio = tribal

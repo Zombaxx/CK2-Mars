@@ -1,0 +1,5 @@
+	title = c_tindila
+	max_settlements = 2
+	culture = sephardi
+	religion = baltic_pagan_reformed
+	b_babdutar = tribal

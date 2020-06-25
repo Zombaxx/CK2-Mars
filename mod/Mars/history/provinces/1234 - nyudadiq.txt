@@ -1,0 +1,5 @@
+	title = c_nyudadiq
+	max_settlements = 7
+	culture = swedish
+	religion = finnish_pagan
+	b_kelena = tribal

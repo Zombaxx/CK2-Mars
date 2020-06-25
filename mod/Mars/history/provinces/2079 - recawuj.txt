@@ -1,0 +1,5 @@
+	title = c_recawuj
+	max_settlements = 2
+	culture = slovieni
+	religion = paulician
+	b_tudeth = tribal

@@ -1,0 +1,5 @@
+	title = c_aline
+	max_settlements = 2
+	culture = nubian
+	religion = zun_pagan
+	b_karar = tribal

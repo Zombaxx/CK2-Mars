@@ -1,0 +1,5 @@
+	title = c_ebeas
+	max_settlements = 3
+	culture = avar
+	religion = monothelite
+	b_radandi = tribal

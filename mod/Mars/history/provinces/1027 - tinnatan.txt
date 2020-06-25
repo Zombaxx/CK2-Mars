@@ -1,0 +1,5 @@
+	title = c_tinnatan
+	max_settlements = 2
+	culture = karluk
+	religion = qarmatian
+	b_qermaham = tribal

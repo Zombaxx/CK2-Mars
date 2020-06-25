@@ -1,0 +1,5 @@
+	title = c_winija
+	max_settlements = 2
+	culture = frankish
+	religion = interface_skin
+	b_tinaim = tribal

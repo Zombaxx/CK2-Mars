@@ -1,0 +1,5 @@
+	title = c_doreuta
+	max_settlements = 3
+	culture = khitan
+	religion = aztec_reformed
+	b_danoa = tribal

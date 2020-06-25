@@ -1,0 +1,5 @@
+	title = c_taa
+	max_settlements = 3
+	culture = sindhi
+	religion = samaritan
+	b_sohania = tribal

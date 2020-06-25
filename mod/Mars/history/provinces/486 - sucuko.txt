@@ -1,0 +1,5 @@
+	title = c_sucuko
+	max_settlements = 3
+	culture = nubian
+	religion = jain
+	b_dyuvius = tribal

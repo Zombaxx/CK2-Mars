@@ -1,0 +1,5 @@
+	title = c_lotuke
+	max_settlements = 2
+	culture = turkish
+	religion = zun_pagan_reformed
+	b_subaqar = tribal

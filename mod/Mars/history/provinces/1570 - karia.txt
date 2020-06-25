@@ -1,0 +1,5 @@
+	title = c_karia
+	max_settlements = 2
+	culture = norwegian
+	religion = color
+	b_wibai = tribal

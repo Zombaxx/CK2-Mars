@@ -1,0 +1,5 @@
+	title = c_araa
+	max_settlements = 2
+	culture = lombard
+	religion = pagan
+	b_qerudrd = tribal

@@ -1,0 +1,5 @@
+	title = c_kaluzniq
+	max_settlements = 4
+	culture = bedouin_arabic
+	religion = bon
+	b_ebosz = tribal

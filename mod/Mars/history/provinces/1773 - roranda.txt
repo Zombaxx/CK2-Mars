@@ -1,0 +1,5 @@
+	title = c_roranda
+	max_settlements = 2
+	culture = nepali
+	religion = aztec
+	b_sajaela = tribal

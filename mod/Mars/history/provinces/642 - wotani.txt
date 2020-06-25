@@ -1,0 +1,5 @@
+	title = c_wotani
+	max_settlements = 3
+	culture = han
+	religion = color
+	b_kajama = tribal

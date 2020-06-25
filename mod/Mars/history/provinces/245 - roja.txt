@@ -1,0 +1,5 @@
+	title = c_roja
+	max_settlements = 3
+	culture = bulgarian
+	religion = aztec_reformed
+	b_rumena = tribal

@@ -1,0 +1,5 @@
+	title = c_daraja
+	max_settlements = 5
+	culture = samoyed
+	religion = hellenic_pagan
+	b_kadedro = tribal

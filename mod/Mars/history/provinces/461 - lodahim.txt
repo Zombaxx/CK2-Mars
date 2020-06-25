@@ -1,0 +1,5 @@
+	title = c_lodahim
+	max_settlements = 4
+	culture = daju
+	religion = monophysite
+	b_tizida = tribal

@@ -1,0 +1,5 @@
+	title = c_dakourou
+	max_settlements = 2
+	culture = russian
+	religion = cathar
+	b_babaran = tribal

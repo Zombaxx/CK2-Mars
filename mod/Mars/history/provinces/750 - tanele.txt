@@ -1,0 +1,5 @@
+	title = c_tanele
+	max_settlements = 4
+	culture = lithuanian
+	religion = monothelite
+	b_baleter = tribal

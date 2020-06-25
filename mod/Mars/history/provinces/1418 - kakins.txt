@@ -1,0 +1,5 @@
+	title = c_kakins
+	max_settlements = 2
+	culture = meshchera
+	religion = druze
+	b_kalazi = tribal

@@ -1,0 +1,5 @@
+	title = c_alekail
+	max_settlements = 2
+	culture = croatian
+	religion = bon_reformed
+	b_ramail = tribal

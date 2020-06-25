@@ -1,0 +1,5 @@
+	title = c_tizidia
+	max_settlements = 4
+	culture = songhay
+	religion = aztec
+	b_ezura = tribal

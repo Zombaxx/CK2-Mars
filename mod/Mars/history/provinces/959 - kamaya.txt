@@ -1,0 +1,5 @@
+	title = c_kamaya
+	max_settlements = 3
+	culture = songhay
+	religion = sunni
+	b_eharolas = tribal

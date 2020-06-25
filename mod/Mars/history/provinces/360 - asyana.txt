@@ -1,0 +1,5 @@
+	title = c_asyana
+	max_settlements = 4
+	culture = visigothic
+	religion = fraticelli
+	b_wyasaria = tribal

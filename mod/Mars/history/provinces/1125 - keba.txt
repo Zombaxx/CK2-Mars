@@ -1,0 +1,5 @@
+	title = c_keba
+	max_settlements = 5
+	culture = serbian
+	religion = samaritan
+	b_eberina = tribal

@@ -1,0 +1,5 @@
+	title = c_ajay-ius
+	max_settlements = 3
+	culture = croatian
+	religion = norse_pagan
+	b_ekusayla = tribal

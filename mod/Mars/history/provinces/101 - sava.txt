@@ -1,0 +1,5 @@
+	title = c_sava
+	max_settlements = 4
+	culture = komi
+	religion = druze
+	b_daveir = tribal

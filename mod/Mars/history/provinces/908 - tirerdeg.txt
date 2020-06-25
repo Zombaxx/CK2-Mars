@@ -1,0 +1,5 @@
+	title = c_tirerdeg
+	max_settlements = 2
+	culture = songhay
+	religion = nestorian
+	b_rucavid = tribal

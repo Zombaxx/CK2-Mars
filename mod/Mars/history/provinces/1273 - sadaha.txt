@@ -1,0 +1,5 @@
+	title = c_sadaha
+	max_settlements = 2
+	culture = andalusian_arabic
+	religion = baltic_pagan
+	b_esala-va = tribal

@@ -1,0 +1,5 @@
+	title = c_tateas
+	max_settlements = 2
+	culture = manden
+	religion = qarmatian
+	b_tahuida = tribal

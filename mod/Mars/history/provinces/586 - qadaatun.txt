@@ -1,0 +1,5 @@
+	title = c_qadaatun
+	max_settlements = 2
+	culture = volhynian
+	religion = messalian
+	b_dermava = tribal

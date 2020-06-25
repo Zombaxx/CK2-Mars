@@ -1,0 +1,5 @@
+	title = c_lomint
+	max_settlements = 2
+	culture = kanuri
+	religion = pagan
+	b_tyeda = tribal

@@ -1,0 +1,160 @@
+758.2.1 = {
+	holder = 1000012
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1000013
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	holder = 1000970
+	law = succ_tanistry
+	law = agnatic_succession
+}
+
+758.2.4 = {
+	liege = d_tosawit
+}
+
+758.2.5 = {
+	holder = 1000968
+	law = succ_tanistry
+	law = agnatic_succession
+}
+
+769.2.1 = {
+	holder = 1005972
+}
+
+772.2.1 = {
+	holder = 1000914
+}
+
+810.2.1 = {
+	liege = d_ekita
+}
+
+810.2.2 = {
+	liege = d_borapo
+}
+
+810.2.3 = {
+	holder = 1005581
+}
+
+830.2.1 = {
+	liege = d_ekita
+}
+
+830.2.2 = {
+	liege = d_taimeen
+}
+
+830.2.3 = {
+	holder = 1009496
+}
+
+830.2.4 = {
+	liege = k_wadamy
+}
+
+835.2.1 = {
+	liege = d_tosawit
+}
+
+835.2.2 = {
+	liege = d_qahucho
+}
+
+835.2.3 = {
+	liege = d_borapo
+}
+
+835.2.4 = {
+	liege = d_ekita
+}
+
+835.2.5 = {
+	liege = d_taimeen
+}
+
+835.2.6 = {
+	holder = 1010897
+}
+
+835.2.7 = {
+	liege = k_wadamy
+}
+
+851.2.1 = {
+	liege = d_taimeen
+}
+
+851.2.2 = {
+	liege = d_qahucho
+}
+
+851.2.3 = {
+	liege = d_tosawit
+}
+
+851.2.4 = {
+	liege = d_ekita
+}
+
+851.2.5 = {
+	liege = d_borapo
+}
+
+851.2.6 = {
+	holder = 1011233
+}
+
+860.2.1 = {
+	liege = d_ekita
+}
+
+860.2.2 = {
+	holder = 1012019
+}
+
+920.2.1 = {
+	liege = d_borapo
+}
+
+920.2.2 = {
+	holder = 1013131
+}
+
+938.2.1 = {
+	holder = 1014875
+}
+
+989.2.1 = {
+	liege = d_ekita
+}
+
+989.2.2 = {
+	holder = 1015669
+}
+
+1008.2.1 = {
+	liege = d_borapo
+}
+
+1008.2.2 = {
+	holder = 1017625
+}
+
+1017.2.1 = {
+	holder = 1018590
+}
+
+1055.2.1 = {
+	holder = 1019766
+}
+

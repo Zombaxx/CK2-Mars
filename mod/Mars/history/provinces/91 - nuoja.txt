@@ -1,0 +1,5 @@
+	title = c_nuoja
+	max_settlements = 2
+	culture = levantine_arabic
+	religion = hurufi
+	b_rumuke = tribal

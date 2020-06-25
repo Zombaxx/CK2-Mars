@@ -1,0 +1,5 @@
+	title = c_nelaod
+	max_settlements = 2
+	culture = khanty
+	religion = pagan
+	b_tahajan = tribal

@@ -1,0 +1,5 @@
+	title = c_suzniq
+	max_settlements = 2
+	culture = meshchera
+	religion = slavic_pagan
+	b_laulella = tribal

@@ -1,0 +1,120 @@
+758.2.1 = {
+	holder = 1000022
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1001433
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_latuna
+}
+
+758.2.4 = {
+	holder = 1001434
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.5 = {
+	holder = 1001431
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+900.2.1 = {
+	holder = 1012693
+}
+
+916.2.1 = {
+	liege = d_wadanu
+}
+
+916.2.2 = {
+	liege = d_agala-va
+}
+
+916.2.3 = {
+	liege = d_daraya
+}
+
+916.2.4 = {
+	holder = 1013891
+}
+
+956.2.1 = {
+	liege = d_talawma
+}
+
+956.2.2 = {
+	holder = 1014687
+}
+
+956.2.3 = {
+	liege = k_dopaus
+}
+
+964.2.1 = {
+	liege = d_talawma
+}
+
+964.2.2 = {
+	liege = d_wadanu
+}
+
+964.2.3 = {
+	liege = d_latuna
+}
+
+964.2.4 = {
+	liege = d_daraya
+}
+
+964.2.5 = {
+	liege = d_agala-va
+}
+
+964.2.6 = {
+	holder = 1016564
+}
+
+982.2.1 = {
+	liege = d_daraya
+}
+
+982.2.2 = {
+	holder = 1016999
+}
+
+1002.2.1 = {
+	liege = d_agala-va
+}
+
+1002.2.2 = {
+	holder = 1017820
+}
+
+1016.2.1 = {
+	holder = 1018524
+}
+
+1017.2.1 = {
+	holder = 1018597
+}
+
+1020.2.1 = {
+	liege = d_daraya
+}
+
+1020.2.2 = {
+	holder = 1018638
+}
+
+1038.2.1 = {
+	holder = 1019370
+}
+

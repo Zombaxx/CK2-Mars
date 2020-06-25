@@ -1,0 +1,5 @@
+	title = c_rumoljo
+	max_settlements = 3
+	culture = marathi
+	religion = aztec_reformed
+	b_lanius = tribal

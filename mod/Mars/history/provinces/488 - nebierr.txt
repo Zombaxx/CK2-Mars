@@ -1,0 +1,5 @@
+	title = c_nebierr
+	max_settlements = 2
+	culture = visigothic
+	religion = orthodox
+	b_suko = tribal

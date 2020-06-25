@@ -1,0 +1,5 @@
+	title = c_alenes
+	max_settlements = 2
+	culture = suebi
+	religion = hellenic_pagan_reformed
+	b_qonimon = tribal

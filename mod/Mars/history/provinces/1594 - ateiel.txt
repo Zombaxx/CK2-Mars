@@ -1,0 +1,5 @@
+	title = c_ateiel
+	max_settlements = 2
+	culture = serbian
+	religion = pagan
+	b_teaqar = tribal

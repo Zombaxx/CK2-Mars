@@ -1,0 +1,5 @@
+	title = c_sanurna
+	max_settlements = 3
+	culture = scottish
+	religion = aztec_reformed
+	b_sisala = tribal

@@ -1,0 +1,5 @@
+	title = c_rajyi
+	max_settlements = 2
+	culture = gujurati
+	religion = jain
+	b_nomyi = tribal

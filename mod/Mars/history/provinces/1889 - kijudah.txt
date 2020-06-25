@@ -1,0 +1,5 @@
+	title = c_kijudah
+	max_settlements = 2
+	culture = cuman
+	religion = aztec
+	b_weraaq = tribal

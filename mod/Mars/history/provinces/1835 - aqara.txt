@@ -1,0 +1,5 @@
+	title = c_aqara
+	max_settlements = 2
+	culture = pictish
+	religion = messalian
+	b_bawar = tribal

@@ -1,0 +1,5 @@
+	title = c_wyo
+	max_settlements = 3
+	culture = khanty
+	religion = baltic_pagan_reformed
+	b_tosend = tribal

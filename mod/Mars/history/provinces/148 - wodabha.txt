@@ -1,0 +1,5 @@
+	title = c_wodabha
+	max_settlements = 2
+	culture = sephardi
+	religion = bon
+	b_letodan = tribal

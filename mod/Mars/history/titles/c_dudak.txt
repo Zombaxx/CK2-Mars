@@ -1,0 +1,172 @@
+758.2.1 = {
+	holder = 1000051
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1002711
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_woryu
+}
+
+758.2.4 = {
+	holder = 1002712
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.5 = {
+	holder = 1002709
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+796.2.1 = {
+	holder = 1005686
+}
+
+799.2.1 = {
+	holder = 1007483
+}
+
+809.2.1 = {
+	liege = d_ejofal
+}
+
+809.2.2 = {
+	holder = 1008089
+}
+
+826.2.1 = {
+	liege = d_woryu
+}
+
+826.2.2 = {
+	liege = d_romaul
+}
+
+826.2.3 = {
+	holder = 1007742
+}
+
+862.2.1 = {
+	holder = 1011643
+}
+
+864.2.1 = {
+	holder = 1010569
+}
+
+897.2.1 = {
+	liege = d_woryu
+}
+
+897.2.2 = {
+	liege = d_ejofal
+}
+
+897.2.3 = {
+	liege = d_rahil
+}
+
+897.2.4 = {
+	holder = 1011559
+}
+
+902.2.1 = {
+	liege = d_ejofal
+}
+
+902.2.2 = {
+	liege = d_woryu
+}
+
+902.2.3 = {
+	liege = d_romaul
+}
+
+902.2.4 = {
+	holder = 1013902
+}
+
+913.2.1 = {
+	holder = 1014505
+}
+
+953.2.1 = {
+	holder = 1014888
+}
+
+963.2.1 = {
+	liege = d_woryu
+}
+
+963.2.2 = {
+	liege = d_ejofal
+}
+
+963.2.3 = {
+	liege = d_rahil
+}
+
+963.2.4 = {
+	holder = 1016498
+}
+
+967.2.1 = {
+	holder = 1016693
+}
+
+973.2.1 = {
+	holder = 1016724
+}
+
+978.2.1 = {
+	holder = 1017122
+}
+
+995.2.1 = {
+	liege = d_ejofal
+}
+
+995.2.2 = {
+	liege = d_woryu
+}
+
+995.2.3 = {
+	liege = d_romaul
+}
+
+995.2.4 = {
+	holder = 1017444
+}
+
+1033.2.1 = {
+	holder = 1018307
+}
+
+1040.2.1 = {
+	liege = d_woryu
+}
+
+1040.2.2 = {
+	liege = d_ejofal
+}
+
+1040.2.3 = {
+	liege = d_rahil
+}
+
+1040.2.4 = {
+	holder = 1019527
+}
+
+1043.2.1 = {
+	holder = 1019650
+}
+

@@ -1,0 +1,5 @@
+	title = c_womalo
+	max_settlements = 4
+	culture = castillan
+	religion = khurmazta
+	b_kalo = tribal

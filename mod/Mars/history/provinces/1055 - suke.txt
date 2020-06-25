@@ -1,0 +1,5 @@
+	title = c_suke
+	max_settlements = 2
+	culture = lettigallish
+	religion = norse_pagan_reformed
+	b_todosz = tribal

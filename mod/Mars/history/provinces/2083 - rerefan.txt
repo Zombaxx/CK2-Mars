@@ -1,0 +1,5 @@
+	title = c_rerefan
+	max_settlements = 3
+	culture = songhay
+	religion = lollard
+	b_ekenanca = tribal

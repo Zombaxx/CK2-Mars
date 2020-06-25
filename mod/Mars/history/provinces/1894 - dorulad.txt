@@ -1,0 +1,5 @@
+	title = c_dorulad
+	max_settlements = 2
+	culture = manden
+	religion = ibadi
+	b_libokal = tribal

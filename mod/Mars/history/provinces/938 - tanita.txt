@@ -1,0 +1,5 @@
+	title = c_tanita
+	max_settlements = 4
+	culture = bengali
+	religion = hindu
+	b_tajenda = tribal

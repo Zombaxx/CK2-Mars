@@ -1,0 +1,5 @@
+	title = c_agevaani
+	max_settlements = 2
+	culture = somali
+	religion = jewish
+	b_torinat = tribal

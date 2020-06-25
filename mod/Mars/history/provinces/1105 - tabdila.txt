@@ -1,0 +1,5 @@
+	title = c_tabdila
+	max_settlements = 3
+	culture = pictish
+	religion = west_african_pagan
+	b_bohasin = tribal

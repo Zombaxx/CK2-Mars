@@ -1,0 +1,5 @@
+	title = c_qorava
+	max_settlements = 2
+	culture = kanuri
+	religion = taoist
+	b_losoa = tribal

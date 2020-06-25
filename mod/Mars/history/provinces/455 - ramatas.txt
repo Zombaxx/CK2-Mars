@@ -1,0 +1,5 @@
+	title = c_ramatas
+	max_settlements = 2
+	culture = kannada
+	religion = slavic_pagan_reformed
+	b_asamaday = tribal

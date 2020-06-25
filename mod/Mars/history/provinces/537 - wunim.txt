@@ -1,0 +1,5 @@
+	title = c_wunim
+	max_settlements = 3
+	culture = soninke
+	religion = paulician
+	b_tunyi = tribal

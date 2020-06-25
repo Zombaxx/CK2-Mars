@@ -1,0 +1,5 @@
+	title = c_kolon
+	max_settlements = 3
+	culture = alan
+	religion = zun_pagan_reformed
+	b_rilegin = tribal

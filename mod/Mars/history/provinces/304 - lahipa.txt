@@ -1,0 +1,5 @@
+	title = c_lahipa
+	max_settlements = 2
+	culture = ilmenian
+	religion = baltic_pagan
+	b_bavipa = tribal

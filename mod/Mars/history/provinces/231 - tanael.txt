@@ -1,0 +1,5 @@
+	title = c_tanael
+	max_settlements = 4
+	culture = panjabi
+	religion = finnish_pagan
+	b_wyuvew = tribal

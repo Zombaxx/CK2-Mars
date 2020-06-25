@@ -1,0 +1,5 @@
+	title = c_qecanie
+	max_settlements = 2
+	culture = sumpa
+	religion = sunni
+	b_leliek = tribal

@@ -1,0 +1,5 @@
+	title = c_ekajan
+	max_settlements = 2
+	culture = castillan
+	religion = khurmazta
+	b_basaod = tribal

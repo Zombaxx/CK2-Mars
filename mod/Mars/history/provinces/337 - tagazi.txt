@@ -1,0 +1,5 @@
+	title = c_tagazi
+	max_settlements = 2
+	culture = nubian
+	religion = khurmazta
+	b_ravulnar = tribal

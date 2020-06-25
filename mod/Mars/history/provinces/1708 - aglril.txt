@@ -1,0 +1,5 @@
+	title = c_aglril
+	max_settlements = 2
+	culture = lithuanian
+	religion = bon
+	b_soriy = tribal

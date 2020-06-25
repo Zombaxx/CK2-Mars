@@ -1,0 +1,5 @@
+	title = c_lakobos
+	max_settlements = 2
+	culture = sardinian
+	religion = khurmazta
+	b_nadandi = tribal

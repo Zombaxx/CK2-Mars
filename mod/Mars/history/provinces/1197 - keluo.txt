@@ -1,0 +1,5 @@
+	title = c_keluo
+	max_settlements = 2
+	culture = khitan
+	religion = interface_skin
+	b_delo = tribal

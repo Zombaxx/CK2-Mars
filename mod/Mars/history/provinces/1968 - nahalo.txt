@@ -1,0 +1,5 @@
+	title = c_nahalo
+	max_settlements = 2
+	culture = pictish
+	religion = tengri_pagan
+	b_neuputar = tribal

@@ -1,0 +1,5 @@
+	title = c_eluvje
+	max_settlements = 3
+	culture = saka
+	religion = monophysite
+	b_walosye = tribal

@@ -1,0 +1,5 @@
+	title = c_rivayaxi
+	max_settlements = 4
+	culture = irish
+	religion = tengri_pagan
+	b_kosepe = tribal

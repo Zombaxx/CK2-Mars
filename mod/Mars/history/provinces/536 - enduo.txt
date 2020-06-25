@@ -1,0 +1,5 @@
+	title = c_enduo
+	max_settlements = 3
+	culture = frankish
+	religion = druze
+	b_areinory = tribal

@@ -1,0 +1,5 @@
+	title = c_waraja
+	max_settlements = 2
+	culture = norman
+	religion = hellenic_pagan_reformed
+	b_beliz = tribal

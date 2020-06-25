@@ -1,0 +1,5 @@
+	title = c_woranka
+	max_settlements = 5
+	culture = frankish
+	religion = bon_reformed
+	b_wavipa = tribal

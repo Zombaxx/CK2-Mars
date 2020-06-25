@@ -1,0 +1,5 @@
+	title = c_kemath
+	max_settlements = 2
+	culture = georgian
+	religion = hellenic_pagan
+	b_semath = tribal

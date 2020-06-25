@@ -1,0 +1,5 @@
+	title = c_taudoul
+	max_settlements = 2
+	culture = kirghiz
+	religion = finnish_pagan
+	b_koer = tribal

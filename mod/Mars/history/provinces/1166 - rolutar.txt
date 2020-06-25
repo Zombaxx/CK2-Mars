@@ -1,0 +1,5 @@
+	title = c_rolutar
+	max_settlements = 3
+	culture = pommeranian
+	religion = monothelite
+	b_raxutar = tribal

@@ -1,0 +1,5 @@
+	title = c_kibena
+	max_settlements = 2
+	culture = norse
+	religion = baltic_pagan_reformed
+	b_rarbai = tribal

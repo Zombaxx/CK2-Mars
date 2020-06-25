@@ -1,0 +1,5 @@
+	title = c_larohn
+	max_settlements = 3
+	culture = sephardi
+	religion = taoist
+	b_ekenaela = tribal

@@ -1,0 +1,5 @@
+	title = c_andutar
+	max_settlements = 2
+	culture = marathi
+	religion = hindu
+	b_qemli = tribal

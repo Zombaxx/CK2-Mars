@@ -1,0 +1,5 @@
+	title = c_kanaud
+	max_settlements = 2
+	culture = suebi
+	religion = sunni
+	b_walura = tribal

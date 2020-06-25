@@ -1,0 +1,5 @@
+	title = c_ebdarie
+	max_settlements = 2
+	culture = polish
+	religion = kharijite
+	b_kaneba = tribal

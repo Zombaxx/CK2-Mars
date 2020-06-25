@@ -1,0 +1,5 @@
+	title = c_retinos
+	max_settlements = 2
+	culture = visigothic
+	religion = karaite
+	b_lekano = tribal

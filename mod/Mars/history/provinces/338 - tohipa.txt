@@ -1,0 +1,5 @@
+	title = c_tohipa
+	max_settlements = 4
+	culture = bolghar
+	religion = yazidi
+	b_lohille = tribal

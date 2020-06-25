@@ -1,0 +1,5 @@
+	title = c_doyan
+	max_settlements = 2
+	culture = sogdian
+	religion = sunni
+	b_kemateg = tribal

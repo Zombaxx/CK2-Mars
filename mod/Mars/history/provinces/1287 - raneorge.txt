@@ -1,0 +1,5 @@
+	title = c_raneorge
+	max_settlements = 2
+	culture = sephardi
+	religion = hellenic_pagan
+	b_erund = tribal

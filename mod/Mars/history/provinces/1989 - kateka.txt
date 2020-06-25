@@ -1,0 +1,5 @@
+	title = c_kateka
+	max_settlements = 6
+	culture = tangut
+	religion = pagan
+	b_liredo = tribal

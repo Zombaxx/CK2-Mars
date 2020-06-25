@@ -1,0 +1,5 @@
+	title = c_qonain
+	max_settlements = 2
+	culture = bulgarian
+	religion = hellenic_pagan
+	b_abhudan = tribal

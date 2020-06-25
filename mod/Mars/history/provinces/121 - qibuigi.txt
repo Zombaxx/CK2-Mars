@@ -1,0 +1,5 @@
+	title = c_qibuigi
+	max_settlements = 3
+	culture = ethiopian
+	religion = west_african_pagan
+	b_bodah = tribal

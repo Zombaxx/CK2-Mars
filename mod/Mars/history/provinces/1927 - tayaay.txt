@@ -1,0 +1,5 @@
+	title = c_tayaay
+	max_settlements = 5
+	culture = sardinian
+	religion = kharijite
+	b_baytocic = tribal

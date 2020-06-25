@@ -1,0 +1,5 @@
+	title = c_denes
+	max_settlements = 2
+	culture = hungarian
+	religion = monophysite
+	b_kamuke = tribal

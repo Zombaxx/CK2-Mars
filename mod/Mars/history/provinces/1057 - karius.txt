@@ -1,0 +1,5 @@
+	title = c_karius
+	max_settlements = 2
+	culture = arberian
+	religion = miaphysite
+	b_qamana = tribal

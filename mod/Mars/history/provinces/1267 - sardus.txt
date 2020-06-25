@@ -1,0 +1,5 @@
+	title = c_sardus
+	max_settlements = 3
+	culture = hungarian
+	religion = bogomilist
+	b_dadenda = tribal

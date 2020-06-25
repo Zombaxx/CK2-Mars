@@ -1,0 +1,5 @@
+	title = c_tahuone
+	max_settlements = 2
+	culture = manden
+	religion = kharijite
+	b_lasewal = tribal

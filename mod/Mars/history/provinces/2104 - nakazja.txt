@@ -1,0 +1,5 @@
+	title = c_nakazja
+	max_settlements = 3
+	culture = armenian
+	religion = catholic
+	b_ediza = tribal

@@ -1,0 +1,5 @@
+	title = c_tarayla
+	max_settlements = 2
+	culture = oriya
+	religion = khurmazta
+	b_rogius = tribal

@@ -1,0 +1,5 @@
+	title = c_sumobos
+	max_settlements = 2
+	culture = levantine_arabic
+	religion = aztec_reformed
+	b_aradina = tribal

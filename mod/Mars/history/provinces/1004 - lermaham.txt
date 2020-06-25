@@ -1,0 +1,5 @@
+	title = c_lermaham
+	max_settlements = 2
+	culture = old_frankish
+	religion = waldensian
+	b_ninnuna = tribal

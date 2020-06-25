@@ -1,0 +1,5 @@
+	title = c_baline
+	max_settlements = 2
+	culture = zhangzhung
+	religion = sunni
+	b_wayi = tribal

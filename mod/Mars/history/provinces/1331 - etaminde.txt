@@ -1,0 +1,5 @@
+	title = c_etaminde
+	max_settlements = 2
+	culture = tangut
+	religion = ibadi
+	b_kamabha = tribal

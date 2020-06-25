@@ -1,0 +1,5 @@
+	title = c_tifaqar
+	max_settlements = 2
+	culture = marathi
+	religion = pagan
+	b_ateiel = tribal

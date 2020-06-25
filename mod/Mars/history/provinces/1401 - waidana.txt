@@ -1,0 +1,5 @@
+	title = c_waidana
+	max_settlements = 3
+	culture = irish
+	religion = interface_skin
+	b_soraht = tribal

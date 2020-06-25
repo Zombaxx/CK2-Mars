@@ -1,0 +1,5 @@
+	title = c_kaheger
+	max_settlements = 5
+	culture = sogdian
+	religion = nestorian
+	b_qaragha = tribal

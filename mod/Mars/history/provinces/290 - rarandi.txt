@@ -1,0 +1,5 @@
+	title = c_rarandi
+	max_settlements = 3
+	culture = nubian
+	religion = interface_skin
+	b_ladasia = tribal

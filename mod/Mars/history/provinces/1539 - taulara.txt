@@ -1,0 +1,5 @@
+	title = c_taulara
+	max_settlements = 3
+	culture = marathi
+	religion = miaphysite
+	b_qisoses = tribal

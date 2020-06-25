@@ -1,0 +1,5 @@
+	title = c_esuduju
+	max_settlements = 2
+	culture = scottish
+	religion = miaphysite
+	b_kalucho = tribal

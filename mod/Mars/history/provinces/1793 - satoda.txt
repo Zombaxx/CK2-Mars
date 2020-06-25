@@ -1,0 +1,5 @@
+	title = c_satoda
+	max_settlements = 2
+	culture = bodpa
+	religion = waldensian
+	b_elacob = tribal

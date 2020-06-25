@@ -1,0 +1,5 @@
+	title = c_kaday
+	max_settlements = 6
+	culture = romanian
+	religion = west_african_pagan
+	b_karman = tribal

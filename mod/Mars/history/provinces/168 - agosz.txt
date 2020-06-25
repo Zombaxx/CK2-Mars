@@ -1,0 +1,5 @@
+	title = c_agosz
+	max_settlements = 3
+	culture = samoyed
+	religion = samaritan
+	b_qotyula = tribal

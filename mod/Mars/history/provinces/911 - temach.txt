@@ -1,0 +1,5 @@
+	title = c_temach
+	max_settlements = 2
+	culture = avar
+	religion = sunni
+	b_wefirai = tribal

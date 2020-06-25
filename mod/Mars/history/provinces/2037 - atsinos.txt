@@ -1,0 +1,5 @@
+	title = c_atsinos
+	max_settlements = 4
+	culture = ugricbaltic
+	religion = khurmazta
+	b_kekano = tribal

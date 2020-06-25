@@ -1,0 +1,5 @@
+	title = c_qauftun
+	max_settlements = 2
+	culture = hindustani
+	religion = interface_skin
+	b_raxman = tribal

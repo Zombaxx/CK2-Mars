@@ -1,0 +1,5 @@
+	title = c_kanoda
+	max_settlements = 2
+	culture = sardinian
+	religion = cathar
+	b_qadudan = tribal

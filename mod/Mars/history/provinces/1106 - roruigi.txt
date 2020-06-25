@@ -1,0 +1,5 @@
+	title = c_roruigi
+	max_settlements = 3
+	culture = volhynian
+	religion = zun_pagan
+	b_kodisam = tribal

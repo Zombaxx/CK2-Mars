@@ -1,0 +1,5 @@
+	title = c_rarasad
+	max_settlements = 6
+	culture = scottish
+	religion = bon_reformed
+	b_achanala = tribal

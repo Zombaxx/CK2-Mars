@@ -1,0 +1,5 @@
+	title = c_rererai
+	max_settlements = 2
+	culture = kirghiz
+	religion = kharijite
+	b_rolofie = tribal

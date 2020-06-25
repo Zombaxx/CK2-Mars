@@ -1,0 +1,5 @@
+	title = c_tigeka
+	max_settlements = 5
+	culture = greek
+	religion = pagan
+	b_qaria = tribal

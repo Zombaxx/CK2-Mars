@@ -1,0 +1,5 @@
+	title = c_amahacob
+	max_settlements = 2
+	culture = slovieni
+	religion = interface_skin
+	b_evaim = tribal

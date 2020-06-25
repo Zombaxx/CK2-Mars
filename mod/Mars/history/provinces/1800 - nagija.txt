@@ -1,0 +1,5 @@
+	title = c_nagija
+	max_settlements = 2
+	culture = portuguese
+	religion = karaite
+	b_sakujri = tribal

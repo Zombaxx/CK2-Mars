@@ -1,0 +1,5 @@
+	title = c_rifester
+	max_settlements = 2
+	culture = lithuanian
+	religion = interface_skin
+	b_tester = tribal

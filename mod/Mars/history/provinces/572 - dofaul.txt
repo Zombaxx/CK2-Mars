@@ -1,0 +1,5 @@
+	title = c_dofaul
+	max_settlements = 4
+	culture = slovieni
+	religion = messalian
+	b_raterre = tribal

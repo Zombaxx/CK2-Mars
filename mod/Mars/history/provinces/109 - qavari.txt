@@ -1,0 +1,5 @@
+	title = c_qavari
+	max_settlements = 2
+	culture = cuman
+	religion = mazdaki
+	b_roza = tribal

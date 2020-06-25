@@ -1,0 +1,5 @@
+	title = c_edreodat
+	max_settlements = 3
+	culture = sephardi
+	religion = bon_reformed
+	b_eludarid = tribal

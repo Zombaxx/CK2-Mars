@@ -1,0 +1,5 @@
+	title = c_najiuva
+	max_settlements = 5
+	culture = lappish
+	religion = catholic
+	b_karayla = tribal

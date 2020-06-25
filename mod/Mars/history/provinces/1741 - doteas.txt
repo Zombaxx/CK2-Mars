@@ -1,0 +1,5 @@
+	title = c_doteas
+	max_settlements = 2
+	culture = pictish
+	religion = nestorian
+	b_bumaod = tribal

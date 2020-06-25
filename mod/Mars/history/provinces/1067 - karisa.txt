@@ -1,0 +1,5 @@
+	title = c_karisa
+	max_settlements = 2
+	culture = visigothic
+	religion = jain
+	b_qajana = tribal

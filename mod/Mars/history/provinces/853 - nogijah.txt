@@ -1,0 +1,5 @@
+	title = c_nogijah
+	max_settlements = 3
+	culture = english
+	religion = sunni
+	b_nogeter = tribal

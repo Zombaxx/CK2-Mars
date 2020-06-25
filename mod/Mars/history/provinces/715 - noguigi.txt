@@ -1,0 +1,5 @@
+	title = c_noguigi
+	max_settlements = 3
+	culture = kirghiz
+	religion = interface_skin
+	b_qogona = tribal

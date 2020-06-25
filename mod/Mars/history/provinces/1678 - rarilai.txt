@@ -1,0 +1,5 @@
+	title = c_rarilai
+	max_settlements = 3
+	culture = ugricbaltic
+	religion = aztec_reformed
+	b_kevoka = tribal

@@ -1,0 +1,5 @@
+	title = c_ejayaman
+	max_settlements = 3
+	culture = severian
+	religion = karaite
+	b_amogaicu = tribal

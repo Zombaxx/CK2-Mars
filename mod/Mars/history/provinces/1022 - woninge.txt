@@ -1,0 +1,5 @@
+	title = c_woninge
+	max_settlements = 2
+	culture = croatian
+	religion = interface_skin
+	b_nelua = tribal

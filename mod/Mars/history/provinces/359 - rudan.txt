@@ -1,0 +1,5 @@
+	title = c_rudan
+	max_settlements = 5
+	culture = kirghiz
+	religion = tengri_pagan
+	b_bateru = tribal

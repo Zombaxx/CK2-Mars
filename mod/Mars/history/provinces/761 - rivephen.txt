@@ -1,0 +1,5 @@
+	title = c_rivephen
+	max_settlements = 4
+	culture = jurchen
+	religion = finnish_pagan
+	b_kivurga = tribal

@@ -1,0 +1,5 @@
+	title = c_lonimon
+	max_settlements = 3
+	culture = hungarian
+	religion = interface_skin
+	b_bamella = tribal

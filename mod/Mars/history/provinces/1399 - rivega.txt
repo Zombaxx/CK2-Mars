@@ -1,0 +1,5 @@
+	title = c_rivega
+	max_settlements = 2
+	culture = nepali
+	religion = tengri_pagan
+	b_divying = tribal

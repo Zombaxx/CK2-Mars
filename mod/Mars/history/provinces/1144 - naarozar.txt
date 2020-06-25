@@ -1,0 +1,5 @@
+	title = c_naarozar
+	max_settlements = 2
+	culture = visigothic
+	religion = qarmatian
+	b_ebezasa = tribal

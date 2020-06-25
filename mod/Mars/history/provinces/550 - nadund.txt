@@ -1,0 +1,5 @@
+	title = c_nadund
+	max_settlements = 2
+	culture = alan
+	religion = yazidi
+	b_boruo = tribal

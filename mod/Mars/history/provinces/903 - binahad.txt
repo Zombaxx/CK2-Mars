@@ -1,0 +1,5 @@
+	title = c_binahad
+	max_settlements = 3
+	culture = greek
+	religion = iconoclast
+	b_dadija = tribal

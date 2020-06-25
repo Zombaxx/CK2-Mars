@@ -1,0 +1,5 @@
+	title = c_winoras
+	max_settlements = 3
+	culture = croatian
+	religion = hindu
+	b_kaguslo = tribal

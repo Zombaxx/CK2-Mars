@@ -1,0 +1,5 @@
+	title = c_nona
+	max_settlements = 2
+	culture = finnish
+	religion = taoist
+	b_emaruigi = tribal

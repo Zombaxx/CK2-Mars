@@ -1,0 +1,5 @@
+	title = c_tuayya
+	max_settlements = 3
+	culture = irish
+	religion = baltic_pagan_reformed
+	b_losawa = tribal

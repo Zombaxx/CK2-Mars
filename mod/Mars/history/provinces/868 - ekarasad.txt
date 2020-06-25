@@ -1,0 +1,5 @@
+	title = c_ekarasad
+	max_settlements = 2
+	culture = occitan
+	religion = iconoclast
+	b_lamucha = tribal

@@ -1,0 +1,262 @@
+758.2.1 = {
+	holder = 1000113
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1003112
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_tetagan
+}
+
+758.2.4 = {
+	holder = 1003111
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+758.2.5 = {
+	holder = 1003266
+}
+
+758.2.6 = {
+	liege = d_ewimorka
+}
+
+758.2.7 = {
+	liege = d_narinop
+}
+
+758.2.8 = {
+	holder = 1003121
+}
+
+759.2.1 = {
+	holder = 1003117
+}
+
+783.2.1 = {
+	holder = 1006035
+}
+
+784.2.1 = {
+	holder = 1003104
+}
+
+805.2.1 = {
+	holder = 1004942
+}
+
+805.2.2 = {
+	liege = k_raubagan
+}
+
+812.2.1 = {
+	liege = d_sekayan
+}
+
+812.2.2 = {
+	liege = d_tetagan
+}
+
+812.2.3 = {
+	liege = d_qipiek
+}
+
+812.2.4 = {
+	liege = d_betagan
+}
+
+812.2.5 = {
+	liege = d_narinop
+}
+
+812.2.6 = {
+	holder = 1009063
+}
+
+812.2.7 = {
+	liege = k_raubagan
+}
+
+836.2.1 = {
+	liege = d_atomyuan
+}
+
+836.2.2 = {
+	liege = d_betagan
+}
+
+836.2.3 = {
+	liege = d_qipiek
+}
+
+836.2.4 = {
+	liege = d_tetagan
+}
+
+836.2.5 = {
+	liege = d_dilunes
+}
+
+836.2.6 = {
+	liege = d_ewimorka
+}
+
+836.2.7 = {
+	liege = d_narinop
+}
+
+836.2.8 = {
+	holder = 1010197
+}
+
+842.2.1 = {
+	holder = 1011190
+}
+
+842.2.2 = {
+	liege = k_raubagan
+}
+
+851.2.1 = {
+	liege = d_atomyuan
+}
+
+851.2.2 = {
+	liege = d_sekayan
+}
+
+851.2.3 = {
+	liege = d_tetagan
+}
+
+851.2.4 = {
+	liege = d_qipiek
+}
+
+851.2.5 = {
+	liege = d_betagan
+}
+
+851.2.6 = {
+	liege = d_dilunes
+}
+
+851.2.7 = {
+	liege = d_narinop
+}
+
+851.2.8 = {
+	holder = 1010166
+}
+
+851.2.9 = {
+	liege = k_raubagan
+}
+
+887.2.1 = {
+	liege = d_sekayan
+}
+
+887.2.2 = {
+	liege = d_nekiam
+}
+
+887.2.3 = {
+	liege = d_romiek
+}
+
+887.2.4 = {
+	liege = d_tetagan
+}
+
+887.2.5 = {
+	liege = d_qipiek
+}
+
+887.2.6 = {
+	liege = d_betagan
+}
+
+887.2.7 = {
+	liege = d_dilunes
+}
+
+887.2.8 = {
+	liege = d_narinop
+}
+
+887.2.9 = {
+	holder = 1012996
+}
+
+887.2.10 = {
+	liege = k_raubagan
+}
+
+918.2.1 = {
+	liege = d_atomyuan
+}
+
+918.2.2 = {
+	liege = d_betagan
+}
+
+918.2.3 = {
+	liege = d_qipiek
+}
+
+918.2.4 = {
+	liege = d_tetagan
+}
+
+918.2.5 = {
+	liege = d_romiek
+}
+
+918.2.6 = {
+	liege = d_nekiam
+}
+
+918.2.7 = {
+	liege = d_dilunes
+}
+
+918.2.8 = {
+	liege = d_ewimorka
+}
+
+918.2.9 = {
+	liege = d_narinop
+}
+
+918.2.10 = {
+	holder = 1014748
+}
+
+949.2.1 = {
+	holder = 1015196
+}
+
+981.2.1 = {
+	holder = 1016451
+}
+
+1024.2.1 = {
+	holder = 1017596
+}
+
+1044.2.1 = {
+	holder = 1019531
+}
+
+1044.2.2 = {
+	liege = k_raubagan
+}
+

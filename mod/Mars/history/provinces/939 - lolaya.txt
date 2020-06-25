@@ -1,0 +1,5 @@
+	title = c_lolaya
+	max_settlements = 3
+	culture = danish
+	religion = qarmatian
+	b_woliami = tribal

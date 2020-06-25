@@ -1,0 +1,5 @@
+	title = c_noreye
+	max_settlements = 3
+	culture = ethiopian
+	religion = lollard
+	b_agatok = tribal

@@ -1,0 +1,5 @@
+	title = c_bodahar
+	max_settlements = 2
+	culture = kanuri
+	religion = shiite
+	b_qoraria = tribal

@@ -1,0 +1,5 @@
+	title = c_segudan
+	max_settlements = 6
+	culture = prussian
+	religion = catholic
+	b_qatapo = tribal

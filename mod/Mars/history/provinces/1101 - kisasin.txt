@@ -1,0 +1,5 @@
+	title = c_kisasin
+	max_settlements = 4
+	culture = hungarian
+	religion = buddhist
+	b_ekugala = tribal

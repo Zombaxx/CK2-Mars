@@ -1,0 +1,5 @@
+	title = c_ezakille
+	max_settlements = 2
+	culture = sumpa
+	religion = druze
+	b_qagazi = tribal

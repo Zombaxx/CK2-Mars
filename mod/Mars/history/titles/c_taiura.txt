@@ -1,0 +1,196 @@
+758.2.1 = {
+	holder = 1000011
+	law = succ_tanistry
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1000039
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	holder = 1002074
+	law = succ_tanistry
+	law = cognatic_succession
+}
+
+758.2.4 = {
+	liege = d_sasiga
+}
+
+758.2.5 = {
+	holder = 1002072
+	law = succ_tanistry
+	law = cognatic_succession
+}
+
+798.2.1 = {
+	holder = 1005080
+}
+
+808.2.1 = {
+	holder = 1008871
+}
+
+811.2.1 = {
+	holder = 1004835
+}
+
+823.2.1 = {
+	liege = d_sibiga
+}
+
+823.2.2 = {
+	liege = d_dausm
+}
+
+823.2.3 = {
+	liege = d_ekehija
+}
+
+823.2.4 = {
+	liege = d_ribija
+}
+
+823.2.5 = {
+	liege = d_ner-ida
+}
+
+823.2.6 = {
+	liege = d_tyunura
+}
+
+823.2.7 = {
+	holder = 1008817
+}
+
+831.2.1 = {
+	liege = d_basilla
+}
+
+831.2.2 = {
+	holder = 1010329
+}
+
+831.2.3 = {
+	liege = k_egevaani
+}
+
+877.2.1 = {
+	liege = d_sibiga
+}
+
+877.2.2 = {
+	liege = d_dausm
+}
+
+877.2.3 = {
+	liege = d_ekehija
+}
+
+877.2.4 = {
+	liege = d_ribija
+}
+
+877.2.5 = {
+	liege = d_ner-ida
+}
+
+877.2.6 = {
+	liege = d_tyunura
+}
+
+877.2.7 = {
+	liege = d_basilla
+}
+
+877.2.8 = {
+	liege = d_qalik
+}
+
+877.2.9 = {
+	holder = 1011290
+}
+
+905.2.1 = {
+	holder = 1013355
+}
+
+939.2.1 = {
+	liege = d_basilla
+}
+
+939.2.2 = {
+	liege = d_tyunura
+}
+
+939.2.3 = {
+	liege = d_ner-ida
+}
+
+939.2.4 = {
+	holder = 1014360
+}
+
+975.2.1 = {
+	holder = 1015818
+}
+
+1002.2.1 = {
+	holder = 1017354
+}
+
+1024.2.1 = {
+	liege = d_tyunura
+}
+
+1024.2.2 = {
+	liege = d_basilla
+}
+
+1024.2.3 = {
+	liege = d_qalik
+}
+
+1024.2.4 = {
+	holder = 1018886
+}
+
+1031.2.1 = {
+	holder = 1019166
+}
+
+1049.2.1 = {
+	liege = d_basilla
+}
+
+1049.2.2 = {
+	liege = d_tyunura
+}
+
+1049.2.3 = {
+	liege = d_ner-ida
+}
+
+1049.2.4 = {
+	holder = 1019287
+}
+
+1063.2.1 = {
+	liege = d_tyunura
+}
+
+1063.2.2 = {
+	liege = d_basilla
+}
+
+1063.2.3 = {
+	liege = d_qalik
+}
+
+1063.2.4 = {
+	holder = 1020195
+}
+

@@ -1,0 +1,5 @@
+	title = c_nasia
+	max_settlements = 2
+	culture = serbian
+	religion = waldensian
+	b_baaac = tribal

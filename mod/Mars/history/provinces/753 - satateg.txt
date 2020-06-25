@@ -1,0 +1,5 @@
+	title = c_satateg
+	max_settlements = 2
+	culture = hungarian
+	religion = pagan
+	b_tyamo = tribal

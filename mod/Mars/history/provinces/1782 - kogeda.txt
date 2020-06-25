@@ -1,0 +1,5 @@
+	title = c_kogeda
+	max_settlements = 2
+	culture = bulgarian
+	religion = mazdaki
+	b_ronoman = tribal

@@ -1,0 +1,5 @@
+	title = c_taatun
+	max_settlements = 4
+	culture = nubian
+	religion = miaphysite
+	b_agaufeka = tribal

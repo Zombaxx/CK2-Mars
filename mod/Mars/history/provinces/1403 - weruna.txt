@@ -1,0 +1,5 @@
+	title = c_weruna
+	max_settlements = 4
+	culture = assamese
+	religion = interface_skin
+	b_nereka = tribal

@@ -1,0 +1,5 @@
+	title = c_leraksa
+	max_settlements = 2
+	culture = uyghur
+	religion = zun_pagan
+	b_lunalek = tribal

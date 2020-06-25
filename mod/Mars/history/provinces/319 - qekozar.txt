@@ -1,0 +1,5 @@
+	title = c_qekozar
+	max_settlements = 2
+	culture = gujurati
+	religion = west_african_pagan
+	b_ryasega = tribal

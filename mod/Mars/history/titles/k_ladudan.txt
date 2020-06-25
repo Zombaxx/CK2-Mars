@@ -1,0 +1,74 @@
+758.2.1 = {
+	holder = 1003176
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	liege = e_kudelo
+}
+
+758.2.3 = {
+	liege = e_soroda
+}
+
+758.2.4 = {
+	liege = e_arucho
+}
+
+758.2.5 = {
+	liege = e_sosoisi
+}
+
+758.2.6 = {
+	liege = e_dadawhar
+}
+
+817.2.1 = {
+	holder = 1005130
+}
+
+820.2.1 = {
+	holder = 1009957
+}
+
+828.2.1 = {
+	holder = 1010519
+}
+
+840.2.1 = {
+	holder = 1008166
+}
+
+857.2.1 = {
+	holder = 1012018
+}
+
+896.2.1 = {
+	holder = 1013030
+}
+
+907.2.1 = {
+	holder = 1014012
+}
+
+949.2.1 = {
+	holder = 1015548
+}
+
+973.2.1 = {
+	holder = 1016645
+}
+
+974.2.1 = {
+	holder = 1016942
+}
+
+1019.2.1 = {
+	holder = 1018673
+}
+
+1046.2.1 = {
+	holder = 1019730
+}
+

@@ -1,0 +1,5 @@
+	title = c_kisuslo
+	max_settlements = 3
+	culture = zaghawa
+	religion = norse_pagan
+	b_serne = tribal

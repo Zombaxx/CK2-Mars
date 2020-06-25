@@ -1,0 +1,5 @@
+	title = c_eponara
+	max_settlements = 5
+	culture = lombard
+	religion = zoroastrian
+	b_elosz = tribal

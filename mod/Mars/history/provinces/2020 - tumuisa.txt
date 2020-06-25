@@ -1,0 +1,5 @@
+	title = c_tumuisa
+	max_settlements = 2
+	culture = scottish
+	religion = taoist
+	b_rarirma = tribal

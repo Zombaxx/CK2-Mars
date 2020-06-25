@@ -1,0 +1,5 @@
+	title = c_tagoyan
+	max_settlements = 3
+	culture = carantanian
+	religion = catholic
+	b_kasekko = tribal

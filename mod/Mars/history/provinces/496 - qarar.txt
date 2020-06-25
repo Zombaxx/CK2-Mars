@@ -1,0 +1,5 @@
+	title = c_qarar
+	max_settlements = 2
+	culture = songhay
+	religion = zikri
+	b_ejayalii = tribal

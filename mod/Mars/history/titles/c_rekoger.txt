@@ -1,0 +1,200 @@
+758.2.1 = {
+	holder = 1000041
+	law = succ_seniority
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1000045
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	holder = 1002378
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+758.2.4 = {
+	liege = d_esundus
+}
+
+758.2.5 = {
+	holder = 1002377
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+794.2.1 = {
+	liege = d_abawoise
+}
+
+794.2.2 = {
+	holder = 1004524
+}
+
+835.2.1 = {
+	liege = d_soseorg
+}
+
+835.2.2 = {
+	liege = d_atoken
+}
+
+835.2.3 = {
+	liege = d_tanena
+}
+
+835.2.4 = {
+	holder = 1008083
+}
+
+856.2.1 = {
+	holder = 1010744
+}
+
+856.2.2 = {
+	liege = k_birma
+}
+
+890.2.1 = {
+	liege = d_tosotus
+}
+
+890.2.2 = {
+	liege = d_abawoise
+}
+
+890.2.3 = {
+	liege = d_sagoise
+}
+
+890.2.4 = {
+	liege = d_tanena
+}
+
+890.2.5 = {
+	holder = 1012100
+}
+
+890.2.6 = {
+	liege = k_birma
+}
+
+921.2.1 = {
+	liege = d_tosotus
+}
+
+921.2.2 = {
+	liege = d_abawoise
+}
+
+921.2.3 = {
+	liege = d_sagoise
+}
+
+921.2.4 = {
+	liege = d_tanena
+}
+
+921.2.5 = {
+	holder = 1013696
+}
+
+921.2.6 = {
+	liege = k_birma
+}
+
+923.2.1 = {
+	liege = d_tosotus
+}
+
+923.2.2 = {
+	liege = d_abawoise
+}
+
+923.2.3 = {
+	liege = d_sagoise
+}
+
+923.2.4 = {
+	liege = d_tanena
+}
+
+923.2.5 = {
+	holder = 1014907
+}
+
+923.2.6 = {
+	liege = k_birma
+}
+
+949.2.1 = {
+	liege = d_esundus
+}
+
+949.2.2 = {
+	liege = d_sagoise
+}
+
+949.2.3 = {
+	liege = d_abawoise
+}
+
+949.2.4 = {
+	liege = d_soseorg
+}
+
+949.2.5 = {
+	liege = d_atoken
+}
+
+949.2.6 = {
+	liege = d_tanena
+}
+
+949.2.7 = {
+	holder = 1015008
+}
+
+990.2.1 = {
+	holder = 1016476
+}
+
+997.2.1 = {
+	holder = 1017843
+}
+
+1010.2.1 = {
+	holder = 1018327
+}
+
+1010.2.2 = {
+	liege = k_birma
+}
+
+1041.2.1 = {
+	liege = d_tosotus
+}
+
+1041.2.2 = {
+	liege = d_abawoise
+}
+
+1041.2.3 = {
+	liege = d_sagoise
+}
+
+1041.2.4 = {
+	liege = d_tanena
+}
+
+1041.2.5 = {
+	holder = 1019545
+}
+
+1041.2.6 = {
+	liege = k_birma
+}
+

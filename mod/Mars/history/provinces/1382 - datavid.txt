@@ -1,0 +1,5 @@
+	title = c_datavid
+	max_settlements = 2
+	culture = ethiopian
+	religion = norse_pagan_reformed
+	b_komuda = tribal

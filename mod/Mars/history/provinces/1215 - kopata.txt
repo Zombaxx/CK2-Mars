@@ -1,0 +1,5 @@
+	title = c_kopata
+	max_settlements = 2
+	culture = bolghar
+	religion = pagan
+	b_aradata = tribal

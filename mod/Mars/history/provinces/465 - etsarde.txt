@@ -1,0 +1,5 @@
+	title = c_etsarde
+	max_settlements = 2
+	culture = marathi
+	religion = lollard
+	b_satok = tribal

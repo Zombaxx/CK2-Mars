@@ -1,0 +1,5 @@
+	title = c_layaret
+	max_settlements = 4
+	culture = sindhi
+	religion = interface_skin
+	b_navohn = tribal

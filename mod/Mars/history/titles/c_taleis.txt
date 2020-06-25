@@ -1,0 +1,130 @@
+758.2.1 = {
+	holder = 1000018
+	law = succ_gavelkind
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1000055
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	holder = 1002804
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+758.2.4 = {
+	liege = d_roranu
+}
+
+758.2.5 = {
+	holder = 1002805
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.6 = {
+	holder = 1002802
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+762.2.1 = {
+	holder = 1003280
+}
+
+792.2.1 = {
+	liege = d_lesim
+}
+
+792.2.2 = {
+	holder = 1004385
+}
+
+815.2.1 = {
+	liege = d_roranu
+}
+
+815.2.2 = {
+	holder = 1008830
+}
+
+817.2.1 = {
+	holder = 1009779
+}
+
+841.2.1 = {
+	holder = 1009908
+}
+
+874.2.1 = {
+	liege = d_lesim
+}
+
+874.2.2 = {
+	liege = d_bubeba
+}
+
+874.2.3 = {
+	holder = 1012787
+}
+
+905.2.1 = {
+	holder = 1013048
+}
+
+945.2.1 = {
+	holder = 1014199
+}
+
+973.2.1 = {
+	liege = d_lesim
+}
+
+973.2.2 = {
+	liege = d_roranu
+}
+
+973.2.3 = {
+	holder = 1016584
+}
+
+998.2.1 = {
+	liege = d_lesim
+}
+
+998.2.2 = {
+	liege = d_bubeba
+}
+
+998.2.3 = {
+	holder = 1017288
+}
+
+1016.2.1 = {
+	liege = d_lesim
+}
+
+1016.2.2 = {
+	liege = d_roranu
+}
+
+1016.2.3 = {
+	holder = 1018081
+}
+
+1032.2.1 = {
+	liege = d_lesim
+}
+
+1032.2.2 = {
+	liege = d_bubeba
+}
+
+1032.2.3 = {
+	holder = 1018691
+}
+

@@ -1,0 +1,5 @@
+	title = c_kosava
+	max_settlements = 2
+	culture = nepali
+	religion = catholic
+	b_agaufdor = tribal

@@ -1,0 +1,5 @@
+	title = c_navabib
+	max_settlements = 2
+	culture = oriya
+	religion = baltic_pagan_reformed
+	b_kamafa = tribal

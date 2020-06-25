@@ -1,0 +1,5 @@
+	title = c_kariero
+	max_settlements = 2
+	culture = serbian
+	religion = hindu
+	b_wunugno = tribal

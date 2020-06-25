@@ -1,0 +1,5 @@
+	title = c_winapal
+	max_settlements = 2
+	culture = lombard
+	religion = slavic_pagan_reformed
+	b_bagille = tribal

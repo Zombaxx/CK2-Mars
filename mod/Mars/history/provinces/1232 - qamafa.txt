@@ -1,0 +1,5 @@
+	title = c_qamafa
+	max_settlements = 2
+	culture = norse
+	religion = kharijite
+	b_rawolad = tribal

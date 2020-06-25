@@ -1,0 +1,174 @@
+758.2.1 = {
+	holder = 1000002
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1000306
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_ekella
+}
+
+758.2.4 = {
+	holder = 1000305
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+799.2.1 = {
+	liege = d_weuke
+}
+
+799.2.2 = {
+	liege = d_eramyula
+}
+
+799.2.3 = {
+	liege = d_nazella
+}
+
+799.2.4 = {
+	holder = 1003561
+}
+
+799.2.5 = {
+	liege = k_sauluke
+}
+
+826.2.1 = {
+	liege = d_ekella
+}
+
+826.2.2 = {
+	liege = d_nazella
+}
+
+826.2.3 = {
+	liege = d_weuke
+}
+
+826.2.4 = {
+	liege = d_eramyula
+}
+
+826.2.5 = {
+	liege = d_tanegin
+}
+
+826.2.6 = {
+	holder = 1009230
+}
+
+826.2.7 = {
+	liege = k_sauluke
+}
+
+831.2.1 = {
+	liege = d_ekella
+}
+
+831.2.2 = {
+	liege = d_nazella
+}
+
+831.2.3 = {
+	liege = d_weuke
+}
+
+831.2.4 = {
+	liege = d_eramyula
+}
+
+831.2.5 = {
+	liege = d_tanegin
+}
+
+831.2.6 = {
+	holder = 1010689
+}
+
+831.2.7 = {
+	liege = k_sauluke
+}
+
+873.2.1 = {
+	liege = d_aramyula
+}
+
+873.2.2 = {
+	liege = d_ekella
+}
+
+873.2.3 = {
+	liege = d_nazella
+}
+
+873.2.4 = {
+	liege = d_tanegin
+}
+
+873.2.5 = {
+	liege = d_weuke
+}
+
+873.2.6 = {
+	liege = d_eramyula
+}
+
+873.2.7 = {
+	holder = 1010956
+}
+
+881.2.1 = {
+	liege = d_weuke
+}
+
+881.2.2 = {
+	holder = 1013068
+}
+
+895.2.1 = {
+	holder = 1013694
+}
+
+912.2.1 = {
+	liege = d_eramyula
+}
+
+912.2.2 = {
+	holder = 1014440
+}
+
+953.2.1 = {
+	holder = 1014802
+}
+
+990.2.1 = {
+	holder = 1016267
+}
+
+1009.2.1 = {
+	liege = d_weuke
+}
+
+1009.2.2 = {
+	holder = 1017660
+}
+
+1017.2.1 = {
+	holder = 1018586
+}
+
+1066.2.1 = {
+	liege = d_eramyula
+}
+
+1066.2.2 = {
+	holder = 1019125
+}
+

@@ -1,0 +1,5 @@
+	title = c_amerama
+	max_settlements = 2
+	culture = russian
+	religion = interface_skin
+	b_asheek = tribal

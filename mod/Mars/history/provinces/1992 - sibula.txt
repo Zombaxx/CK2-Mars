@@ -1,0 +1,5 @@
+	title = c_sibula
+	max_settlements = 2
+	culture = slovieni
+	religion = zun_pagan_reformed
+	b_nanaret = tribal

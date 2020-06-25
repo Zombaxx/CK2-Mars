@@ -1,0 +1,5 @@
+	title = c_ameludan
+	max_settlements = 3
+	culture = crimean_gothic
+	religion = zoroastrian
+	b_kahudan = tribal

@@ -1,0 +1,5 @@
+	title = c_savam
+	max_settlements = 2
+	culture = tangut
+	religion = waldensian
+	b_teomna = tribal

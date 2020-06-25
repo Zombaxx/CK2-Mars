@@ -1,0 +1,5 @@
+	title = c_norarde
+	max_settlements = 2
+	culture = dutch
+	religion = baltic_pagan
+	b_econarde = tribal

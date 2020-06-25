@@ -1,0 +1,5 @@
+	title = c_ravanga
+	max_settlements = 3
+	culture = assamese
+	religion = nestorian
+	b_wasava = tribal

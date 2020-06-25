@@ -1,0 +1,5 @@
+	title = c_kotara
+	max_settlements = 4
+	culture = telugu
+	religion = pagan
+	b_tazint = tribal

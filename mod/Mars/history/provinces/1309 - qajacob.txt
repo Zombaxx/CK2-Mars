@@ -1,0 +1,5 @@
+	title = c_qajacob
+	max_settlements = 2
+	culture = soninke
+	religion = catholic
+	b_rekuko = tribal

@@ -1,0 +1,5 @@
+	title = c_samenes
+	max_settlements = 2
+	culture = sogdian
+	religion = color
+	b_kegin = tribal

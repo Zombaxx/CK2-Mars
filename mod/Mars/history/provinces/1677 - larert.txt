@@ -1,0 +1,5 @@
+	title = c_larert
+	max_settlements = 3
+	culture = coptic
+	religion = zun_pagan_reformed
+	b_kerne = tribal

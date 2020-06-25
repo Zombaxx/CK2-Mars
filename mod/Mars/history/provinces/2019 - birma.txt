@@ -1,0 +1,5 @@
+	title = c_birma
+	max_settlements = 2
+	culture = meshchera
+	religion = cathar
+	b_qamalter = tribal

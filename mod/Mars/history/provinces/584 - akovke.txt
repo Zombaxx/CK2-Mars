@@ -1,0 +1,5 @@
+	title = c_akovke
+	max_settlements = 2
+	culture = greek
+	religion = catholic
+	b_bageodat = tribal

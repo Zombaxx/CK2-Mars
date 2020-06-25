@@ -1,0 +1,5 @@
+	title = c_atodonne
+	max_settlements = 2
+	culture = catalan
+	religion = jain
+	b_kounana = tribal

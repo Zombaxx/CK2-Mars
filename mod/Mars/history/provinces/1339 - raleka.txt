@@ -1,0 +1,5 @@
+	title = c_raleka
+	max_settlements = 2
+	culture = soninke
+	religion = lollard
+	b_qorork = tribal

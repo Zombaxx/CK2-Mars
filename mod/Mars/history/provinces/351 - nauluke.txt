@@ -1,0 +1,5 @@
+	title = c_nauluke
+	max_settlements = 2
+	culture = jurchen
+	religion = aztec_reformed
+	b_adeluke = tribal

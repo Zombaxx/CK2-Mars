@@ -1,0 +1,164 @@
+758.2.1 = {
+	holder = 1000006
+	law = succ_elective_gavelkind
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1000007
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	holder = 1000570
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+758.2.4 = {
+	liege = d_tanavak
+}
+
+758.2.5 = {
+	holder = 1000569
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+758.2.6 = {
+	holder = 1003162
+}
+
+799.2.1 = {
+	holder = 1006728
+}
+
+803.2.1 = {
+	holder = 1008813
+}
+
+825.2.1 = {
+	holder = 1004635
+}
+
+835.2.1 = {
+	holder = 1009983
+}
+
+839.2.1 = {
+	holder = 1010055
+}
+
+851.2.1 = {
+	liege = d_aguach
+}
+
+851.2.2 = {
+	holder = 1011626
+}
+
+851.2.3 = {
+	liege = k_lantua
+}
+
+910.2.1 = {
+	liege = d_amala
+}
+
+910.2.2 = {
+	liege = d_dilari
+}
+
+910.2.3 = {
+	liege = d_nolaya
+}
+
+910.2.4 = {
+	liege = d_demizhen
+}
+
+910.2.5 = {
+	liege = d_aguach
+}
+
+910.2.6 = {
+	liege = d_tanavak
+}
+
+910.2.7 = {
+	holder = 1012629
+}
+
+936.2.1 = {
+	liege = d_aguach
+}
+
+936.2.2 = {
+	liege = d_wanucha
+}
+
+936.2.3 = {
+	holder = 1014805
+}
+
+936.2.4 = {
+	liege = k_lantua
+}
+
+958.2.1 = {
+	liege = d_wanucha
+}
+
+958.2.2 = {
+	liege = d_amala
+}
+
+958.2.3 = {
+	liege = d_dilari
+}
+
+958.2.4 = {
+	liege = d_nolaya
+}
+
+958.2.5 = {
+	liege = d_demizhen
+}
+
+958.2.6 = {
+	liege = d_aguach
+}
+
+958.2.7 = {
+	liege = d_tanavak
+}
+
+958.2.8 = {
+	holder = 1015713
+}
+
+984.2.1 = {
+	holder = 1017349
+}
+
+1014.2.1 = {
+	liege = d_aguach
+}
+
+1014.2.2 = {
+	holder = 1017783
+}
+
+1026.2.1 = {
+	liege = d_tanavak
+}
+
+1026.2.2 = {
+	holder = 1018800
+}
+
+1029.2.1 = {
+	holder = 1019096
+}
+

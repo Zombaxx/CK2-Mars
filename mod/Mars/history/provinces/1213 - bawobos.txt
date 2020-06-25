@@ -1,0 +1,5 @@
+	title = c_bawobos
+	max_settlements = 2
+	culture = andalusian_arabic
+	religion = catholic
+	b_riraja = tribal

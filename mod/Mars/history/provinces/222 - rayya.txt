@@ -1,0 +1,5 @@
+	title = c_rayya
+	max_settlements = 4
+	culture = irish
+	religion = bon_reformed
+	b_kilaus = tribal

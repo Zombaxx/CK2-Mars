@@ -1,0 +1,5 @@
+	title = c_elupim
+	max_settlements = 2
+	culture = coptic
+	religion = monophysite
+	b_kopoyan = tribal

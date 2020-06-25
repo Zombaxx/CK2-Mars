@@ -1,0 +1,5 @@
+	title = c_natin
+	max_settlements = 2
+	culture = frisian
+	religion = qarmatian
+	b_siperim = tribal

@@ -1,0 +1,5 @@
+	title = c_erajeth
+	max_settlements = 2
+	culture = bodpa
+	religion = ibadi
+	b_dajaret = tribal

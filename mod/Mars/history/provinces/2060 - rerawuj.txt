@@ -1,0 +1,5 @@
+	title = c_rerawuj
+	max_settlements = 3
+	culture = frankish
+	religion = miaphysite
+	b_nawawuj = tribal

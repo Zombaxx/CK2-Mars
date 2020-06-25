@@ -1,0 +1,5 @@
+	title = c_bolopher
+	max_settlements = 2
+	culture = ethiopian
+	religion = interface_skin
+	b_wahelec = tribal

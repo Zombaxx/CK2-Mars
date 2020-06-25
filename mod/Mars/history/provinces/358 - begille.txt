@@ -1,0 +1,5 @@
+	title = c_begille
+	max_settlements = 4
+	culture = khanty
+	religion = paulician
+	b_kanork = tribal

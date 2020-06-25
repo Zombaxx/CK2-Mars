@@ -1,0 +1,5 @@
+	title = c_kanine
+	max_settlements = 2
+	culture = panjabi
+	religion = cathar
+	b_arapal = tribal

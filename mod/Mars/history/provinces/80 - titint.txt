@@ -1,0 +1,5 @@
+	title = c_titint
+	max_settlements = 3
+	culture = tocharian
+	religion = tengri_pagan_reformed
+	b_ruzint = tribal

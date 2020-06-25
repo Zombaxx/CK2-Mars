@@ -1,0 +1,5 @@
+	title = c_ajanedu
+	max_settlements = 2
+	culture = hausa
+	religion = waldensian
+	b_tekeek = tribal

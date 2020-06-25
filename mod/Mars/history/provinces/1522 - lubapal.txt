@@ -1,0 +1,5 @@
+	title = c_lubapal
+	max_settlements = 2
+	culture = prussian
+	religion = finnish_pagan
+	b_davipa = tribal

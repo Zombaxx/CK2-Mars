@@ -1,0 +1,5 @@
+	title = c_toda
+	max_settlements = 2
+	culture = bedouin_arabic
+	religion = paulician
+	b_lahucho = tribal

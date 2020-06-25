@@ -1,0 +1,5 @@
+	title = c_kanarie
+	max_settlements = 4
+	culture = daju
+	religion = interface_skin
+	b_sahey = tribal

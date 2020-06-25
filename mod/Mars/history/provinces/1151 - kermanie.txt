@@ -1,0 +1,5 @@
+	title = c_kermanie
+	max_settlements = 2
+	culture = somali
+	religion = zoroastrian
+	b_reotan = tribal

@@ -1,0 +1,5 @@
+	title = c_lefofie
+	max_settlements = 2
+	culture = jurchen
+	religion = interface_skin
+	b_kyai = tribal

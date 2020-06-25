@@ -1,0 +1,5 @@
+	title = c_danyuan
+	max_settlements = 3
+	culture = prussian
+	religion = jain
+	b_bozund = tribal

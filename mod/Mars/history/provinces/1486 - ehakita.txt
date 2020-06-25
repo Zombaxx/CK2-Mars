@@ -1,0 +1,5 @@
+	title = c_ehakita
+	max_settlements = 3
+	culture = ilmenian
+	religion = west_african_pagan_reformed
+	b_bakeda = tribal

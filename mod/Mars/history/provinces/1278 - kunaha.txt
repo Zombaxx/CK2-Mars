@@ -1,0 +1,5 @@
+	title = c_kunaha
+	max_settlements = 2
+	culture = sephardi
+	religion = ibadi
+	b_savalek = tribal

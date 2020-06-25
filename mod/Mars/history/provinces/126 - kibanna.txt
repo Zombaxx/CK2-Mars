@@ -1,0 +1,5 @@
+	title = c_kibanna
+	max_settlements = 3
+	culture = turkish
+	religion = orthodox
+	b_roregin = tribal

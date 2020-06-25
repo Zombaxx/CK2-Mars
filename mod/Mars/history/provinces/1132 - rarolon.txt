@@ -1,0 +1,5 @@
+	title = c_rarolon
+	max_settlements = 2
+	culture = nubian
+	religion = interface_skin
+	b_dareba = tribal

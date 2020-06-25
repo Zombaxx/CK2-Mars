@@ -1,0 +1,5 @@
+	title = c_warokal
+	max_settlements = 2
+	culture = old_saxon
+	religion = slavic_pagan
+	b_tadagha = tribal

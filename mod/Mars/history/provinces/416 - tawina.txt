@@ -1,0 +1,5 @@
+	title = c_tawina
+	max_settlements = 4
+	culture = komi
+	religion = khurmazta
+	b_egopoura = tribal

@@ -1,0 +1,5 @@
+	title = c_teganca
+	max_settlements = 2
+	culture = coptic
+	religion = jewish
+	b_namanca = tribal

@@ -1,0 +1,5 @@
+	title = c_nyiai
+	max_settlements = 3
+	culture = kurdish
+	religion = buddhist
+	b_rarari = tribal

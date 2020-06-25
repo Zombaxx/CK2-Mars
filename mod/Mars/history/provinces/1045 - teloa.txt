@@ -1,0 +1,5 @@
+	title = c_teloa
+	max_settlements = 2
+	culture = zhangzhung
+	religion = monothelite
+	b_sinuin = tribal

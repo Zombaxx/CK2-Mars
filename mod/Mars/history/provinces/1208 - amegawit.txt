@@ -1,0 +1,5 @@
+	title = c_amegawit
+	max_settlements = 2
+	culture = arberian
+	religion = pagan
+	b_bamyer = tribal

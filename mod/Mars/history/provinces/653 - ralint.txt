@@ -1,0 +1,5 @@
+	title = c_ralint
+	max_settlements = 2
+	culture = norse
+	religion = hurufi
+	b_bonyula = tribal

@@ -1,0 +1,5 @@
+	title = c_belobos
+	max_settlements = 2
+	culture = tamil
+	religion = hindu
+	b_sakeas = tribal

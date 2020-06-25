@@ -1,0 +1,5 @@
+	title = c_netille
+	max_settlements = 2
+	culture = mongol
+	religion = norse_pagan
+	b_kirugo = tribal

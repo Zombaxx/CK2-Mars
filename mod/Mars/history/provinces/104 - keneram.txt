@@ -1,0 +1,5 @@
+	title = c_keneram
+	max_settlements = 4
+	culture = greek
+	religion = interface_skin
+	b_ramava = tribal

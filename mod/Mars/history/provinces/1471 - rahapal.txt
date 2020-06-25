@@ -1,0 +1,5 @@
+	title = c_rahapal
+	max_settlements = 3
+	culture = kanuri
+	religion = interface_skin
+	b_ragania = tribal

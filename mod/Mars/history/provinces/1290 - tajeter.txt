@@ -1,0 +1,5 @@
+	title = c_tajeter
+	max_settlements = 2
+	culture = serbian
+	religion = fraticelli
+	b_kanius = tribal

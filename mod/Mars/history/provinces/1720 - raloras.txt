@@ -1,0 +1,5 @@
+	title = c_raloras
+	max_settlements = 2
+	culture = baloch
+	religion = catholic
+	b_aseodor = tribal

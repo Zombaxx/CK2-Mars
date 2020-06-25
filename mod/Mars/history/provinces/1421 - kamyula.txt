@@ -1,0 +1,5 @@
+	title = c_kamyula
+	max_settlements = 4
+	culture = sephardi
+	religion = cathar
+	b_kamoan = tribal

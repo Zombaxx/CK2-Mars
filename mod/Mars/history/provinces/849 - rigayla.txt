@@ -1,0 +1,5 @@
+	title = c_rigayla
+	max_settlements = 4
+	culture = telugu
+	religion = buddhist
+	b_kebania = tribal

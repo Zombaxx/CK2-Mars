@@ -1,0 +1,5 @@
+	title = c_qahera
+	max_settlements = 2
+	culture = bohemian
+	religion = norse_pagan_reformed
+	b_ejawasia = tribal

@@ -1,0 +1,5 @@
+	title = c_enahar
+	max_settlements = 2
+	culture = sephardi
+	religion = west_african_pagan_reformed
+	b_korelo = tribal

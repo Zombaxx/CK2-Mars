@@ -1,0 +1,68 @@
+758.2.1 = {
+	holder = 1000011
+	law = succ_tanistry
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	liege = d_alarde
+}
+
+758.2.3 = {
+	liege = d_tara
+}
+
+758.2.4 = {
+	holder = 1000798
+	law = succ_tanistry
+	law = cognatic_succession
+}
+
+900.2.1 = {
+	holder = 1013888
+}
+
+909.2.1 = {
+	liege = d_natok
+}
+
+909.2.2 = {
+	liege = d_kuda
+}
+
+909.2.3 = {
+	liege = d_wudelo
+}
+
+909.2.4 = {
+	liege = d_dinduo
+}
+
+909.2.5 = {
+	liege = d_alarde
+}
+
+909.2.6 = {
+	holder = 1014310
+}
+
+945.2.1 = {
+	holder = 1014489
+}
+
+961.2.1 = {
+	liege = d_dinduo
+}
+
+961.2.2 = {
+	holder = 1016430
+}
+
+1012.2.1 = {
+	holder = 1018405
+}
+
+1053.2.1 = {
+	holder = 1019551
+}
+

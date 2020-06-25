@@ -1,0 +1,5 @@
+	title = c_rotella
+	max_settlements = 3
+	culture = mongol
+	religion = norse_pagan_reformed
+	b_weenes = tribal

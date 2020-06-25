@@ -1,0 +1,5 @@
+	title = c_akegaham
+	max_settlements = 2
+	culture = nahuatl
+	religion = waldensian
+	b_namuti = tribal

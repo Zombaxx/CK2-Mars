@@ -1,0 +1,5 @@
+	title = c_kadato
+	max_settlements = 2
+	culture = rajput
+	religion = samaritan
+	b_avayaxi = tribal

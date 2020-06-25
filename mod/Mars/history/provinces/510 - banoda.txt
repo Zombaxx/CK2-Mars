@@ -1,0 +1,5 @@
+	title = c_banoda
+	max_settlements = 5
+	culture = telugu
+	religion = paulician
+	b_segatok = tribal

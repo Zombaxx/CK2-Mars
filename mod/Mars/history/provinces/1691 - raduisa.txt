@@ -1,0 +1,5 @@
+	title = c_raduisa
+	max_settlements = 3
+	culture = zhangzhung
+	religion = norse_pagan_reformed
+	b_nadiran = tribal

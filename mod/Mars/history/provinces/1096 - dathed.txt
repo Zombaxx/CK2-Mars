@@ -1,0 +1,5 @@
+	title = c_dathed
+	max_settlements = 2
+	culture = rajput
+	religion = aztec_reformed
+	b_aputilvi = tribal

@@ -1,0 +1,5 @@
+	title = c_nyigint
+	max_settlements = 2
+	culture = bolghar
+	religion = zun_pagan_reformed
+	b_disyula = tribal

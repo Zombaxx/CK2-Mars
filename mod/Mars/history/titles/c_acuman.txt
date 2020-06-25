@@ -1,0 +1,134 @@
+758.2.1 = {
+	holder = 1000110
+	law = succ_feudal_elective
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1003097
+	law = succ_feudal_elective
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	liege = d_takija
+}
+
+758.2.4 = {
+	holder = 1003095
+	law = succ_feudal_elective
+	law = cognatic_succession
+}
+
+762.2.1 = {
+	holder = 1004554
+}
+
+822.2.1 = {
+	holder = 1006809
+}
+
+826.2.1 = {
+	holder = 1006128
+}
+
+827.2.1 = {
+	holder = 1008003
+}
+
+845.2.1 = {
+	liege = d_riluman
+}
+
+845.2.2 = {
+	liege = d_wogiuva
+}
+
+845.2.3 = {
+	liege = d_rajacob
+}
+
+845.2.4 = {
+	holder = 1009688
+}
+
+877.2.1 = {
+	liege = d_wogiuva
+}
+
+877.2.2 = {
+	liege = d_riluman
+}
+
+877.2.3 = {
+	holder = 1011880
+}
+
+894.2.1 = {
+	liege = d_wogiuva
+}
+
+894.2.2 = {
+	liege = d_rajacob
+}
+
+894.2.3 = {
+	holder = 1013666
+}
+
+923.2.1 = {
+	holder = 1013986
+}
+
+958.2.1 = {
+	liege = d_wogiuva
+}
+
+958.2.2 = {
+	liege = d_riluman
+}
+
+958.2.3 = {
+	holder = 1015123
+}
+
+974.2.1 = {
+	liege = d_wogiuva
+}
+
+974.2.2 = {
+	liege = d_rajacob
+}
+
+974.2.3 = {
+	holder = 1016576
+}
+
+1018.2.1 = {
+	holder = 1017318
+}
+
+1039.2.1 = {
+	liege = d_wogiuva
+}
+
+1039.2.2 = {
+	liege = d_riluman
+}
+
+1039.2.3 = {
+	holder = 1018780
+}
+
+1045.2.1 = {
+	liege = d_wogiuva
+}
+
+1045.2.2 = {
+	liege = d_rajacob
+}
+
+1045.2.3 = {
+	holder = 1019648
+}
+

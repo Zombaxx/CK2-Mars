@@ -1,0 +1,5 @@
+	title = c_ekega
+	max_settlements = 3
+	culture = tamil
+	religion = miaphysite
+	b_apekepi = tribal

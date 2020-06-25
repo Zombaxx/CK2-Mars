@@ -1,0 +1,5 @@
+	title = c_ehjualis
+	max_settlements = 2
+	culture = arberian
+	religion = monothelite
+	b_taxena = tribal

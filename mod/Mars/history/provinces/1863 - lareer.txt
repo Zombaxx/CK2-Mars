@@ -1,0 +1,5 @@
+	title = c_lareer
+	max_settlements = 2
+	culture = occitan
+	religion = hurufi
+	b_byia = tribal

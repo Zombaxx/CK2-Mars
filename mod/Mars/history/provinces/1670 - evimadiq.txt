@@ -1,0 +1,5 @@
+	title = c_evimadiq
+	max_settlements = 2
+	culture = old_frankish
+	religion = taoist
+	b_tyudaim = tribal

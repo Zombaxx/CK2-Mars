@@ -1,0 +1,5 @@
+	title = c_qato
+	max_settlements = 4
+	culture = telugu
+	religion = zun_pagan
+	b_abawonno = tribal

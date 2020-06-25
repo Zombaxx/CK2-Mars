@@ -1,0 +1,5 @@
+	title = c_rakaim
+	max_settlements = 2
+	culture = italian
+	religion = zikri
+	b_dimaim = tribal

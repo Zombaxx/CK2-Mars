@@ -1,0 +1,5 @@
+	title = c_bitaria
+	max_settlements = 2
+	culture = sephardi
+	religion = taoist
+	b_kema = tribal

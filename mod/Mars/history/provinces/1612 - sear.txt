@@ -1,0 +1,5 @@
+	title = c_sear
+	max_settlements = 3
+	culture = zaghawa
+	religion = samaritan
+	b_weovai = tribal

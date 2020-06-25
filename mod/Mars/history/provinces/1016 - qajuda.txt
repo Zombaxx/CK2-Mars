@@ -1,0 +1,5 @@
+	title = c_qajuda
+	max_settlements = 4
+	culture = bosnian
+	religion = catholic
+	b_baludan = tribal

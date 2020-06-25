@@ -1,0 +1,5 @@
+	title = c_tikobos
+	max_settlements = 2
+	culture = tamil
+	religion = nestorian
+	b_tikaod = tribal

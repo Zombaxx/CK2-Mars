@@ -1,0 +1,5 @@
+	title = c_kyoi
+	max_settlements = 2
+	culture = han
+	religion = waldensian
+	b_kadalan = tribal

@@ -1,0 +1,5 @@
+	title = c_nagiami
+	max_settlements = 3
+	culture = maghreb_arabic
+	religion = monothelite
+	b_nadine = tribal

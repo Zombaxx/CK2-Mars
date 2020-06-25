@@ -1,0 +1,5 @@
+	title = c_kazara
+	max_settlements = 3
+	culture = han
+	religion = manichean
+	b_nonaqar = tribal

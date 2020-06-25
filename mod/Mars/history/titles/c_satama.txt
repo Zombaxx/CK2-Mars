@@ -1,0 +1,152 @@
+758.2.1 = {
+	holder = 1000022
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1001415
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_botasa
+}
+
+758.2.4 = {
+	holder = 1001416
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.5 = {
+	holder = 1001413
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+779.2.1 = {
+	holder = 1005046
+}
+
+781.2.1 = {
+	holder = 1007035
+}
+
+786.2.1 = {
+	holder = 1001417
+}
+
+789.2.1 = {
+	holder = 1003201
+}
+
+808.2.1 = {
+	liege = d_tudach
+}
+
+808.2.2 = {
+	holder = 1007227
+}
+
+808.2.3 = {
+	liege = k_qyunew
+}
+
+810.2.1 = {
+	liege = d_neupeek
+}
+
+810.2.2 = {
+	liege = d_botasa
+}
+
+810.2.3 = {
+	liege = d_tudach
+}
+
+810.2.4 = {
+	holder = 1009303
+}
+
+810.2.5 = {
+	liege = k_qyunew
+}
+
+843.2.1 = {
+	liege = d_neupeek
+}
+
+843.2.2 = {
+	liege = d_tudach
+}
+
+843.2.3 = {
+	liege = d_avuraq
+}
+
+843.2.4 = {
+	liege = d_etheodat
+}
+
+843.2.5 = {
+	liege = d_botasa
+}
+
+843.2.6 = {
+	liege = d_abibena
+}
+
+843.2.7 = {
+	liege = d_saceter
+}
+
+843.2.8 = {
+	holder = 1009576
+}
+
+866.2.1 = {
+	liege = d_abibena
+}
+
+866.2.2 = {
+	liege = d_botasa
+}
+
+866.2.3 = {
+	holder = 1012383
+}
+
+922.2.1 = {
+	liege = d_abibena
+}
+
+922.2.2 = {
+	liege = d_saceter
+}
+
+922.2.3 = {
+	holder = 1014883
+}
+
+967.2.1 = {
+	holder = 1015113
+}
+
+1009.2.1 = {
+	holder = 1017270
+}
+
+1029.2.1 = {
+	liege = d_abibena
+}
+
+1029.2.2 = {
+	liege = d_botasa
+}
+
+1029.2.3 = {
+	holder = 1019104
+}
+

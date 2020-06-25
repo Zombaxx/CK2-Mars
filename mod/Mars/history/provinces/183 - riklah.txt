@@ -1,0 +1,5 @@
+	title = c_riklah
+	max_settlements = 4
+	culture = irish
+	religion = hindu
+	b_kilalek = tribal

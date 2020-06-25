@@ -1,0 +1,5 @@
+	title = c_wamain
+	max_settlements = 3
+	culture = frisian
+	religion = baltic_pagan
+	b_roruo = tribal

@@ -1,0 +1,5 @@
+	title = c_raraya
+	max_settlements = 4
+	culture = german
+	religion = hellenic_pagan
+	b_kerabha = tribal

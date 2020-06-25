@@ -1,0 +1,5 @@
+	title = c_lumann
+	max_settlements = 2
+	culture = andalusian_arabic
+	religion = manichean
+	b_lalim = tribal

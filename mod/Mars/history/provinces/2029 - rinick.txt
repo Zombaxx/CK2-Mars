@@ -1,0 +1,5 @@
+	title = c_rinick
+	max_settlements = 2
+	culture = sogdian
+	religion = hindu
+	b_nakir = tribal

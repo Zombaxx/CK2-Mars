@@ -1,0 +1,5 @@
+	title = c_qolirai
+	max_settlements = 2
+	culture = kirghiz
+	religion = khurmazta
+	b_rarach = tribal

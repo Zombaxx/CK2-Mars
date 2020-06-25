@@ -1,0 +1,5 @@
+	title = c_ryuvayla
+	max_settlements = 2
+	culture = pommeranian
+	religion = pagan
+	b_dyuvania = tribal

@@ -1,0 +1,5 @@
+	title = c_rarofie
+	max_settlements = 3
+	culture = coptic
+	religion = samaritan
+	b_tobari = tribal

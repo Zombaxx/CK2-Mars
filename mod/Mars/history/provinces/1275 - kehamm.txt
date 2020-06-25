@@ -1,0 +1,5 @@
+	title = c_kehamm
+	max_settlements = 2
+	culture = karluk
+	religion = interface_skin
+	b_radatha = tribal

@@ -1,0 +1,5 @@
+	title = c_saruvje
+	max_settlements = 2
+	culture = komi
+	religion = cathar
+	b_rayata = tribal

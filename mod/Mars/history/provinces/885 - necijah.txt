@@ -1,0 +1,5 @@
+	title = c_necijah
+	max_settlements = 3
+	culture = khazar
+	religion = taoist
+	b_bavir = tribal

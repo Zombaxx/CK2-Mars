@@ -1,0 +1,5 @@
+	title = c_dekius
+	max_settlements = 2
+	culture = portuguese
+	religion = west_african_pagan_reformed
+	b_kalosye = tribal

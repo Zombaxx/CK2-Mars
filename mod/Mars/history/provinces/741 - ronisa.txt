@@ -1,0 +1,5 @@
+	title = c_ronisa
+	max_settlements = 2
+	culture = croatian
+	religion = interface_skin
+	b_donayor = tribal

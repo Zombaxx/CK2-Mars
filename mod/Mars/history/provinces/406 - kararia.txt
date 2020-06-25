@@ -1,0 +1,5 @@
+	title = c_kararia
+	max_settlements = 2
+	culture = gujurati
+	religion = fraticelli
+	b_lakeda = tribal

@@ -1,0 +1,5 @@
+	title = c_qilach
+	max_settlements = 2
+	culture = manden
+	religion = interface_skin
+	b_amicoriy = tribal

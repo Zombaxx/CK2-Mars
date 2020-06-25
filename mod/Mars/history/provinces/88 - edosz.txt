@@ -1,0 +1,5 @@
+	title = c_edosz
+	max_settlements = 5
+	culture = lombard
+	religion = zun_pagan
+	b_saluke = tribal

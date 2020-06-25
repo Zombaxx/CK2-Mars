@@ -1,0 +1,5 @@
+	title = c_kosz
+	max_settlements = 6
+	culture = frankish
+	religion = samaritan
+	b_bisoan = tribal

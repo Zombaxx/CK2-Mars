@@ -1,0 +1,5 @@
+	title = c_lacarid
+	max_settlements = 2
+	culture = panjabi
+	religion = zikri
+	b_rudoriy = tribal

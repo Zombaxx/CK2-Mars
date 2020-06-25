@@ -1,0 +1,5 @@
+	title = c_seola
+	max_settlements = 2
+	culture = roman
+	religion = zikri
+	b_kavam = tribal

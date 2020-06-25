@@ -1,0 +1,5 @@
+	title = c_tapo
+	max_settlements = 2
+	culture = bolghar
+	religion = interface_skin
+	b_efinyer = tribal

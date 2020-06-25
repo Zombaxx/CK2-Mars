@@ -1,0 +1,5 @@
+	title = c_raladan
+	max_settlements = 2
+	culture = khanty
+	religion = zun_pagan
+	b_ratettu = tribal

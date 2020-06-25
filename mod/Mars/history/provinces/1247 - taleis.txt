@@ -1,0 +1,5 @@
+	title = c_taleis
+	max_settlements = 2
+	culture = ashkenazi
+	religion = jain
+	b_kalarie = tribal

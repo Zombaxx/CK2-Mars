@@ -1,0 +1,5 @@
+	title = c_wabdavak
+	max_settlements = 2
+	culture = bulgarian
+	religion = finnish_pagan
+	b_rimasin = tribal

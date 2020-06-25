@@ -1,0 +1,5 @@
+	title = c_waisida
+	max_settlements = 4
+	culture = ilmenian
+	religion = qarmatian
+	b_natija = tribal

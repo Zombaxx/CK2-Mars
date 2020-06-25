@@ -1,0 +1,5 @@
+	title = c_syuvodis
+	max_settlements = 2
+	culture = bodpa
+	religion = monophysite
+	b_kiserdeg = tribal

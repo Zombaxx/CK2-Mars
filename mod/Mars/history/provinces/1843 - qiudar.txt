@@ -1,0 +1,5 @@
+	title = c_qiudar
+	max_settlements = 2
+	culture = maghreb_arabic
+	religion = monophysite
+	b_kine = tribal

@@ -1,0 +1,5 @@
+	title = c_esumura
+	max_settlements = 2
+	culture = old_saxon
+	religion = hellenic_pagan_reformed
+	b_siroa = tribal

@@ -1,0 +1,182 @@
+758.2.1 = {
+	holder = 1000019
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1001237
+	law = succ_tanistry
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	liege = d_ebodur
+}
+
+758.2.4 = {
+	holder = 1001236
+	law = succ_tanistry
+	law = cognatic_succession
+}
+
+763.2.1 = {
+	holder = 1003196
+}
+
+773.2.1 = {
+	holder = 1004758
+}
+
+804.2.1 = {
+	liege = d_tavugno
+}
+
+804.2.2 = {
+	liege = d_kahim
+}
+
+804.2.3 = {
+	liege = d_waser
+}
+
+804.2.4 = {
+	holder = 1008590
+}
+
+805.2.1 = {
+	holder = 1003753
+}
+
+811.2.1 = {
+	holder = 1008377
+}
+
+860.2.1 = {
+	holder = 1010262
+}
+
+860.2.2 = {
+	liege = k_kayesina
+}
+
+877.2.1 = {
+	liege = d_tavugno
+}
+
+877.2.2 = {
+	liege = d_kahim
+}
+
+877.2.3 = {
+	liege = d_tikilii
+}
+
+877.2.4 = {
+	liege = d_waser
+}
+
+877.2.5 = {
+	holder = 1012206
+}
+
+877.2.6 = {
+	liege = k_kayesina
+}
+
+903.2.1 = {
+	liege = d_tavugno
+}
+
+903.2.2 = {
+	liege = d_kahim
+}
+
+903.2.3 = {
+	liege = d_tikilii
+}
+
+903.2.4 = {
+	liege = d_waser
+}
+
+903.2.5 = {
+	holder = 1013316
+}
+
+903.2.6 = {
+	liege = k_kayesina
+}
+
+952.2.1 = {
+	liege = d_tavugno
+}
+
+952.2.2 = {
+	liege = d_kahim
+}
+
+952.2.3 = {
+	liege = d_tikilii
+}
+
+952.2.4 = {
+	liege = d_waser
+}
+
+952.2.5 = {
+	holder = 1014102
+}
+
+952.2.6 = {
+	liege = k_kayesina
+}
+
+971.2.1 = {
+	liege = d_tavugno
+}
+
+971.2.2 = {
+	liege = d_tikilii
+}
+
+971.2.3 = {
+	liege = d_kahim
+}
+
+971.2.4 = {
+	liege = d_waser
+}
+
+971.2.5 = {
+	holder = 1016613
+}
+
+1032.2.1 = {
+	holder = 1017997
+}
+
+1032.2.2 = {
+	liege = k_kayesina
+}
+
+1051.2.1 = {
+	liege = d_tavugno
+}
+
+1051.2.2 = {
+	liege = d_tikilii
+}
+
+1051.2.3 = {
+	liege = d_kahim
+}
+
+1051.2.4 = {
+	liege = d_waser
+}
+
+1051.2.5 = {
+	holder = 1019911
+}
+

@@ -1,0 +1,5 @@
+	title = c_boiteba
+	max_settlements = 2
+	culture = oriya
+	religion = pagan
+	b_waarajan = tribal

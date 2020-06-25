@@ -1,0 +1,5 @@
+	title = c_betille
+	max_settlements = 3
+	culture = ilmenian
+	religion = waldensian
+	b_livali = tribal

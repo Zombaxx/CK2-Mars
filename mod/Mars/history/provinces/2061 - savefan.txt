@@ -1,0 +1,5 @@
+	title = c_savefan
+	max_settlements = 4
+	culture = kannada
+	religion = monophysite
+	b_rawohn = tribal

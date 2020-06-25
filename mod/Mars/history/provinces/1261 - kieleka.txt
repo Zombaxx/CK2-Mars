@@ -1,0 +1,5 @@
+	title = c_kieleka
+	max_settlements = 2
+	culture = bolghar
+	religion = bogomilist
+	b_laufava = tribal

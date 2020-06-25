@@ -1,0 +1,5 @@
+	title = c_ehimoa
+	max_settlements = 2
+	culture = lombard
+	religion = lollard
+	b_kalunda = tribal

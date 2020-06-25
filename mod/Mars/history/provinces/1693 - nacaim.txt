@@ -1,0 +1,5 @@
+	title = c_nacaim
+	max_settlements = 4
+	culture = tamil
+	religion = paulician
+	b_emeloka = tribal

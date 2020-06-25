@@ -1,0 +1,5 @@
+	title = c_ehjeth
+	max_settlements = 2
+	culture = komi
+	religion = hellenic_pagan_reformed
+	b_rireuta = tribal

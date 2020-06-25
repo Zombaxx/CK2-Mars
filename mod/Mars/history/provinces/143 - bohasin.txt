@@ -1,0 +1,5 @@
+	title = c_bohasin
+	max_settlements = 3
+	culture = daju
+	religion = west_african_pagan
+	b_nabdurna = tribal

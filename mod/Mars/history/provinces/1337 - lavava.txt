@@ -1,0 +1,5 @@
+	title = c_lavava
+	max_settlements = 2
+	culture = old_saxon
+	religion = finnish_pagan_reformed
+	b_naveek = tribal

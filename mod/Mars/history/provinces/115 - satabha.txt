@@ -1,0 +1,5 @@
+	title = c_satabha
+	max_settlements = 3
+	culture = samoyed
+	religion = iconoclast
+	b_runeek = tribal

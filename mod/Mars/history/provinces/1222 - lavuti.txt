@@ -1,0 +1,5 @@
+	title = c_lavuti
+	max_settlements = 4
+	culture = catalan
+	religion = khurmazta
+	b_keodas = tribal

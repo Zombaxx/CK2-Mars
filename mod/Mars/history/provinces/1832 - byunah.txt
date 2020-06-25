@@ -1,0 +1,5 @@
+	title = c_byunah
+	max_settlements = 3
+	culture = mordvin
+	religion = pagan
+	b_qibuigi = tribal

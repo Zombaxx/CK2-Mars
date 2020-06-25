@@ -1,0 +1,5 @@
+	title = c_amekim
+	max_settlements = 4
+	culture = scottish
+	religion = baltic_pagan
+	b_ketayan = tribal

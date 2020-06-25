@@ -1,0 +1,5 @@
+	title = c_sakayada
+	max_settlements = 3
+	culture = egyptian_arabic
+	religion = ibadi
+	b_rakald = tribal

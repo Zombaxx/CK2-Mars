@@ -1,0 +1,5 @@
+	title = c_ryaquke
+	max_settlements = 2
+	culture = sinhala
+	religion = hellenic_pagan
+	b_talul = tribal

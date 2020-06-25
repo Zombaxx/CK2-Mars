@@ -1,0 +1,5 @@
+	title = c_karadiq
+	max_settlements = 2
+	culture = prussian
+	religion = slavic_pagan_reformed
+	b_lelala = tribal

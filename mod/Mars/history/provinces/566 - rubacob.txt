@@ -1,0 +1,5 @@
+	title = c_rubacob
+	max_settlements = 2
+	culture = khazar
+	religion = interface_skin
+	b_sekenda = tribal

@@ -1,0 +1,124 @@
+758.2.1 = {
+	holder = 1000019
+	law = succ_tanistry
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1001246
+	law = succ_tanistry
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	liege = d_wapa
+}
+
+758.2.4 = {
+	holder = 1001247
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.5 = {
+	liege = d_wapa
+}
+
+758.2.6 = {
+	holder = 1001243
+	law = succ_tanistry
+	law = cognatic_succession
+}
+
+793.2.1 = {
+	holder = 1005385
+}
+
+798.2.1 = {
+	holder = 1004759
+}
+
+841.2.1 = {
+	liege = d_araharie
+}
+
+841.2.2 = {
+	holder = 1007408
+}
+
+853.2.1 = {
+	holder = 1011829
+}
+
+865.2.1 = {
+	liege = d_wapa
+}
+
+865.2.2 = {
+	holder = 1009669
+}
+
+867.2.1 = {
+	holder = 1010732
+}
+
+868.2.1 = {
+	holder = 1012502
+}
+
+921.2.1 = {
+	liege = d_araharie
+}
+
+921.2.2 = {
+	liege = d_kicitri
+}
+
+921.2.3 = {
+	holder = 1013275
+}
+
+936.2.1 = {
+	holder = 1015015
+}
+
+970.2.1 = {
+	holder = 1015676
+}
+
+972.2.1 = {
+	holder = 1016867
+}
+
+988.2.1 = {
+	liege = d_araharie
+}
+
+988.2.2 = {
+	liege = d_wapa
+}
+
+988.2.3 = {
+	holder = 1017306
+}
+
+994.2.1 = {
+	holder = 1017749
+}
+
+1038.2.1 = {
+	holder = 1019431
+}
+
+1055.2.1 = {
+	liege = d_araharie
+}
+
+1055.2.2 = {
+	liege = d_kicitri
+}
+
+1055.2.3 = {
+	holder = 1019471
+}
+

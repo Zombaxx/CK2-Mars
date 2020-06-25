@@ -1,0 +1,5 @@
+	title = c_sedoja
+	max_settlements = 2
+	culture = polish
+	religion = iconoclast
+	b_nander = tribal

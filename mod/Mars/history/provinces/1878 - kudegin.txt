@@ -1,0 +1,5 @@
+	title = c_kudegin
+	max_settlements = 2
+	culture = hindustani
+	religion = catholic
+	b_qisiran = tribal

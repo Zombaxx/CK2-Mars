@@ -1,0 +1,5 @@
+	title = c_wisua
+	max_settlements = 2
+	culture = tamil
+	religion = taoist
+	b_akugasin = tribal

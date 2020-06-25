@@ -1,0 +1,5 @@
+	title = c_ahecam
+	max_settlements = 3
+	culture = avar
+	religion = paulician
+	b_amelarma = tribal

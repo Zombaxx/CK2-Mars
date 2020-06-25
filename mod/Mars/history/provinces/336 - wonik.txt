@@ -1,0 +1,5 @@
+	title = c_wonik
+	max_settlements = 3
+	culture = turkish
+	religion = west_african_pagan_reformed
+	b_kolena = tribal

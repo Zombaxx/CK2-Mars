@@ -1,0 +1,5 @@
+	title = c_nagipa
+	max_settlements = 5
+	culture = suebi
+	religion = karaite
+	b_tarahad = tribal

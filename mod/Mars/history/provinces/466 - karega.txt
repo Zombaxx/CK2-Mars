@@ -1,0 +1,5 @@
+	title = c_karega
+	max_settlements = 2
+	culture = assamese
+	religion = zun_pagan_reformed
+	b_syeryuan = tribal

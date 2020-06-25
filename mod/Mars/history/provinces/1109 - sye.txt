@@ -1,0 +1,5 @@
+	title = c_sye
+	max_settlements = 4
+	culture = manden
+	religion = slavic_pagan
+	b_balew = tribal

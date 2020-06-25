@@ -1,0 +1,5 @@
+	title = c_bajunno
+	max_settlements = 3
+	culture = khitan
+	religion = baltic_pagan
+	b_kajeter = tribal

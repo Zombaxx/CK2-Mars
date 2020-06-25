@@ -1,0 +1,5 @@
+	title = c_tabduida
+	max_settlements = 2
+	culture = norwegian
+	religion = west_african_pagan
+	b_sahugno = tribal

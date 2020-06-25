@@ -1,0 +1,5 @@
+	title = c_dalimon
+	max_settlements = 2
+	culture = carantanian
+	religion = aztec_reformed
+	b_kester = tribal

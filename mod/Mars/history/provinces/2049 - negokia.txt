@@ -1,0 +1,5 @@
+	title = c_negokia
+	max_settlements = 2
+	culture = khanty
+	religion = baltic_pagan
+	b_layan = tribal

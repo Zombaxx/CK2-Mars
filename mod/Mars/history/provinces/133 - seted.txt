@@ -1,0 +1,5 @@
+	title = c_seted
+	max_settlements = 2
+	culture = hungarian
+	religion = qarmatian
+	b_tutelec = tribal

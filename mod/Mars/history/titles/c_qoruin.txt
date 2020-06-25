@@ -1,0 +1,190 @@
+758.2.1 = {
+	holder = 1000000
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1000001
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	holder = 1000192
+	law = succ_tanistry
+	law = agnatic_succession
+}
+
+758.2.4 = {
+	liege = d_deleslav
+}
+
+758.2.5 = {
+	holder = 1000193
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.6 = {
+	holder = 1000189
+	law = succ_tanistry
+	law = agnatic_succession
+}
+
+758.2.7 = {
+	holder = 1003138
+}
+
+764.2.1 = {
+	liege = k_aleuta
+}
+
+767.2.1 = {
+	holder = 1004945
+}
+
+773.2.1 = {
+	liege = d_kyiguke
+}
+
+773.2.2 = {
+	holder = 1000189
+}
+
+795.2.1 = {
+	liege = d_deleslav
+}
+
+795.2.2 = {
+	holder = 1004807
+}
+
+822.2.1 = {
+	holder = 1008503
+}
+
+826.2.1 = {
+	holder = 1005182
+}
+
+828.2.1 = {
+	holder = 1007333
+}
+
+846.2.1 = {
+	liege = d_kyiguke
+}
+
+846.2.2 = {
+	liege = d_larohn
+}
+
+846.2.3 = {
+	liege = d_ehjeslav
+}
+
+846.2.4 = {
+	holder = 1010994
+}
+
+872.2.1 = {
+	liege = d_larohn
+}
+
+872.2.2 = {
+	liege = d_kyiguke
+}
+
+872.2.3 = {
+	liege = d_deleslav
+}
+
+872.2.4 = {
+	holder = 1011956
+}
+
+880.2.1 = {
+	liege = d_kyiguke
+}
+
+880.2.2 = {
+	liege = d_larohn
+}
+
+880.2.3 = {
+	liege = d_ehjeslav
+}
+
+880.2.4 = {
+	holder = 1009368
+}
+
+881.2.1 = {
+	holder = 1013067
+}
+
+913.2.1 = {
+	liege = d_larohn
+}
+
+913.2.2 = {
+	liege = d_kyiguke
+}
+
+913.2.3 = {
+	liege = d_deleslav
+}
+
+913.2.4 = {
+	holder = 1013880
+}
+
+914.2.1 = {
+	holder = 1014527
+}
+
+956.2.1 = {
+	holder = 1015341
+}
+
+970.2.1 = {
+	liege = d_kyiguke
+}
+
+970.2.2 = {
+	liege = d_larohn
+}
+
+970.2.3 = {
+	liege = d_ehjeslav
+}
+
+970.2.4 = {
+	holder = 1016265
+}
+
+974.2.1 = {
+	holder = 1016935
+}
+
+1002.2.1 = {
+	holder = 1017142
+}
+
+1040.2.1 = {
+	holder = 1018091
+}
+
+1046.2.1 = {
+	holder = 1019585
+}
+
+1051.2.1 = {
+	holder = 1019900
+}
+
+1056.2.1 = {
+	holder = 1020072
+}
+

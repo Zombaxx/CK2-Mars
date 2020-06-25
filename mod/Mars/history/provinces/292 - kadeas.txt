@@ -1,0 +1,5 @@
+	title = c_kadeas
+	max_settlements = 4
+	culture = slovieni
+	religion = tengri_pagan
+	b_rasina = tribal

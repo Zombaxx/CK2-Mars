@@ -1,0 +1,5 @@
+	title = c_kilaya
+	max_settlements = 3
+	culture = egyptian_arabic
+	religion = pagan
+	b_soza = tribal

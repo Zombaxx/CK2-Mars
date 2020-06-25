@@ -1,0 +1,5 @@
+	title = c_takius
+	max_settlements = 2
+	culture = zhangzhung
+	religion = hindu
+	b_ranihan = tribal

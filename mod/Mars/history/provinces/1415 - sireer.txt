@@ -1,0 +1,5 @@
+	title = c_sireer
+	max_settlements = 2
+	culture = armenian
+	religion = color
+	b_tenann = tribal

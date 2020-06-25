@@ -1,0 +1,5 @@
+	title = c_rabdote
+	max_settlements = 3
+	culture = castillan
+	religion = baltic_pagan
+	b_sanenda = tribal

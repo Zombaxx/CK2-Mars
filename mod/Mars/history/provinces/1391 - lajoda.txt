@@ -1,0 +1,5 @@
+	title = c_lajoda
+	max_settlements = 3
+	culture = outremer
+	religion = hellenic_pagan
+	b_dezoto = tribal

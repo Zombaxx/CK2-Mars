@@ -1,0 +1,5 @@
+	title = c_eludeter
+	max_settlements = 4
+	culture = bolghar
+	religion = shiite
+	b_kamolas = tribal

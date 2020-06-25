@@ -1,0 +1,5 @@
+	title = c_tuilaya
+	max_settlements = 2
+	culture = lettigallish
+	religion = ibadi
+	b_eguilaya = tribal

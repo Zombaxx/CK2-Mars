@@ -1,0 +1,5 @@
+	title = c_baumaug
+	max_settlements = 4
+	culture = bodpa
+	religion = waldensian
+	b_bimda = tribal

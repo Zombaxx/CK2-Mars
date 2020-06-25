@@ -1,0 +1,5 @@
+	title = c_etocic
+	max_settlements = 2
+	culture = lombard
+	religion = nestorian
+	b_edevagni = tribal

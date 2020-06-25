@@ -1,0 +1,5 @@
+	title = c_erogoljo
+	max_settlements = 3
+	culture = kurdish
+	religion = shiite
+	b_kyuvijah = tribal

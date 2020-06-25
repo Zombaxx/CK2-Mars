@@ -1,0 +1,5 @@
+	title = c_ekovke
+	max_settlements = 2
+	culture = swedish
+	religion = buddhist
+	b_qaarepi = tribal

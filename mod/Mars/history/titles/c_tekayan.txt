@@ -1,0 +1,314 @@
+758.2.1 = {
+	holder = 1000114
+	law = succ_seniority
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1003119
+	law = succ_seniority
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	liege = d_atomyuan
+}
+
+758.2.4 = {
+	holder = 1003117
+	law = succ_seniority
+	law = cognatic_succession
+}
+
+783.2.1 = {
+	liege = d_qipiek
+}
+
+783.2.2 = {
+	liege = d_tetagan
+}
+
+783.2.3 = {
+	liege = d_ewimorka
+}
+
+783.2.4 = {
+	holder = 1006035
+}
+
+783.2.5 = {
+	liege = k_raubagan
+}
+
+784.2.1 = {
+	liege = d_atomyuan
+}
+
+784.2.2 = {
+	liege = d_qipiek
+}
+
+784.2.3 = {
+	liege = d_tetagan
+}
+
+784.2.4 = {
+	liege = d_ewimorka
+}
+
+784.2.5 = {
+	holder = 1003104
+}
+
+784.2.6 = {
+	liege = k_raubagan
+}
+
+805.2.1 = {
+	liege = d_sekayan
+}
+
+805.2.2 = {
+	liege = d_tetagan
+}
+
+805.2.3 = {
+	liege = d_qipiek
+}
+
+805.2.4 = {
+	liege = d_betagan
+}
+
+805.2.5 = {
+	liege = d_narinop
+}
+
+805.2.6 = {
+	liege = d_ewimorka
+}
+
+805.2.7 = {
+	holder = 1004942
+}
+
+812.2.1 = {
+	holder = 1009063
+}
+
+836.2.1 = {
+	holder = 1010197
+}
+
+836.2.2 = {
+	liege = k_raubagan
+}
+
+842.2.1 = {
+	liege = d_sekayan
+}
+
+842.2.2 = {
+	liege = d_tetagan
+}
+
+842.2.3 = {
+	liege = d_qipiek
+}
+
+842.2.4 = {
+	liege = d_betagan
+}
+
+842.2.5 = {
+	liege = d_dilunes
+}
+
+842.2.6 = {
+	liege = d_narinop
+}
+
+842.2.7 = {
+	liege = d_ewimorka
+}
+
+842.2.8 = {
+	holder = 1011190
+}
+
+851.2.1 = {
+	holder = 1010166
+}
+
+887.2.1 = {
+	holder = 1012996
+}
+
+918.2.1 = {
+	holder = 1014748
+}
+
+918.2.2 = {
+	liege = k_raubagan
+}
+
+949.2.1 = {
+	liege = d_atomyuan
+}
+
+949.2.2 = {
+	liege = d_betagan
+}
+
+949.2.3 = {
+	liege = d_qipiek
+}
+
+949.2.4 = {
+	liege = d_tetagan
+}
+
+949.2.5 = {
+	liege = d_romiek
+}
+
+949.2.6 = {
+	liege = d_nekiam
+}
+
+949.2.7 = {
+	liege = d_dilunes
+}
+
+949.2.8 = {
+	liege = d_ewimorka
+}
+
+949.2.9 = {
+	holder = 1015196
+}
+
+949.2.10 = {
+	liege = k_raubagan
+}
+
+981.2.1 = {
+	liege = d_atomyuan
+}
+
+981.2.2 = {
+	liege = d_betagan
+}
+
+981.2.3 = {
+	liege = d_qipiek
+}
+
+981.2.4 = {
+	liege = d_tetagan
+}
+
+981.2.5 = {
+	liege = d_romiek
+}
+
+981.2.6 = {
+	liege = d_nekiam
+}
+
+981.2.7 = {
+	liege = d_dilunes
+}
+
+981.2.8 = {
+	liege = d_ewimorka
+}
+
+981.2.9 = {
+	holder = 1016451
+}
+
+981.2.10 = {
+	liege = k_raubagan
+}
+
+1024.2.1 = {
+	liege = d_atomyuan
+}
+
+1024.2.2 = {
+	liege = d_betagan
+}
+
+1024.2.3 = {
+	liege = d_qipiek
+}
+
+1024.2.4 = {
+	liege = d_tetagan
+}
+
+1024.2.5 = {
+	liege = d_romiek
+}
+
+1024.2.6 = {
+	liege = d_nekiam
+}
+
+1024.2.7 = {
+	liege = d_dilunes
+}
+
+1024.2.8 = {
+	liege = d_ewimorka
+}
+
+1024.2.9 = {
+	holder = 1017596
+}
+
+1024.2.10 = {
+	liege = k_raubagan
+}
+
+1044.2.1 = {
+	liege = d_sekayan
+}
+
+1044.2.2 = {
+	liege = d_nekiam
+}
+
+1044.2.3 = {
+	liege = d_romiek
+}
+
+1044.2.4 = {
+	liege = d_tetagan
+}
+
+1044.2.5 = {
+	liege = d_qipiek
+}
+
+1044.2.6 = {
+	liege = d_betagan
+}
+
+1044.2.7 = {
+	liege = d_dilunes
+}
+
+1044.2.8 = {
+	liege = d_narinop
+}
+
+1044.2.9 = {
+	liege = d_ewimorka
+}
+
+1044.2.10 = {
+	holder = 1019531
+}
+

@@ -1,0 +1,5 @@
+	title = c_totaqar
+	max_settlements = 2
+	culture = german
+	religion = lollard
+	b_qanaqar = tribal

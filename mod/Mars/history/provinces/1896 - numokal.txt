@@ -1,0 +1,5 @@
+	title = c_numokal
+	max_settlements = 2
+	culture = nepali
+	religion = shiite
+	b_libutlu = tribal

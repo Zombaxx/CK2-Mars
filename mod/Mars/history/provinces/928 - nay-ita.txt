@@ -1,0 +1,5 @@
+	title = c_nay-ita
+	max_settlements = 6
+	culture = hausa
+	religion = interface_skin
+	b_keinda = tribal

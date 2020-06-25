@@ -1,0 +1,5 @@
+	title = c_daareda
+	max_settlements = 3
+	culture = romanian
+	religion = norse_pagan
+	b_wuelins = tribal

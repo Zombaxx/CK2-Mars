@@ -1,0 +1,5 @@
+	title = c_senaran
+	max_settlements = 2
+	culture = tamil
+	religion = bon_reformed
+	b_radaran = tribal

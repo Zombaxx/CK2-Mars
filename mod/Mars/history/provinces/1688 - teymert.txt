@@ -1,0 +1,5 @@
+	title = c_teymert
+	max_settlements = 3
+	culture = italian
+	religion = hellenic_pagan
+	b_kaybida = tribal

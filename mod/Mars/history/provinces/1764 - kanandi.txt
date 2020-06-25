@@ -1,0 +1,5 @@
+	title = c_kanandi
+	max_settlements = 2
+	culture = old_frankish
+	religion = qarmatian
+	b_ranina = tribal

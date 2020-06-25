@@ -1,0 +1,5 @@
+	title = c_romavi
+	max_settlements = 3
+	culture = oriya
+	religion = bogomilist
+	b_dajudan = tribal

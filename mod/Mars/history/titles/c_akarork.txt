@@ -1,0 +1,206 @@
+758.2.1 = {
+	holder = 1000033
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1001819
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_bohija
+}
+
+758.2.4 = {
+	holder = 1001817
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+777.2.1 = {
+	holder = 1004882
+}
+
+813.2.1 = {
+	holder = 1008388
+}
+
+824.2.1 = {
+	holder = 1009545
+}
+
+833.2.1 = {
+	holder = 1004889
+}
+
+838.2.1 = {
+	holder = 1007370
+}
+
+839.2.1 = {
+	holder = 1011120
+}
+
+864.2.1 = {
+	holder = 1011243
+}
+
+882.2.1 = {
+	liege = d_wamudo
+}
+
+882.2.2 = {
+	liege = d_lagine
+}
+
+882.2.3 = {
+	liege = d_qisuslo
+}
+
+882.2.4 = {
+	liege = d_amohecca
+}
+
+882.2.5 = {
+	holder = 1012466
+}
+
+898.2.1 = {
+	holder = 1013850
+}
+
+910.2.1 = {
+	liege = d_qisuslo
+}
+
+910.2.2 = {
+	liege = d_lagine
+}
+
+910.2.3 = {
+	liege = d_wamudo
+}
+
+910.2.4 = {
+	liege = d_bohija
+}
+
+910.2.5 = {
+	holder = 1014371
+}
+
+919.2.1 = {
+	holder = 1014773
+}
+
+945.2.1 = {
+	holder = 1014808
+}
+
+971.2.1 = {
+	liege = d_wamudo
+}
+
+971.2.2 = {
+	liege = d_lagine
+}
+
+971.2.3 = {
+	liege = d_qisuslo
+}
+
+971.2.4 = {
+	liege = d_amohecca
+}
+
+971.2.5 = {
+	holder = 1015872
+}
+
+993.2.1 = {
+	liege = d_qisuslo
+}
+
+993.2.2 = {
+	liege = d_lagine
+}
+
+993.2.3 = {
+	liege = d_wamudo
+}
+
+993.2.4 = {
+	liege = d_bohija
+}
+
+993.2.5 = {
+	holder = 1017157
+}
+
+1013.2.1 = {
+	liege = d_wamudo
+}
+
+1013.2.2 = {
+	liege = d_lagine
+}
+
+1013.2.3 = {
+	liege = d_qisuslo
+}
+
+1013.2.4 = {
+	liege = d_amohecca
+}
+
+1013.2.5 = {
+	holder = 1017969
+}
+
+1034.2.1 = {
+	liege = d_qisuslo
+}
+
+1034.2.2 = {
+	liege = d_lagine
+}
+
+1034.2.3 = {
+	liege = d_wamudo
+}
+
+1034.2.4 = {
+	liege = d_bohija
+}
+
+1034.2.5 = {
+	holder = 1018774
+}
+
+1050.2.1 = {
+	liege = d_wamudo
+}
+
+1050.2.2 = {
+	liege = d_lagine
+}
+
+1050.2.3 = {
+	liege = d_qisuslo
+}
+
+1050.2.4 = {
+	liege = d_amohecca
+}
+
+1050.2.5 = {
+	holder = 1019436
+}
+
+1059.2.1 = {
+	holder = 1020203
+}
+

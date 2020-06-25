@@ -1,0 +1,5 @@
+	title = c_dalan
+	max_settlements = 2
+	culture = somali
+	religion = color
+	b_ternine = tribal

@@ -1,0 +1,156 @@
+758.2.1 = {
+	holder = 1000012
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1000038
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	holder = 1002016
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.4 = {
+	liege = d_rudan
+}
+
+758.2.5 = {
+	holder = 1002015
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+759.2.1 = {
+	holder = 1002034
+}
+
+794.2.1 = {
+	liege = d_tim
+}
+
+794.2.2 = {
+	holder = 1005417
+}
+
+818.2.1 = {
+	liege = d_etselo
+}
+
+818.2.2 = {
+	holder = 1008166
+}
+
+818.2.3 = {
+	liege = d_rudan
+}
+
+857.2.1 = {
+	liege = d_etselo
+}
+
+857.2.2 = {
+	liege = d_tim
+}
+
+857.2.3 = {
+	liege = d_akehucho
+}
+
+857.2.4 = {
+	holder = 1012018
+}
+
+857.2.5 = {
+	liege = k_ladudan
+}
+
+896.2.1 = {
+	liege = d_akehucho
+}
+
+896.2.2 = {
+	liege = d_etselo
+}
+
+896.2.3 = {
+	liege = d_tim
+}
+
+896.2.4 = {
+	liege = d_karija
+}
+
+896.2.5 = {
+	liege = d_bindila
+}
+
+896.2.6 = {
+	holder = 1013030
+}
+
+896.2.7 = {
+	liege = k_ladudan
+}
+
+907.2.1 = {
+	liege = d_rudan
+}
+
+907.2.2 = {
+	liege = d_bindila
+}
+
+907.2.3 = {
+	liege = d_karija
+}
+
+907.2.4 = {
+	liege = d_tim
+}
+
+907.2.5 = {
+	liege = d_etselo
+}
+
+907.2.6 = {
+	holder = 1014012
+}
+
+949.2.1 = {
+	holder = 1015548
+}
+
+973.2.1 = {
+	liege = d_tim
+}
+
+973.2.2 = {
+	liege = d_karija
+}
+
+973.2.3 = {
+	liege = d_bindila
+}
+
+973.2.4 = {
+	holder = 1016645
+}
+
+974.2.1 = {
+	holder = 1016942
+}
+
+1019.2.1 = {
+	holder = 1018673
+}
+
+1046.2.1 = {
+	holder = 1019730
+}
+

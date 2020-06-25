@@ -1,0 +1,5 @@
+	title = c_kakiraja
+	max_settlements = 2
+	culture = bohemian
+	religion = pagan
+	b_naneba = tribal

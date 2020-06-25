@@ -1,0 +1,5 @@
+	title = c_qeinavi
+	max_settlements = 3
+	culture = outremer
+	religion = ibadi
+	b_tomavi = tribal

@@ -1,0 +1,5 @@
+	title = c_wosai
+	max_settlements = 2
+	culture = songhay
+	religion = taoist
+	b_sanudan = tribal

@@ -1,0 +1,5 @@
+	title = c_tiboman
+	max_settlements = 2
+	culture = saxon
+	religion = zun_pagan
+	b_raneorge = tribal

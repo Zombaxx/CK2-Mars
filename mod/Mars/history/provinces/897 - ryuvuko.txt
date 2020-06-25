@@ -1,0 +1,5 @@
+	title = c_ryuvuko
+	max_settlements = 3
+	culture = gujurati
+	religion = interface_skin
+	b_dyuving = tribal

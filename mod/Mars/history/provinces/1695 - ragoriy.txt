@@ -1,0 +1,5 @@
+	title = c_ragoriy
+	max_settlements = 2
+	culture = gujurati
+	religion = ibadi
+	b_winuslo = tribal

@@ -1,0 +1,5 @@
+	title = c_ralrao
+	max_settlements = 2
+	culture = sogdian
+	religion = zun_pagan
+	b_sunania = tribal

@@ -1,0 +1,5 @@
+	title = c_ebeneth
+	max_settlements = 2
+	culture = mongol
+	religion = kharijite
+	b_koreth = tribal

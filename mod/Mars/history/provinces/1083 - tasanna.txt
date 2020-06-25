@@ -1,0 +1,5 @@
+	title = c_tasanna
+	max_settlements = 2
+	culture = persian
+	religion = bogomilist
+	b_nizanna = tribal

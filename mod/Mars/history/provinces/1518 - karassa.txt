@@ -1,0 +1,5 @@
+	title = c_karassa
+	max_settlements = 2
+	culture = kurdish
+	religion = cathar
+	b_livassa = tribal

@@ -1,0 +1,5 @@
+	title = c_lelozar
+	max_settlements = 2
+	culture = han
+	religion = druze
+	b_benes = tribal

@@ -1,0 +1,426 @@
+758.2.1 = {
+	holder = 1000033
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1001786
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_nuisipa
+}
+
+758.2.4 = {
+	holder = 1001785
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+758.2.5 = {
+	holder = 1003212
+}
+
+779.2.1 = {
+	liege = d_rerorgil
+}
+
+779.2.2 = {
+	liege = d_kaumine
+}
+
+779.2.3 = {
+	liege = d_solahat
+}
+
+779.2.4 = {
+	holder = 1004577
+}
+
+779.2.5 = {
+	liege = k_bakork
+}
+
+789.2.1 = {
+	liege = d_kaumine
+}
+
+789.2.2 = {
+	liege = d_rerorgil
+}
+
+789.2.3 = {
+	liege = d_renda
+}
+
+789.2.4 = {
+	liege = d_solahat
+}
+
+789.2.5 = {
+	holder = 1007230
+}
+
+826.2.1 = {
+	holder = 1004764
+}
+
+830.2.1 = {
+	holder = 1010642
+}
+
+866.2.1 = {
+	holder = 1010762
+}
+
+869.2.1 = {
+	holder = 1010623
+}
+
+884.2.1 = {
+	holder = 1011513
+}
+
+884.2.2 = {
+	liege = k_bakork
+}
+
+899.2.1 = {
+	liege = d_ruisins
+}
+
+899.2.2 = {
+	liege = d_rerorgil
+}
+
+899.2.3 = {
+	liege = d_kaumine
+}
+
+899.2.4 = {
+	liege = d_kevert
+}
+
+899.2.5 = {
+	liege = d_dicude
+}
+
+899.2.6 = {
+	liege = d_takovit
+}
+
+899.2.7 = {
+	liege = d_qakahad
+}
+
+899.2.8 = {
+	liege = d_qimda
+}
+
+899.2.9 = {
+	liege = d_kohille
+}
+
+899.2.10 = {
+	liege = d_solahat
+}
+
+899.2.11 = {
+	holder = 1013447
+}
+
+899.2.12 = {
+	liege = k_bakork
+}
+
+921.2.1 = {
+	liege = d_ruisins
+}
+
+921.2.2 = {
+	liege = d_rerorgil
+}
+
+921.2.3 = {
+	liege = d_kaumine
+}
+
+921.2.4 = {
+	liege = d_kevert
+}
+
+921.2.5 = {
+	liege = d_dicude
+}
+
+921.2.6 = {
+	liege = d_takovit
+}
+
+921.2.7 = {
+	liege = d_qakahad
+}
+
+921.2.8 = {
+	liege = d_qimda
+}
+
+921.2.9 = {
+	liege = d_kohille
+}
+
+921.2.10 = {
+	liege = d_solahat
+}
+
+921.2.11 = {
+	holder = 1014278
+}
+
+921.2.12 = {
+	liege = k_bakork
+}
+
+963.2.1 = {
+	liege = d_ruisins
+}
+
+963.2.2 = {
+	liege = d_rerorgil
+}
+
+963.2.3 = {
+	liege = d_kaumine
+}
+
+963.2.4 = {
+	liege = d_kevert
+}
+
+963.2.5 = {
+	liege = d_dicude
+}
+
+963.2.6 = {
+	liege = d_takovit
+}
+
+963.2.7 = {
+	liege = d_qakahad
+}
+
+963.2.8 = {
+	liege = d_qimda
+}
+
+963.2.9 = {
+	liege = d_kohille
+}
+
+963.2.10 = {
+	liege = d_solahat
+}
+
+963.2.11 = {
+	holder = 1016531
+}
+
+963.2.12 = {
+	liege = k_bakork
+}
+
+1012.2.1 = {
+	liege = d_ruisins
+}
+
+1012.2.2 = {
+	liege = d_rerorgil
+}
+
+1012.2.3 = {
+	liege = d_kaumine
+}
+
+1012.2.4 = {
+	liege = d_kevert
+}
+
+1012.2.5 = {
+	liege = d_dicude
+}
+
+1012.2.6 = {
+	liege = d_takovit
+}
+
+1012.2.7 = {
+	liege = d_qakahad
+}
+
+1012.2.8 = {
+	liege = d_qimda
+}
+
+1012.2.9 = {
+	liege = d_kohille
+}
+
+1012.2.10 = {
+	liege = d_solahat
+}
+
+1012.2.11 = {
+	holder = 1017590
+}
+
+1012.2.12 = {
+	liege = k_bakork
+}
+
+1014.2.1 = {
+	liege = d_ruisins
+}
+
+1014.2.2 = {
+	liege = d_rerorgil
+}
+
+1014.2.3 = {
+	liege = d_kaumine
+}
+
+1014.2.4 = {
+	liege = d_kevert
+}
+
+1014.2.5 = {
+	liege = d_dicude
+}
+
+1014.2.6 = {
+	liege = d_takovit
+}
+
+1014.2.7 = {
+	liege = d_qakahad
+}
+
+1014.2.8 = {
+	liege = d_qimda
+}
+
+1014.2.9 = {
+	liege = d_kohille
+}
+
+1014.2.10 = {
+	liege = d_solahat
+}
+
+1014.2.11 = {
+	holder = 1018484
+}
+
+1014.2.12 = {
+	liege = k_bakork
+}
+
+1047.2.1 = {
+	liege = d_ruisins
+}
+
+1047.2.2 = {
+	liege = d_rerorgil
+}
+
+1047.2.3 = {
+	liege = d_kaumine
+}
+
+1047.2.4 = {
+	liege = d_kevert
+}
+
+1047.2.5 = {
+	liege = d_dicude
+}
+
+1047.2.6 = {
+	liege = d_takovit
+}
+
+1047.2.7 = {
+	liege = d_qakahad
+}
+
+1047.2.8 = {
+	liege = d_qimda
+}
+
+1047.2.9 = {
+	liege = d_kohille
+}
+
+1047.2.10 = {
+	liege = d_solahat
+}
+
+1047.2.11 = {
+	holder = 1018808
+}
+
+1047.2.12 = {
+	liege = k_bakork
+}
+
+1058.2.1 = {
+	liege = d_ruisins
+}
+
+1058.2.2 = {
+	liege = d_rerorgil
+}
+
+1058.2.3 = {
+	liege = d_kaumine
+}
+
+1058.2.4 = {
+	liege = d_kevert
+}
+
+1058.2.5 = {
+	liege = d_dicude
+}
+
+1058.2.6 = {
+	liege = d_takovit
+}
+
+1058.2.7 = {
+	liege = d_qakahad
+}
+
+1058.2.8 = {
+	liege = d_qimda
+}
+
+1058.2.9 = {
+	liege = d_kohille
+}
+
+1058.2.10 = {
+	liege = d_solahat
+}
+
+1058.2.11 = {
+	holder = 1019806
+}
+
+1058.2.12 = {
+	liege = k_bakork
+}
+

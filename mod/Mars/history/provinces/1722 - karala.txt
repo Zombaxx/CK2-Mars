@@ -1,0 +1,5 @@
+	title = c_karala
+	max_settlements = 2
+	culture = roman
+	religion = sunni
+	b_seconne = tribal

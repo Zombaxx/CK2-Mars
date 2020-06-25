@@ -1,0 +1,5 @@
+	title = c_ebawyuan
+	max_settlements = 2
+	culture = somali
+	religion = cathar
+	b_qaruliu = tribal

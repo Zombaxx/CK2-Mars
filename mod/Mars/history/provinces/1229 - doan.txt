@@ -1,0 +1,5 @@
+	title = c_doan
+	max_settlements = 4
+	culture = panjabi
+	religion = catholic
+	b_tisuzniq = tribal

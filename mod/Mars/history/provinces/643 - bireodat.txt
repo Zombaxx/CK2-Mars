@@ -1,0 +1,5 @@
+	title = c_bireodat
+	max_settlements = 2
+	culture = ilmenian
+	religion = paulician
+	b_asibael = tribal

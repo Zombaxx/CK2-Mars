@@ -1,0 +1,5 @@
+	title = c_nanoor
+	max_settlements = 4
+	culture = coptic
+	religion = pagan
+	b_alaam = tribal

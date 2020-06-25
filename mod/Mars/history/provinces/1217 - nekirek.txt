@@ -1,0 +1,5 @@
+	title = c_nekirek
+	max_settlements = 2
+	culture = ethiopian
+	religion = druze
+	b_rekenes = tribal

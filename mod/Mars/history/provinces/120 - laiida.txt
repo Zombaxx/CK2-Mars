@@ -1,0 +1,5 @@
+	title = c_laiida
+	max_settlements = 4
+	culture = sinhala
+	religion = jain
+	b_abibegin = tribal

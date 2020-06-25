@@ -1,0 +1,5 @@
+	title = c_eragahad
+	max_settlements = 2
+	culture = jurchen
+	religion = orthodox
+	b_kohipa = tribal

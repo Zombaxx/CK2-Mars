@@ -1,0 +1,5 @@
+	title = c_kamudan
+	max_settlements = 3
+	culture = coptic
+	religion = taoist
+	b_rehund = tribal

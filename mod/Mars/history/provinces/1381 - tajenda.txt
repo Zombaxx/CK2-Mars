@@ -1,0 +1,5 @@
+	title = c_tajenda
+	max_settlements = 4
+	culture = assyrian
+	religion = buddhist
+	b_bamele = tribal

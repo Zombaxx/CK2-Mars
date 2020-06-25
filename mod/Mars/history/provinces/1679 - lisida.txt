@@ -1,0 +1,5 @@
+	title = c_lisida
+	max_settlements = 5
+	culture = hindustani
+	religion = buddhist
+	b_bicudo = tribal

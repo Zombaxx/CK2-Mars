@@ -1,0 +1,5 @@
+	title = c_kabdele
+	max_settlements = 2
+	culture = catalan
+	religion = paulician
+	b_dubijah = tribal

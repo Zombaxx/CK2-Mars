@@ -1,0 +1,5 @@
+	title = c_torutlu
+	max_settlements = 2
+	culture = uyghur
+	religion = samaritan
+	b_byulre = tribal

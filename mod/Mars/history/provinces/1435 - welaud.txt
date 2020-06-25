@@ -1,0 +1,5 @@
+	title = c_welaud
+	max_settlements = 2
+	culture = coptic
+	religion = norse_pagan_reformed
+	b_qoruin = tribal

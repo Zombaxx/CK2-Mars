@@ -1,0 +1,5 @@
+	title = c_lanna
+	max_settlements = 2
+	culture = lombard
+	religion = bon_reformed
+	b_bibanna = tribal

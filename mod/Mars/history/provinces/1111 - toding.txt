@@ -1,0 +1,5 @@
+	title = c_toding
+	max_settlements = 3
+	culture = scottish
+	religion = color
+	b_nicuone = tribal

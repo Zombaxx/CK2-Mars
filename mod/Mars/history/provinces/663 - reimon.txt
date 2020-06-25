@@ -1,0 +1,5 @@
+	title = c_reimon
+	max_settlements = 4
+	culture = swedish
+	religion = lollard
+	b_kamoses = tribal

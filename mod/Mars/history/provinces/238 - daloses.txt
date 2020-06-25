@@ -1,0 +1,5 @@
+	title = c_daloses
+	max_settlements = 4
+	culture = komi
+	religion = jain
+	b_lanint = tribal

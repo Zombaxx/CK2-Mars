@@ -1,0 +1,5 @@
+	title = c_dorula
+	max_settlements = 2
+	culture = armenian
+	religion = fraticelli
+	b_selula = tribal

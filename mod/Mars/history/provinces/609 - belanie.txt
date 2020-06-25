@@ -1,0 +1,5 @@
+	title = c_belanie
+	max_settlements = 2
+	culture = coptic
+	religion = messalian
+	b_baram = tribal

@@ -1,0 +1,5 @@
+	title = c_rarayla
+	max_settlements = 2
+	culture = greek
+	religion = norse_pagan
+	b_kiravid = tribal

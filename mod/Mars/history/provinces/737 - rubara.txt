@@ -1,0 +1,5 @@
+	title = c_rubara
+	max_settlements = 2
+	culture = levantine_arabic
+	religion = iconoclast
+	b_bifella = tribal

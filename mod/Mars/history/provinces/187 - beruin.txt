@@ -1,0 +1,5 @@
+	title = c_beruin
+	max_settlements = 2
+	culture = volhynian
+	religion = color
+	b_wageer = tribal

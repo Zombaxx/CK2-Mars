@@ -1,0 +1,5 @@
+	title = c_borine
+	max_settlements = 2
+	culture = karluk
+	religion = manichean
+	b_kiculia = tribal

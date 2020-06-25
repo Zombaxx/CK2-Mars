@@ -1,0 +1,5 @@
+	title = c_sahins
+	max_settlements = 2
+	culture = suebi
+	religion = manichean
+	b_liatila = tribal

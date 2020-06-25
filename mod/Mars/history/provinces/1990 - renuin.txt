@@ -1,0 +1,5 @@
+	title = c_renuin
+	max_settlements = 2
+	culture = andalusian_arabic
+	religion = interface_skin
+	b_akinann = tribal

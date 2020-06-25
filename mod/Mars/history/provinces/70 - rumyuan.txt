@@ -1,0 +1,5 @@
+	title = c_rumyuan
+	max_settlements = 2
+	culture = irish
+	religion = fraticelli
+	b_dubirai = tribal

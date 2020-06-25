@@ -1,0 +1,5 @@
+	title = c_sinecca
+	max_settlements = 2
+	culture = hausa
+	religion = yazidi
+	b_navanka = tribal

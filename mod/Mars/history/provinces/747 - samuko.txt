@@ -1,0 +1,5 @@
+	title = c_samuko
+	max_settlements = 4
+	culture = tamil
+	religion = manichean
+	b_tameter = tribal

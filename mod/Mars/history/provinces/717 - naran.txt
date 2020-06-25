@@ -1,0 +1,5 @@
+	title = c_naran
+	max_settlements = 3
+	culture = croatian
+	religion = bon
+	b_ralassa = tribal

@@ -1,0 +1,5 @@
+	title = c_togyuk
+	max_settlements = 2
+	culture = lettigallish
+	religion = west_african_pagan
+	b_logoyan = tribal

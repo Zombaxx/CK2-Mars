@@ -1,0 +1,5 @@
+	title = c_sipac
+	max_settlements = 2
+	culture = english
+	religion = zoroastrian
+	b_bolad = tribal

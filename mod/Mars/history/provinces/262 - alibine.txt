@@ -1,0 +1,5 @@
+	title = c_alibine
+	max_settlements = 3
+	culture = kurdish
+	religion = slavic_pagan
+	b_qacaaq = tribal

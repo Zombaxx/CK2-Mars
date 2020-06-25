@@ -1,0 +1,5 @@
+	title = c_rindik
+	max_settlements = 2
+	culture = greek
+	religion = interface_skin
+	b_kajettu = tribal

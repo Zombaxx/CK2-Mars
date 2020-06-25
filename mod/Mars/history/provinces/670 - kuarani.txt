@@ -1,0 +1,5 @@
+	title = c_kuarani
+	max_settlements = 2
+	culture = greek
+	religion = iconoclast
+	b_ehjeram = tribal

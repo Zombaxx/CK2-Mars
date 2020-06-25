@@ -1,0 +1,5 @@
+	title = c_qumirai
+	max_settlements = 3
+	culture = kirghiz
+	religion = zikri
+	b_tolayya = tribal

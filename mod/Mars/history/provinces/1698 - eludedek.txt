@@ -1,0 +1,5 @@
+	title = c_eludedek
+	max_settlements = 2
+	culture = kanuri
+	religion = paulician
+	b_ricine = tribal

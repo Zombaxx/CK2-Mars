@@ -1,0 +1,5 @@
+	title = c_amelec
+	max_settlements = 5
+	culture = castillan
+	religion = messalian
+	b_wumilvi = tribal

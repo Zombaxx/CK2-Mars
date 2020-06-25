@@ -1,0 +1,5 @@
+	title = c_wemamini
+	max_settlements = 2
+	culture = tocharian
+	religion = ibadi
+	b_kimala = tribal

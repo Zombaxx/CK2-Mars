@@ -1,0 +1,5 @@
+	title = c_nokalram
+	max_settlements = 2
+	culture = frankish
+	religion = west_african_pagan
+	b_amalutuq = tribal

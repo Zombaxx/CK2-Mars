@@ -1,0 +1,5 @@
+	title = c_ruver
+	max_settlements = 2
+	culture = bodpa
+	religion = lollard
+	b_kayer = tribal

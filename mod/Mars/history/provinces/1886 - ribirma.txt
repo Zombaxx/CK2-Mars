@@ -1,0 +1,5 @@
+	title = c_ribirma
+	max_settlements = 2
+	culture = welsh
+	religion = bon_reformed
+	b_bamutlu = tribal

@@ -1,0 +1,5 @@
+	title = c_neatda
+	max_settlements = 2
+	culture = ilmenian
+	religion = yazidi
+	b_sinajan = tribal

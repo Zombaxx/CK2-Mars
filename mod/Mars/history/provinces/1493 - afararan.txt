@@ -1,0 +1,5 @@
+	title = c_afararan
+	max_settlements = 2
+	culture = english
+	religion = orthodox
+	b_lenobos = tribal

@@ -1,0 +1,5 @@
+	title = c_naravid
+	max_settlements = 4
+	culture = frankish
+	religion = color
+	b_runanna = tribal

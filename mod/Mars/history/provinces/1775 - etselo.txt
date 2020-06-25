@@ -1,0 +1,5 @@
+	title = c_etselo
+	max_settlements = 2
+	culture = prussian
+	religion = aztec
+	b_seluda = tribal

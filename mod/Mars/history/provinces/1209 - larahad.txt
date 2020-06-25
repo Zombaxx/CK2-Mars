@@ -1,0 +1,5 @@
+	title = c_larahad
+	max_settlements = 3
+	culture = sephardi
+	religion = interface_skin
+	b_naidork = tribal

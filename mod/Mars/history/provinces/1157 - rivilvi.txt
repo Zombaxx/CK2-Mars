@@ -1,0 +1,5 @@
+	title = c_rivilvi
+	max_settlements = 4
+	culture = afghan
+	religion = mazdaki
+	b_tumalta = tribal

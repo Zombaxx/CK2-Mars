@@ -1,0 +1,5 @@
+	title = c_wavava
+	max_settlements = 2
+	culture = soninke
+	religion = west_african_pagan
+	b_beir = tribal

@@ -1,0 +1,5 @@
+	title = c_sumuone
+	max_settlements = 2
+	culture = marathi
+	religion = zoroastrian
+	b_taheas = tribal

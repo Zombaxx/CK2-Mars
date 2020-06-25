@@ -1,0 +1,5 @@
+	title = c_wailm
+	max_settlements = 2
+	culture = breton
+	religion = baltic_pagan
+	b_rajeek = tribal

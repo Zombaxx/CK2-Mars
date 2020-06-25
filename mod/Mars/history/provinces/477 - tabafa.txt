@@ -1,0 +1,5 @@
+	title = c_tabafa
+	max_settlements = 2
+	culture = sumpa
+	religion = jain
+	b_lahaan = tribal

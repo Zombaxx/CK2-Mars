@@ -1,0 +1,66 @@
+758.2.1 = {
+	holder = 1000052
+	law = succ_feudal_elective
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1002759
+	law = succ_feudal_elective
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	liege = d_waranca
+}
+
+758.2.4 = {
+	holder = 1002757
+	law = succ_feudal_elective
+	law = cognatic_succession
+}
+
+804.2.1 = {
+	holder = 1008402
+}
+
+842.2.1 = {
+	holder = 1008174
+}
+
+862.2.1 = {
+	holder = 1010031
+}
+
+871.2.1 = {
+	holder = 1012471
+}
+
+911.2.1 = {
+	holder = 1013409
+}
+
+921.2.1 = {
+	holder = 1014851
+}
+
+957.2.1 = {
+	holder = 1015680
+}
+
+965.2.1 = {
+	holder = 1016363
+}
+
+1027.2.1 = {
+	holder = 1017040
+}
+
+1037.2.1 = {
+	holder = 1019083
+}
+
+1044.2.1 = {
+	holder = 1019678
+}
+

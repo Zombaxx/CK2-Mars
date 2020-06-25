@@ -1,0 +1,5 @@
+	title = c_loter
+	max_settlements = 2
+	culture = dalmatian
+	religion = finnish_pagan_reformed
+	b_achori = tribal

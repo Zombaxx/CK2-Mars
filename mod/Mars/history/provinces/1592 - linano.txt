@@ -1,0 +1,5 @@
+	title = c_linano
+	max_settlements = 2
+	culture = egyptian_arabic
+	religion = baltic_pagan
+	b_tarude = tribal
